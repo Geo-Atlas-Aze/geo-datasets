@@ -2,10 +2,10 @@
   "country": "az",
   "datasetVersion": "2.0.0",
   "generatedAt": "2026-07-24T16:14:51.575Z",
-  "fileCount": 623,
-  "rawFileCount": 623,
+  "fileCount": 626,
+  "rawFileCount": 626,
   "compressedFileCount": 0,
-  "totalBytes": 475800137,
+  "totalBytes": 475804624,
   "entries": [
     {
       "path": "analytics/analytics-indicators.index.json",
@@ -4177,10 +4177,37 @@
     {
       "path": "checksums.json",
       "codec": "none",
-      "sizeBytes": 100852,
+      "sizeBytes": 101331,
       "checksum": {
         "algorithm": "sha256",
-        "value": "82364064dd4f221bee9cb09b077b9c586f81b6030370b21309c4c24879ac2dfb"
+        "value": "7c003cdcbcfeae68cf2c09838e040b0689c7909b4d573c274f03d2a18bb5c667"
+      }
+    },
+    {
+      "path": "classifications/classifications.index.json",
+      "codec": "none",
+      "sizeBytes": 2015,
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "3fcfff6937b00cd24701373d1a5c4138980a4e5444ca5aa63fcde56f1c3cf648"
+      }
+    },
+    {
+      "path": "entities/entities-curated-baku.json",
+      "codec": "none",
+      "sizeBytes": 1789,
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "9730d83c8e1421fa62898b95ceba5193d89144e8bfa63846a05f97ab72531445"
+      }
+    },
+    {
+      "path": "entities/entities.index.json",
+      "codec": "none",
+      "sizeBytes": 529,
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "88e5a4ce35fdb9a8cb8445e9d54047f35937e5fa9ca5667659960ebc6e147433"
       }
     },
     {
@@ -4195,10 +4222,10 @@
     {
       "path": "manifest.json",
       "codec": "none",
-      "sizeBytes": 292269,
+      "sizeBytes": 293510,
       "checksum": {
         "algorithm": "sha256",
-        "value": "0f8685035acf5997b19a4d6bbb63d642ca0a9b917913e5bf122389f86d47dde6"
+        "value": "f3bd31bb8aa64981181b7cd83ea659fdc5b4a7af550e27aacad5faeb2dbce510"
       },
       "sha256": "6ab1916b508ab21576173c7f8593c7efa4fa8eac7aa8264f1155fc79204d7afe"
     },
