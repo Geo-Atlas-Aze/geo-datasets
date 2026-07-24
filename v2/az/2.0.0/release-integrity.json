@@ -5,7 +5,7 @@
   "fileCount": 623,
   "rawFileCount": 623,
   "compressedFileCount": 0,
-  "totalBytes": 494705416,
+  "totalBytes": 475800137,
   "entries": [
     {
       "path": "analytics/analytics-indicators.index.json",
@@ -4205,10 +4205,10 @@
     {
       "path": "search/search-aliases.json",
       "codec": "none",
-      "sizeBytes": 26093969,
+      "sizeBytes": 7188690,
       "checksum": {
         "algorithm": "sha256",
-        "value": "add744fc754d1595716c16cd49d2fd03c887ba1664a4462c5edfe6b0aeffd9b7"
+        "value": "cf8fdb67d95d5a461d27d54f9dfa86e1f56abdef69b648920686232d1b921144"
       }
     },
     {
@@ -5240,10 +5240,10 @@
     {
       "path": "search/search-statistics.json",
       "codec": "none",
-      "sizeBytes": 482,
+      "sizeBytes": 481,
       "checksum": {
         "algorithm": "sha256",
-        "value": "b224a82946b7c6e9a304bc79d514a4861203223328a5abd418ac43a7e78b6b1f"
+        "value": "e59fdff2159acf4d4ead7b735f95ff8b4d82842e5e268bbe92b126fba6950aa5"
       }
     },
     {
@@ -5609,10 +5609,10 @@
     {
       "path": "search/search.index.json",
       "codec": "none",
-      "sizeBytes": 757,
+      "sizeBytes": 756,
       "checksum": {
         "algorithm": "sha256",
-        "value": "ec152d92f22fbfe5ccc605377995a73a28c9263338d6e5cc26ff6e88f09b366b"
+        "value": "493f5b8b4430b3f14df398176c23cce695aae1903018ab22f9be56be7a6a27aa"
       }
     }
   ]
