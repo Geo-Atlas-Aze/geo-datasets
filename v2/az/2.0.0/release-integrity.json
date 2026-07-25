@@ -2,10 +2,10 @@
   "country": "az",
   "datasetVersion": "2.0.0",
   "generatedAt": "2026-07-24T16:14:51.575Z",
-  "fileCount": 626,
-  "rawFileCount": 626,
+  "fileCount": 627,
+  "rawFileCount": 627,
   "compressedFileCount": 0,
-  "totalBytes": 475804624,
+  "totalBytes": 475814026,
   "entries": [
     {
       "path": "analytics/analytics-indicators.index.json",
@@ -4177,10 +4177,10 @@
     {
       "path": "checksums.json",
       "codec": "none",
-      "sizeBytes": 101331,
+      "sizeBytes": 101480,
       "checksum": {
         "algorithm": "sha256",
-        "value": "7c003cdcbcfeae68cf2c09838e040b0689c7909b4d573c274f03d2a18bb5c667"
+        "value": "8f620db962d632d2fcc3a3f545cd36228294b192e4109d4528c72573983ce5ae"
       }
     },
     {
@@ -4211,6 +4211,15 @@
       }
     },
     {
+      "path": "hierarchy/hierarchy.json",
+      "codec": "none",
+      "sizeBytes": 7682,
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "eb2949e6afcb86a4d2ab41651f4b2953615cfdf6fb96de28b21053cc1bde9bd2"
+      }
+    },
+    {
       "path": "indexes/chunks.index.json",
       "codec": "none",
       "sizeBytes": 149418,
@@ -4222,10 +4231,10 @@
     {
       "path": "manifest.json",
       "codec": "none",
-      "sizeBytes": 293510,
+      "sizeBytes": 293953,
       "checksum": {
         "algorithm": "sha256",
-        "value": "f3bd31bb8aa64981181b7cd83ea659fdc5b4a7af550e27aacad5faeb2dbce510"
+        "value": "83247d42a1d573bc52f577eccd8e26ae094dc57cea02dd5e76425d861498b715"
       },
       "sha256": "6ab1916b508ab21576173c7f8593c7efa4fa8eac7aa8264f1155fc79204d7afe"
     },
