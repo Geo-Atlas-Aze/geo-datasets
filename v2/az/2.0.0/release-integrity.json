@@ -2,10 +2,10 @@
   "country": "az",
   "datasetVersion": "2.0.0",
   "generatedAt": "2026-07-24T16:14:51.575Z",
-  "fileCount": 629,
-  "rawFileCount": 629,
+  "fileCount": 630,
+  "rawFileCount": 630,
   "compressedFileCount": 0,
-  "totalBytes": 475826567,
+  "totalBytes": 475830528,
   "entries": [
     {
       "path": "analytics/analytics-indicators.index.json",
@@ -4195,10 +4195,10 @@
     {
       "path": "checksums.json",
       "codec": "none",
-      "sizeBytes": 101792,
+      "sizeBytes": 101937,
       "checksum": {
         "algorithm": "sha256",
-        "value": "74f036e9f24ad81bc1d04d306c571b3ec58c22b558a0bbed190dc0b71bea56ed"
+        "value": "afd79d8875d596b569231c69c7c1852d0bf791b0871c56d3721758308d20a4b0"
       }
     },
     {
@@ -4249,12 +4249,21 @@
     {
       "path": "manifest.json",
       "codec": "none",
-      "sizeBytes": 294642,
+      "sizeBytes": 295061,
       "checksum": {
         "algorithm": "sha256",
-        "value": "e83dd6091d15bdb4a2aa2ec26ce3e4a61414a70030f68eada6335c22eb298619"
+        "value": "71ad390d923cea88a8d1847541f85beb55c68a6652a9be0c83106da572434998"
       },
       "sha256": "6ab1916b508ab21576173c7f8593c7efa4fa8eac7aa8264f1155fc79204d7afe"
+    },
+    {
+      "path": "pois/pois.index.json",
+      "codec": "none",
+      "sizeBytes": 3397,
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "53e208654933e901ccdf097bd3626d410214ec007ccb6acea8cf5a34fd91dfd4"
+      }
     },
     {
       "path": "search/search-aliases.json",
