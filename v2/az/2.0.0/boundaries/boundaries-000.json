@@ -1,0 +1,569 @@
+{
+  "artifact": "boundaries",
+  "chunkId": "0",
+  "key": "0",
+  "index": 0,
+  "count": 14,
+  "items": [
+    {
+      "id": "az",
+      "area": "az",
+      "adminLevel": 0,
+      "kind": "Country",
+      "name": "Azərbaycan",
+      "bbox": [
+        44.8,
+        38.4,
+        50.4,
+        41.9
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.8,
+              38.4
+            ],
+            [
+              50.4,
+              38.4
+            ],
+            [
+              50.4,
+              41.9
+            ],
+            [
+              44.8,
+              41.9
+            ],
+            [
+              44.8,
+              38.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku",
+      "area": "az.baku",
+      "adminLevel": 2,
+      "kind": "City",
+      "name": "Bakı",
+      "bbox": [
+        49.7,
+        40.3,
+        50.15,
+        40.55
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7,
+              40.3
+            ],
+            [
+              50.15,
+              40.3
+            ],
+            [
+              50.15,
+              40.55
+            ],
+            [
+              49.7,
+              40.55
+            ],
+            [
+              49.7,
+              40.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.sumqayit",
+      "area": "az.sumqayit",
+      "adminLevel": 2,
+      "kind": "City",
+      "name": "Sumqayıt",
+      "bbox": [
+        49.55,
+        40.52,
+        49.78,
+        40.65
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.55,
+              40.52
+            ],
+            [
+              49.78,
+              40.52
+            ],
+            [
+              49.78,
+              40.65
+            ],
+            [
+              49.55,
+              40.65
+            ],
+            [
+              49.55,
+              40.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.narimanov",
+      "area": "az.baku.narimanov",
+      "adminLevel": 3,
+      "kind": "District",
+      "name": "Nərimanov",
+      "bbox": [
+        49.84,
+        40.39,
+        49.9,
+        40.43
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.84,
+              40.39
+            ],
+            [
+              49.9,
+              40.39
+            ],
+            [
+              49.9,
+              40.43
+            ],
+            [
+              49.84,
+              40.43
+            ],
+            [
+              49.84,
+              40.39
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.nasimi",
+      "area": "az.baku.nasimi",
+      "adminLevel": 3,
+      "kind": "District",
+      "name": "Nəsimi",
+      "bbox": [
+        49.82,
+        40.37,
+        49.88,
+        40.41
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.82,
+              40.37
+            ],
+            [
+              49.88,
+              40.37
+            ],
+            [
+              49.88,
+              40.41
+            ],
+            [
+              49.82,
+              40.41
+            ],
+            [
+              49.82,
+              40.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.yasamal",
+      "area": "az.baku.yasamal",
+      "adminLevel": 3,
+      "kind": "District",
+      "name": "Yasamal",
+      "bbox": [
+        49.78,
+        40.36,
+        49.86,
+        40.42
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.78,
+              40.36
+            ],
+            [
+              49.86,
+              40.36
+            ],
+            [
+              49.86,
+              40.42
+            ],
+            [
+              49.78,
+              40.42
+            ],
+            [
+              49.78,
+              40.36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.sabail",
+      "area": "az.baku.sabail",
+      "adminLevel": 3,
+      "kind": "District",
+      "name": "Səbail",
+      "bbox": [
+        49.82,
+        40.34,
+        49.9,
+        40.39
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.82,
+              40.34
+            ],
+            [
+              49.9,
+              40.34
+            ],
+            [
+              49.9,
+              40.39
+            ],
+            [
+              49.82,
+              40.39
+            ],
+            [
+              49.82,
+              40.34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.khatai",
+      "area": "az.baku.khatai",
+      "adminLevel": 3,
+      "kind": "District",
+      "name": "Xətai",
+      "bbox": [
+        49.88,
+        40.36,
+        49.98,
+        40.42
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.88,
+              40.36
+            ],
+            [
+              49.98,
+              40.36
+            ],
+            [
+              49.98,
+              40.42
+            ],
+            [
+              49.88,
+              40.42
+            ],
+            [
+              49.88,
+              40.36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.shuvalan",
+      "area": "az.baku.shuvalan",
+      "adminLevel": 4,
+      "kind": "Settlement",
+      "name": "Şüvəlan",
+      "bbox": [
+        50.05,
+        40.45,
+        50.2,
+        40.52
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.05,
+              40.45
+            ],
+            [
+              50.2,
+              40.45
+            ],
+            [
+              50.2,
+              40.52
+            ],
+            [
+              50.05,
+              40.52
+            ],
+            [
+              50.05,
+              40.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.icherisheher",
+      "area": "az.baku.icherisheher",
+      "adminLevel": 5,
+      "kind": "Popular",
+      "name": "İçərişəhər",
+      "bbox": [
+        49.999,
+        40.477,
+        50.079,
+        40.537
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.999,
+              40.477
+            ],
+            [
+              50.079,
+              40.477
+            ],
+            [
+              50.079,
+              40.537
+            ],
+            [
+              49.999,
+              40.537
+            ],
+            [
+              49.999,
+              40.477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.fountains",
+      "area": "az.baku.fountains",
+      "adminLevel": 5,
+      "kind": "Popular",
+      "name": "Fəvvarələr Meydanı",
+      "bbox": [
+        49.771,
+        40.51499999999999,
+        49.851,
+        40.574999999999996
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.771,
+              40.51499999999999
+            ],
+            [
+              49.851,
+              40.51499999999999
+            ],
+            [
+              49.851,
+              40.574999999999996
+            ],
+            [
+              49.771,
+              40.574999999999996
+            ],
+            [
+              49.771,
+              40.51499999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.28may",
+      "area": "az.baku.28may",
+      "adminLevel": 5,
+      "kind": "Popular",
+      "name": "28 May",
+      "bbox": [
+        49.675000000000004,
+        40.379999999999995,
+        49.755,
+        40.44
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.675000000000004,
+              40.379999999999995
+            ],
+            [
+              49.755,
+              40.379999999999995
+            ],
+            [
+              49.755,
+              40.44
+            ],
+            [
+              49.675000000000004,
+              40.44
+            ],
+            [
+              49.675000000000004,
+              40.379999999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.portbaku",
+      "area": "az.baku.portbaku",
+      "adminLevel": 5,
+      "kind": "Popular",
+      "name": "Port Baku",
+      "bbox": [
+        49.81400000000001,
+        40.221,
+        49.894000000000005,
+        40.281
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.81400000000001,
+              40.221
+            ],
+            [
+              49.894000000000005,
+              40.221
+            ],
+            [
+              49.894000000000005,
+              40.281
+            ],
+            [
+              49.81400000000001,
+              40.281
+            ],
+            [
+              49.81400000000001,
+              40.221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "az.baku.ganjlik",
+      "area": "az.baku.ganjlik",
+      "adminLevel": 5,
+      "kind": "Metro",
+      "name": "Gənclik",
+      "bbox": [
+        49.86000000000001,
+        40.400999999999996,
+        49.940000000000005,
+        40.461
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.86000000000001,
+              40.400999999999996
+            ],
+            [
+              49.940000000000005,
+              40.400999999999996
+            ],
+            [
+              49.940000000000005,
+              40.461
+            ],
+            [
+              49.86000000000001,
+              40.461
+            ],
+            [
+              49.86000000000001,
+              40.400999999999996
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

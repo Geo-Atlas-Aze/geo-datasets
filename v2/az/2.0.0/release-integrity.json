@@ -2,10 +2,10 @@
   "country": "az",
   "datasetVersion": "2.0.0",
   "generatedAt": "2026-07-24T16:14:51.575Z",
-  "fileCount": 627,
-  "rawFileCount": 627,
+  "fileCount": 629,
+  "rawFileCount": 629,
   "compressedFileCount": 0,
-  "totalBytes": 475814026,
+  "totalBytes": 475826567,
   "entries": [
     {
       "path": "analytics/analytics-indicators.index.json",
@@ -4175,12 +4175,30 @@
       }
     },
     {
-      "path": "checksums.json",
+      "path": "boundaries/boundaries-000.json",
       "codec": "none",
-      "sizeBytes": 101480,
+      "sizeBytes": 10283,
       "checksum": {
         "algorithm": "sha256",
-        "value": "8f620db962d632d2fcc3a3f545cd36228294b192e4109d4528c72573983ce5ae"
+        "value": "a9e841ba7917e48fd0680b0f9d440715e6ae1688f7feb38e389671defb9e7c8d"
+      }
+    },
+    {
+      "path": "boundaries/boundaries.index.json",
+      "codec": "none",
+      "sizeBytes": 156,
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "95614c06d69989ff1ba3ad6cf3053795f5ad3603ee45be0c15bcf0ebd91dbb13"
+      }
+    },
+    {
+      "path": "checksums.json",
+      "codec": "none",
+      "sizeBytes": 101792,
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "74f036e9f24ad81bc1d04d306c571b3ec58c22b558a0bbed190dc0b71bea56ed"
       }
     },
     {
@@ -4222,19 +4240,19 @@
     {
       "path": "indexes/chunks.index.json",
       "codec": "none",
-      "sizeBytes": 149418,
+      "sizeBytes": 149927,
       "checksum": {
         "algorithm": "sha256",
-        "value": "e6c1dfa31a5a9155483e1770c644b6a5f23b583a1e85bf475ae29fc9f0ef6ecb"
+        "value": "a98be9ec30ab8be3c9ccdf10b0ea8149ad1be5432ee3a4edde024b84a6d64e56"
       }
     },
     {
       "path": "manifest.json",
       "codec": "none",
-      "sizeBytes": 293953,
+      "sizeBytes": 294642,
       "checksum": {
         "algorithm": "sha256",
-        "value": "83247d42a1d573bc52f577eccd8e26ae094dc57cea02dd5e76425d861498b715"
+        "value": "e83dd6091d15bdb4a2aa2ec26ce3e4a61414a70030f68eada6335c22eb298619"
       },
       "sha256": "6ab1916b508ab21576173c7f8593c7efa4fa8eac7aa8264f1155fc79204d7afe"
     },
