@@ -1,0 +1,127 @@
+{
+  "version": "4.0.0-baku-khatai",
+  "slice": "B6",
+  "inventoryCount": 16,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.khatai.ag-seher",
+      "name": "Ağ Şəhər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/326768905"
+    },
+    {
+      "id": "az.baku.khatai.bileyen-usaq-bagcasi",
+      "name": "Biləyən Uşaq Bağçası",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1187417528"
+    },
+    {
+      "id": "az.baku.khatai.ehmedli",
+      "name": "Əhmədli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/190553274"
+    },
+    {
+      "id": "az.baku.khatai.gozel-heyat",
+      "name": "Gözəl Həyat",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/355448128"
+    },
+    {
+      "id": "az.baku.khatai.hezi-aslanov",
+      "name": "Həzi Aslanov",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/1880384546"
+    },
+    {
+      "id": "az.baku.khatai.hezi-aslanov-qesebesi",
+      "name": "Həzi Aslanov Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/253442963"
+    },
+    {
+      "id": "az.baku.khatai.highland-residence-baku",
+      "name": "Highland Residence Baku",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1188892428"
+    },
+    {
+      "id": "az.baku.khatai.xetai-park-yk",
+      "name": "Xətai Park YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1024739089"
+    },
+    {
+      "id": "az.baku.khatai.knightsbridge-residence",
+      "name": "Knightsbridge Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1066553784"
+    },
+    {
+      "id": "az.baku.khatai.mirze-davud-mehlesi",
+      "name": "Mirzə Davud Məhləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/371360293"
+    },
+    {
+      "id": "az.baku.khatai.nzs-qesebesi",
+      "name": "NZS Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/366270839"
+    },
+    {
+      "id": "az.baku.khatai.paris-evleri",
+      "name": "Paris Evləri",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/355448129"
+    },
+    {
+      "id": "az.baku.khatai.ugur-1-yk",
+      "name": "Uğur 1 YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1138150345"
+    },
+    {
+      "id": "az.baku.khatai.upd-qesebesi",
+      "name": "UPD Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/384716080"
+    },
+    {
+      "id": "az.baku.khatai.zeytunluq-yasayis-sahesi",
+      "name": "Zeytunluq Yaşayış Sahəsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1083040798"
+    },
+    {
+      "id": "az.baku.khatai.zig",
+      "name": "Zığ",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/3582597593"
+    }
+  ],
+  "landmarks": 1076,
+  "metro": 10,
+  "seedAdded": 25,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 317,
+  "debt": [],
+  "landOnly": true
+}
