@@ -1,0 +1,90 @@
+{
+  "version": "4.0.0-baku-nasimi",
+  "slice": "B2",
+  "inventoryCount": 11,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.nasimi.1-ci-alatava",
+      "name": "1-ci Alatava",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:relation/21262837"
+    },
+    {
+      "id": "az.baku.nasimi.1-ci-mikrorayon",
+      "name": "1-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/176164128"
+    },
+    {
+      "id": "az.baku.nasimi.2-ci-mikrorayon",
+      "name": "2-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/274645076"
+    },
+    {
+      "id": "az.baku.nasimi.3-cu-mikrorayon",
+      "name": "3-cü mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1207132444"
+    },
+    {
+      "id": "az.baku.nasimi.4-cu-mikrorayon",
+      "name": "4-cü mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1322482940"
+    },
+    {
+      "id": "az.baku.nasimi.5-ci-mikrorayon",
+      "name": "5-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/274645077"
+    },
+    {
+      "id": "az.baku.nasimi.ximqorodok",
+      "name": "Ximqorodok",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1155282124"
+    },
+    {
+      "id": "az.baku.nasimi.kubinka",
+      "name": "Kubinka",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/379548894"
+    },
+    {
+      "id": "az.baku.nasimi.malibo-residence",
+      "name": "Malibo Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1084313611"
+    },
+    {
+      "id": "az.baku.nasimi.millionerler-mehlesi",
+      "name": "Millionerlər məhləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/379539834"
+    },
+    {
+      "id": "az.baku.nasimi.yesil-bagi",
+      "name": "Yəşil Bağı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/382233660"
+    }
+  ],
+  "landmarks": 437,
+  "metro": 13,
+  "seedAdded": 35,
+  "unnamedDropped": 160,
+  "debt": [],
+  "landOnly": true
+}
