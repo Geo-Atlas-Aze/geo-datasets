@@ -1,0 +1,118 @@
+{
+  "version": "4.0.0-baku-yasamal",
+  "slice": "B1",
+  "inventoryCount": 15,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.yasamal.2-ci-alatava",
+      "name": "2-ci Alatava",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/186431887"
+    },
+    {
+      "id": "az.baku.yasamal.avant-park",
+      "name": "Avant Park",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/307180899"
+    },
+    {
+      "id": "az.baku.yasamal.belvedere-residence",
+      "name": "Belvedere Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/379525917"
+    },
+    {
+      "id": "az.baku.yasamal.daglilar-mehellesi",
+      "name": "Dağlılar Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/295373573"
+    },
+    {
+      "id": "az.baku.yasamal.grand-hayat",
+      "name": "Grand Hayat",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/304131096"
+    },
+    {
+      "id": "az.baku.yasamal.hyatt-park",
+      "name": "HYATT Park",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/282644269"
+    },
+    {
+      "id": "az.baku.yasamal.jasmine-park-kompleksi",
+      "name": "Jasmine Park Kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/376041022"
+    },
+    {
+      "id": "az.baku.yasamal.qizil-serq",
+      "name": "Qızıl Şərq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/377848112"
+    },
+    {
+      "id": "az.baku.yasamal.melissa-residence",
+      "name": "Melissa Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1059671134"
+    },
+    {
+      "id": "az.baku.yasamal.mirvari-park-kompleksi",
+      "name": "Mirvari Park kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1066533572"
+    },
+    {
+      "id": "az.baku.yasamal.park-yasamal-2",
+      "name": "Park Yasamal 2",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1164805467"
+    },
+    {
+      "id": "az.baku.yasamal.park-yasamal-yk",
+      "name": "Park Yasamal YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/666620836"
+    },
+    {
+      "id": "az.baku.yasamal.renessans-palace",
+      "name": "Renessans Palace",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1336074388"
+    },
+    {
+      "id": "az.baku.yasamal.royal-park-yasamal",
+      "name": "Royal Park Yasamal",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/387632490"
+    },
+    {
+      "id": "az.baku.yasamal.yeni-yasamal",
+      "name": "Yeni Yasamal",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/307323423"
+    }
+  ],
+  "landmarks": 417,
+  "metro": 10,
+  "seedAdded": 30,
+  "unnamedDropped": 182,
+  "debt": [],
+  "landOnly": true
+}
