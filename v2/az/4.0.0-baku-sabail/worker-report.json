@@ -1,0 +1,155 @@
+{
+  "version": "4.0.0-baku-sabail",
+  "slice": "B4",
+  "inventoryCount": 20,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.sabail.118-sayli-35",
+      "name": "118 saylı 35",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1078885914"
+    },
+    {
+      "id": "az.baku.sabail.20-ci-sahe",
+      "name": "20-ci Sahə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/249242043"
+    },
+    {
+      "id": "az.baku.sabail.badamdar",
+      "name": "Badamdar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/358748721"
+    },
+    {
+      "id": "az.baku.sabail.badamdar-massiv-2",
+      "name": "Badamdar Massiv 2",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1080794333"
+    },
+    {
+      "id": "az.baku.sabail.badamdar-massiv-3",
+      "name": "Badamdar Massiv 3",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/520597965"
+    },
+    {
+      "id": "az.baku.sabail.bayil",
+      "name": "Bayıl",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358732513"
+    },
+    {
+      "id": "az.baku.sabail.bibiheybet",
+      "name": "Bibiheybət",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/358848494"
+    },
+    {
+      "id": "az.baku.sabail.bos-asc",
+      "name": "Bos ASC",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/152944209"
+    },
+    {
+      "id": "az.baku.sabail.crystal-tower-kristal-tauer",
+      "name": "Crystal Tower - Kristal Tauer",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1222835583"
+    },
+    {
+      "id": "az.baku.sabail.green-city-socar",
+      "name": "Green City Socar",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/152943011"
+    },
+    {
+      "id": "az.baku.sabail.xezri-sixov-yk",
+      "name": "Xəzri Şıxov YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/290487151"
+    },
+    {
+      "id": "az.baku.sabail.iceri-seher",
+      "name": "İçəri Şəhər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/152190481"
+    },
+    {
+      "id": "az.baku.sabail.qrand-park",
+      "name": "Qrand Park",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/291310589"
+    },
+    {
+      "id": "az.baku.sabail.lacin-qesebesi",
+      "name": "Lacın qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358752748"
+    },
+    {
+      "id": "az.baku.sabail.panorama-villa",
+      "name": "Panorama Villa",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/291310093"
+    },
+    {
+      "id": "az.baku.sabail.sabah-residence",
+      "name": "Sabah Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1222835584"
+    },
+    {
+      "id": "az.baku.sabail.sea-life-residence",
+      "name": "Sea Life Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1209846697"
+    },
+    {
+      "id": "az.baku.sabail.six-qesebesi",
+      "name": "Şıx qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/291312793"
+    },
+    {
+      "id": "az.baku.sabail.sixov-sederek",
+      "name": "Şıxov Sədərək",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1209177703"
+    },
+    {
+      "id": "az.baku.sabail.ulubey",
+      "name": "Ulubəy",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/326428357"
+    }
+  ],
+  "landmarks": 1327,
+  "metro": 5,
+  "seedAdded": 31,
+  "curatedAdded": 6,
+  "demotedAdded": 0,
+  "unnamedDropped": 260,
+  "debt": [],
+  "landOnly": true
+}
