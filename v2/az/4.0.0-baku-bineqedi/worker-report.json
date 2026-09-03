@@ -1,0 +1,239 @@
+{
+  "version": "4.0.0-baku-bineqedi",
+  "slice": "B7",
+  "inventoryCount": 32,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.bineqedi.28-may-qesebesi",
+      "name": "28 May Qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/177623515"
+    },
+    {
+      "id": "az.baku.bineqedi.6-ci-mikrorayon",
+      "name": "6-cı mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1322481247"
+    },
+    {
+      "id": "az.baku.bineqedi.7-ci-mikrorayon",
+      "name": "7-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/299741886"
+    },
+    {
+      "id": "az.baku.bineqedi.8-ci-mikrorayon",
+      "name": "8-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1060346967"
+    },
+    {
+      "id": "az.baku.bineqedi.9-cu-mikrorayon",
+      "name": "9-cu mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/363482578"
+    },
+    {
+      "id": "az.baku.bineqedi.akhundov-residence",
+      "name": "Akhundov Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1503654858"
+    },
+    {
+      "id": "az.baku.bineqedi.atyali",
+      "name": "Atyalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/331971994"
+    },
+    {
+      "id": "az.baku.bineqedi.bileceri",
+      "name": "Biləcəri",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/299256848"
+    },
+    {
+      "id": "az.baku.bineqedi.bileceri-1-may-y-s",
+      "name": "Biləcəri 1 May Y.S.",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/293675851"
+    },
+    {
+      "id": "az.baku.bineqedi.bileceri-qesebe",
+      "name": "Biləcəri qəsəbə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/363491895"
+    },
+    {
+      "id": "az.baku.bineqedi.boyuksor-qesebesi",
+      "name": "Böyükşor Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/334288634"
+    },
+    {
+      "id": "az.baku.bineqedi.cicek-qesebesi",
+      "name": "Çiçək qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/301782238"
+    },
+    {
+      "id": "az.baku.bineqedi.cinar-yk",
+      "name": "Çinar YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1205299143"
+    },
+    {
+      "id": "az.baku.bineqedi.cinarli-park",
+      "name": "Çinarlı Park",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1075260951"
+    },
+    {
+      "id": "az.baku.bineqedi.dernegul",
+      "name": "Dərnəgül",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/387688307"
+    },
+    {
+      "id": "az.baku.bineqedi.elit-park",
+      "name": "Elit Park",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1476056992"
+    },
+    {
+      "id": "az.baku.bineqedi.greenville-residence",
+      "name": "Greenville Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1512730016"
+    },
+    {
+      "id": "az.baku.bineqedi.gulustan-qesebesi",
+      "name": "Gülüstan qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/334190738"
+    },
+    {
+      "id": "az.baku.bineqedi.xocesen",
+      "name": "Xocəsən",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/358728135"
+    },
+    {
+      "id": "az.baku.bineqedi.xutor",
+      "name": "Xutor",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/306586727"
+    },
+    {
+      "id": "az.baku.bineqedi.mida-bineqedi",
+      "name": "MİDA Binəqədi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1462755318"
+    },
+    {
+      "id": "az.baku.bineqedi.modern-park-yasayis-kompleksi",
+      "name": "Modern Park Yaşayış Kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/351823676"
+    },
+    {
+      "id": "az.baku.bineqedi.motodrom-ys",
+      "name": "Motodrom YS",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/378445155"
+    },
+    {
+      "id": "az.baku.bineqedi.musfiqabad",
+      "name": "Müşfiqabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/1880415468"
+    },
+    {
+      "id": "az.baku.bineqedi.nubar",
+      "name": "Nübar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1202939131"
+    },
+    {
+      "id": "az.baku.bineqedi.resulzade",
+      "name": "Rəsulzadə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/1979028281"
+    },
+    {
+      "id": "az.baku.bineqedi.sevil-massivi",
+      "name": "Sevil Massivi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1055792299"
+    },
+    {
+      "id": "az.baku.bineqedi.sulutepe",
+      "name": "Sulutəpə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/301789449"
+    },
+    {
+      "id": "az.baku.bineqedi.sulutepe-yeni-massiv",
+      "name": "Sulutəpə Yeni Massiv",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1205299146"
+    },
+    {
+      "id": "az.baku.bineqedi.umid-residence",
+      "name": "Ümid Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1060838923"
+    },
+    {
+      "id": "az.baku.bineqedi.yeni-musfiqabad-qesebesi",
+      "name": "Yeni Müşfiqabad qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/378655917"
+    },
+    {
+      "id": "az.baku.bineqedi.west-town",
+      "name": "West Town",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1071358807"
+    }
+  ],
+  "landmarks": 1849,
+  "metro": 16,
+  "seedAdded": 45,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 310,
+  "debt": [],
+  "landOnly": true
+}
