@@ -1,0 +1,232 @@
+{
+  "version": "4.0.0-baku-sabunchu",
+  "slice": "B8",
+  "inventoryCount": 31,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.sabunchu.2-ci-sovxoz",
+      "name": "2-ci Sovxoz",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/185580061"
+    },
+    {
+      "id": "az.baku.sabunchu.6-ci-meden-balaxani",
+      "name": "6-cı Mədən Balaxanı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1117654594"
+    },
+    {
+      "id": "az.baku.sabunchu.baki-yk",
+      "name": "Bakı YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1198730102"
+    },
+    {
+      "id": "az.baku.sabunchu.bakixanov",
+      "name": "Bakıxanov",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/350802284"
+    },
+    {
+      "id": "az.baku.sabunchu.balaxani",
+      "name": "Balaxanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1115581636"
+    },
+    {
+      "id": "az.baku.sabunchu.balaxani-neft-yasayis-sahesi",
+      "name": "Balaxanı Neft Yaşayış Sahəsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1109744476"
+    },
+    {
+      "id": "az.baku.sabunchu.fatmayi-baglari",
+      "name": "Fatmayı bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/272632441"
+    },
+    {
+      "id": "az.baku.sabunchu.goradil-baglari",
+      "name": "Goradil bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1169428092"
+    },
+    {
+      "id": "az.baku.sabunchu.kurdexani",
+      "name": "Kürdəxanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/272626753"
+    },
+    {
+      "id": "az.baku.sabunchu.qaaziler-ve-sehid-aileleri-yk",
+      "name": "Qaazilər və Şəhid ailələri YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1134640554"
+    },
+    {
+      "id": "az.baku.sabunchu.qesebe",
+      "name": "Qəsəbə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1134645415"
+    },
+    {
+      "id": "az.baku.sabunchu.lehis-baglari",
+      "name": "Ləhiş bağları",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284690769"
+    },
+    {
+      "id": "az.baku.sabunchu.mastaga",
+      "name": "Maştağa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/271972669"
+    },
+    {
+      "id": "az.baku.sabunchu.memmedli",
+      "name": "Məmmədli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1111158962"
+    },
+    {
+      "id": "az.baku.sabunchu.nardaran",
+      "name": "Nardaran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313143478"
+    },
+    {
+      "id": "az.baku.sabunchu.pirsagi",
+      "name": "Pirşağı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/271971235"
+    },
+    {
+      "id": "az.baku.sabunchu.ramana",
+      "name": "Ramana",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/163833165"
+    },
+    {
+      "id": "az.baku.sabunchu.ramana-sudculuk",
+      "name": "Ramana Südçülük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1108371491"
+    },
+    {
+      "id": "az.baku.sabunchu.sari-qaya",
+      "name": "Sarı Qaya",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/298473571"
+    },
+    {
+      "id": "az.baku.sabunchu.savalan-qesebesi",
+      "name": "Savalan qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284388115"
+    },
+    {
+      "id": "az.baku.sabunchu.subtropik-mastaga",
+      "name": "Subtropik Maştağa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1109111548"
+    },
+    {
+      "id": "az.baku.sabunchu.sikak-mehellesi",
+      "name": "Şikak məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1072079141"
+    },
+    {
+      "id": "az.baku.sabunchu.susa-qesebesi",
+      "name": "Şuşa qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1198120014"
+    },
+    {
+      "id": "az.baku.sabunchu.yeni-balaxani",
+      "name": "Yeni Balaxanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1117654593"
+    },
+    {
+      "id": "az.baku.sabunchu.yeni-kurdexani",
+      "name": "Yeni Kürdəxanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3092804419"
+    },
+    {
+      "id": "az.baku.sabunchu.yeni-ramana",
+      "name": "Yeni Ramana",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1105062364"
+    },
+    {
+      "id": "az.baku.sabunchu.yeni-ramana-sabuncu",
+      "name": "Yeni Ramana Sabunçu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3520121358"
+    },
+    {
+      "id": "az.baku.sabunchu.yeni-yasayis-massivi",
+      "name": "Yeni Yaşayış Massivi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/291425068"
+    },
+    {
+      "id": "az.baku.sabunchu.zabrat",
+      "name": "Zabrat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/186595601"
+    },
+    {
+      "id": "az.baku.sabunchu.zabrat-qesebesi",
+      "name": "Zabrat qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2773322813"
+    },
+    {
+      "id": "az.baku.sabunchu.zeferan-qesebesi",
+      "name": "Zəfəran Qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1134353196"
+    }
+  ],
+  "landmarks": 2065,
+  "metro": 0,
+  "seedAdded": 24,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 356,
+  "debt": [],
+  "landOnly": true
+}

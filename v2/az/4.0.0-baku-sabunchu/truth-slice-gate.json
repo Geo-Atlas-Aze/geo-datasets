@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.0.0-baku-sabunchu",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "B8",
+    "districtId": "az.baku.sabunchu",
+    "entityCount": 10874,
+    "localities": 31,
+    "landmarksInDistrict": 2065,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
