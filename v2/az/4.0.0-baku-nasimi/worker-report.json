@@ -1,15 +1,8 @@
 {
   "version": "4.0.0-baku-nasimi",
   "slice": "B2",
-  "inventoryCount": 11,
+  "inventoryCount": 12,
   "ownedLocalities": [
-    {
-      "id": "az.baku.nasimi.1-ci-alatava",
-      "name": "1-ci Alatava",
-      "kind": "Neighbourhood",
-      "mode": "OWN",
-      "osm": "geo:relation/21262837"
-    },
     {
       "id": "az.baku.nasimi.1-ci-mikrorayon",
       "name": "1-ci mikrorayon",
@@ -46,6 +39,13 @@
       "osm": "geo:way/274645077"
     },
     {
+      "id": "az.baku.nasimi.alatava-1",
+      "name": "Alatava 1",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/150189734"
+    },
+    {
       "id": "az.baku.nasimi.ximqorodok",
       "name": "Ximqorodok",
       "kind": "Neighbourhood",
@@ -74,6 +74,13 @@
       "osm": "geo:way/379539834"
     },
     {
+      "id": "az.baku.nasimi.papanin",
+      "name": "Papanin",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/307635971"
+    },
+    {
       "id": "az.baku.nasimi.yesil-bagi",
       "name": "Yəşil Bağı",
       "kind": "Neighbourhood",
@@ -81,10 +88,12 @@
       "osm": "geo:way/382233660"
     }
   ],
-  "landmarks": 437,
+  "landmarks": 590,
   "metro": 13,
-  "seedAdded": 35,
-  "unnamedDropped": 160,
+  "seedAdded": 36,
+  "curatedAdded": 4,
+  "demotedAdded": 0,
+  "unnamedDropped": 166,
   "debt": [],
   "landOnly": true
 }

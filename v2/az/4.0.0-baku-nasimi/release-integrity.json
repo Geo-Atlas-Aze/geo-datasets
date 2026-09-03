@@ -5,7 +5,7 @@
   "fileCount": 671,
   "rawFileCount": 671,
   "compressedFileCount": 0,
-  "totalBytes": 343854268,
+  "totalBytes": 344006842,
   "entries": [
     {
       "path": "analytics/analytics-indicators.index.json",
@@ -4177,10 +4177,10 @@
     {
       "path": "boundaries/boundaries-000.json",
       "codec": "none",
-      "sizeBytes": 51921,
+      "sizeBytes": 52903,
       "checksum": {
         "algorithm": "sha256",
-        "value": "2c39b7a8dc7baec8eed265eb24a1dbd0bed03c9579ea9827087483494d347578"
+        "value": "392e76530638e76ffbb7bd555b874cc2f92bd378792326892472344128a22ce8"
       }
     },
     {
@@ -4189,7 +4189,7 @@
       "sizeBytes": 157,
       "checksum": {
         "algorithm": "sha256",
-        "value": "5d8eb420026606ea5f4c1760f4f8bb76ab48bef2e4c58ac7e642fb25ff038f84"
+        "value": "fe7f66b30e13b1c886ddb030dd7d26e86ebcc9b336e8754330b9419f5668ef4e"
       }
     },
     {
@@ -4198,7 +4198,7 @@
       "sizeBytes": 108306,
       "checksum": {
         "algorithm": "sha256",
-        "value": "0b2dd58d34e944ea4e4a3d663026d5cad88e30712ba4b4c38911d64b475987a8"
+        "value": "54080e4a0b37fcf2c37115bede24a37bfc4c1a4f83f1fa9063480fe60287a785"
       }
     },
     {
@@ -4240,10 +4240,10 @@
     {
       "path": "hierarchy/hierarchy.json",
       "codec": "none",
-      "sizeBytes": 778471,
+      "sizeBytes": 929869,
       "checksum": {
         "algorithm": "sha256",
-        "value": "b9de1bf5bf313ebf0e832fed2deccd3c62e6159bea9bc247d015d106d144add2"
+        "value": "f5f90c42d1028b61de04c345793c3a526e66d6afdba8a5604d9872c57cf90ac8"
       }
     },
     {
@@ -4303,10 +4303,10 @@
     {
       "path": "manifest.json",
       "codec": "none",
-      "sizeBytes": 310004,
+      "sizeBytes": 310005,
       "checksum": {
         "algorithm": "sha256",
-        "value": "b24bef873574c570b3d54508965c7483d45a32eea7fae381e6d8cebaf6e450b2"
+        "value": "c68ebc713d9f68d68095b91f0000b2c2345aadddbdbb184bc8a1a6171861c49d"
       }
     },
     {
@@ -6040,10 +6040,10 @@
     {
       "path": "worker-report.json",
       "codec": "none",
-      "sizeBytes": 2152,
+      "sizeBytes": 2345,
       "checksum": {
         "algorithm": "sha256",
-        "value": "e53ec131e27b2670ccdffa69f45f068e5e26ef4e6f6453e7ecbf3a3ea9963afa"
+        "value": "d124c0192497c21c315a04913720ec98c7067a1b98b6b190261ae51899ea8414"
       }
     }
   ]
