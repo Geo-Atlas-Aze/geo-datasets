@@ -1,0 +1,64 @@
+{
+  "version": "4.0.0-baku-nizami",
+  "slice": "B5",
+  "inventoryCount": 7,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.nizami.2593-cu-mehelle",
+      "name": "2593-cü Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1164541008"
+    },
+    {
+      "id": "az.baku.nizami.atletler-kendi",
+      "name": "Atletlər kəndi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1063032853"
+    },
+    {
+      "id": "az.baku.nizami.baku-city-residence-h-eliyev-prospekti",
+      "name": "Baku City Residence / H.Əliyev prospekti",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1063013506"
+    },
+    {
+      "id": "az.baku.nizami.kesle",
+      "name": "Keşlə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/248982324"
+    },
+    {
+      "id": "az.baku.nizami.kristal-abseron-qara-qarayev",
+      "name": "Kristal Abşeron / Qara Qarayev",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/453708300"
+    },
+    {
+      "id": "az.baku.nizami.orbita-mtk-neftciler",
+      "name": "Orbita MTK - Neftçilər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/961245492"
+    },
+    {
+      "id": "az.baku.nizami.samliq",
+      "name": "Şamlıq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1218376405"
+    }
+  ],
+  "landmarks": 784,
+  "metro": 13,
+  "seedAdded": 31,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 231,
+  "debt": [],
+  "landOnly": true
+}
