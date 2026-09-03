@@ -2,10 +2,10 @@
   "country": "az",
   "datasetVersion": "3.2.0-truth",
   "generatedAt": "2026-07-24T16:14:51.575Z",
-  "fileCount": 671,
-  "rawFileCount": 671,
+  "fileCount": 670,
+  "rawFileCount": 670,
   "compressedFileCount": 0,
-  "totalBytes": 344543517,
+  "totalBytes": 346293680,
   "entries": [
     {
       "path": "analytics/analytics-indicators.index.json",
@@ -4195,10 +4195,10 @@
     {
       "path": "checksums.json",
       "codec": "none",
-      "sizeBytes": 108307,
+      "sizeBytes": 108161,
       "checksum": {
         "algorithm": "sha256",
-        "value": "aeef18f3056e594ebe94619b6d2f8c7badfe2fe251629d70d6b25b5a4d7b2b3e"
+        "value": "02065e87552652cfd941031496a36d1cd94030e4137798eec914f03c3c6ea982"
       }
     },
     {
@@ -4240,10 +4240,10 @@
     {
       "path": "hierarchy/hierarchy.json",
       "codec": "none",
-      "sizeBytes": 1461384,
+      "sizeBytes": 3214596,
       "checksum": {
         "algorithm": "sha256",
-        "value": "7f86ceb1a811aa3fa4ceb7d9fd1387dedf12364100873f5fefe3b775d8080272"
+        "value": "9574d42aea002858065553c3737d3a4393512216cce447d98b966eeefafb3164"
       }
     },
     {
@@ -4306,7 +4306,7 @@
       "sizeBytes": 310015,
       "checksum": {
         "algorithm": "sha256",
-        "value": "e081cfad966cd6585fb649db11d22a32376b2ab6802f05360fea0c2ef9eeaf10"
+        "value": "b0df3c1fae2ed889a498722d57a6a904502b87caa171a247a6e887610fb2c27b"
       }
     },
     {
@@ -6029,21 +6029,12 @@
       }
     },
     {
-      "path": "worker-b1-report.json",
-      "codec": "none",
-      "sizeBytes": 2904,
-      "checksum": {
-        "algorithm": "sha256",
-        "value": "17a1ec2035d5cf9820c0d3c975dde874400023048d05a3080bc8d8e5d24e31eb"
-      }
-    },
-    {
       "path": "worker-report.json",
       "codec": "none",
-      "sizeBytes": 2113,
+      "sizeBytes": 2114,
       "checksum": {
         "algorithm": "sha256",
-        "value": "de4b62ea4bf752c2170a982b43d771f8dfe6d59f96f70e95ae82f44f93f2be80"
+        "value": "567dec95318ae3f2b7520240b4d15a51ab953ac74ea3797ddd12ee98c9b5ec9f"
       }
     }
   ]

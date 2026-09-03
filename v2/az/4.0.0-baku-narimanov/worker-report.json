@@ -74,12 +74,12 @@
       "osm": "geo:way/1057733981"
     }
   ],
-  "landmarks": 582,
+  "landmarks": 1205,
   "metro": 8,
-  "seedAdded": 36,
+  "seedAdded": 35,
   "curatedAdded": 2,
   "demotedAdded": 0,
-  "unnamedDropped": 224,
+  "unnamedDropped": 246,
   "debt": [],
   "landOnly": true
 }
