@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.1.0-absheron-full",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "S5",
+    "districtId": null,
+    "entityCount": 21353,
+    "localities": 0,
+    "landmarksInDistrict": 0,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
