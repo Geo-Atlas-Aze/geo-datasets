@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.0.0-baku-surakhani",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "B9",
+    "districtId": "az.baku.surakhani",
+    "entityCount": 12180,
+    "localities": 27,
+    "landmarksInDistrict": 1279,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

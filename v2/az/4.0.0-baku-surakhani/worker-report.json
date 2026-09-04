@@ -1,0 +1,204 @@
+{
+  "version": "4.0.0-baku-surakhani",
+  "slice": "B9",
+  "inventoryCount": 27,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.surakhani.4-cu-meden-suraxani",
+      "name": "4-cü Mədən Suraxanı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/345033000"
+    },
+    {
+      "id": "az.baku.surakhani.5-ci-meden-suraxani",
+      "name": "5-ci Mədən Suraxanı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/345035051"
+    },
+    {
+      "id": "az.baku.surakhani.6-ci-meden-suraxani",
+      "name": "6-cı Mədən Suraxanı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/345035052"
+    },
+    {
+      "id": "az.baku.surakhani.a-yasayis-sahesi",
+      "name": "A Yaşayış Sahəsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1106172268"
+    },
+    {
+      "id": "az.baku.surakhani.ab-yasayis-massivi",
+      "name": "AB yaşayış massivi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1205952773"
+    },
+    {
+      "id": "az.baku.surakhani.bahar-qesebesi",
+      "name": "Bahar Qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/164465668"
+    },
+    {
+      "id": "az.baku.surakhani.bine-sovxoz",
+      "name": "Binə Sovxoz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/272646428"
+    },
+    {
+      "id": "az.baku.surakhani.bulbule",
+      "name": "Bülbülə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/164048134"
+    },
+    {
+      "id": "az.baku.surakhani.dede-qorqud",
+      "name": "Dədə Qorqud",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/164465667"
+    },
+    {
+      "id": "az.baku.surakhani.etibarli-residence",
+      "name": "Etibarlı Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1432507563"
+    },
+    {
+      "id": "az.baku.surakhani.emircan",
+      "name": "Əmircan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1096080277"
+    },
+    {
+      "id": "az.baku.surakhani.hovsan",
+      "name": "Hövsan",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/164465671"
+    },
+    {
+      "id": "az.baku.surakhani.hovsan-yasayis-kompleksi-mida",
+      "name": "Hövsan Yaşayış Kompleksi | MİDA",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1091362137"
+    },
+    {
+      "id": "az.baku.surakhani.xeyal-adasi-villalar",
+      "name": "Xəyal Adası Villalar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1083611580"
+    },
+    {
+      "id": "az.baku.surakhani.xile-mehellesi",
+      "name": "Xilə məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1098067016"
+    },
+    {
+      "id": "az.baku.surakhani.qaracuxur",
+      "name": "Qaraçuxur",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/350795504"
+    },
+    {
+      "id": "az.baku.surakhani.qum-adasi-qesebesi",
+      "name": "Qum Adası Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/176761961"
+    },
+    {
+      "id": "az.baku.surakhani.mida-kompleksi",
+      "name": "MİDA kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1083875424"
+    },
+    {
+      "id": "az.baku.surakhani.sinix",
+      "name": "Şınıx",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1106172269"
+    },
+    {
+      "id": "az.baku.surakhani.yeni-gunesli",
+      "name": "Yeni Günəşli",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/522404894"
+    },
+    {
+      "id": "az.baku.surakhani.yeni-gunesli-yaylasi",
+      "name": "Yeni Günəşli Yaylası",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/322809339"
+    },
+    {
+      "id": "az.baku.surakhani.yeni-qesebe",
+      "name": "Yeni Qəsəbə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1095016583"
+    },
+    {
+      "id": "az.baku.surakhani.yeni-ramana",
+      "name": "Yeni Ramana",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/345327912"
+    },
+    {
+      "id": "az.baku.surakhani.yeni-suraxani",
+      "name": "Yeni Suraxanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/163833167"
+    },
+    {
+      "id": "az.baku.surakhani.yeni-yasayis-sahesi",
+      "name": "Yeni Yaşayış Sahəsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/350417565"
+    },
+    {
+      "id": "az.baku.surakhani.zig",
+      "name": "Zığ",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/352469044"
+    },
+    {
+      "id": "az.baku.surakhani.zig-baglari-yasayis-massivi",
+      "name": "Zığ bağları yaşayış massivi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/163833158"
+    }
+  ],
+  "landmarks": 1279,
+  "metro": 0,
+  "seedAdded": 15,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 312,
+  "debt": [],
+  "landOnly": true
+}
