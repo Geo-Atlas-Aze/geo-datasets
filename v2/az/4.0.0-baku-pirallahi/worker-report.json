@@ -1,0 +1,29 @@
+{
+  "version": "4.0.0-baku-pirallahi",
+  "slice": "B12",
+  "inventoryCount": 2,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.pirallahi.dubendi",
+      "name": "Dübəndi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/203692823"
+    },
+    {
+      "id": "az.baku.pirallahi.qosaqislaq-zire",
+      "name": "Qoşaqışlaq Zirə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1155320466"
+    }
+  ],
+  "landmarks": 22,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 33,
+  "debt": [],
+  "landOnly": true
+}
