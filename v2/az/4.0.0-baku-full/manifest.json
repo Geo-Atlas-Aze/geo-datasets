@@ -1,13 +1,13 @@
 {
   "manifestVersion": "2",
-  "datasetVersion": "4.0.0-baku-pirallahi",
+  "datasetVersion": "4.0.0-baku-full",
   "schemaVersion": "2.0.0",
   "country": "az",
   "profile": "az",
-  "buildId": "az-4.0.0-baku-pirallahi",
-  "buildTimestamp": "2026-09-04T00:31:16.020Z",
+  "buildId": "az-4.0.0-baku-full",
+  "buildTimestamp": "2026-09-04T00:47:20.421Z",
   "generatorVersion": "1.0.0",
-  "basePath": "/v2/az/4.0.0-baku-pirallahi/",
+  "basePath": "/v2/az/4.0.0-baku-full/",
   "sdkCompatibility": {
     "minimumSdkVersion": "2.0.0",
     "maximumSdkVersion": null,
