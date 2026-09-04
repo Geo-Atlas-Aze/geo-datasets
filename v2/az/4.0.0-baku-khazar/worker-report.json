@@ -1,0 +1,190 @@
+{
+  "version": "4.0.0-baku-khazar",
+  "slice": "B10",
+  "inventoryCount": 26,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.khazar.akademiya-baglari-turkan",
+      "name": "Akademiya Bağları Türkan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1090863207"
+    },
+    {
+      "id": "az.baku.khazar.albaliliq",
+      "name": "Albalılıq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278930253"
+    },
+    {
+      "id": "az.baku.khazar.aviator-seherciyi",
+      "name": "Aviator Şəhərciyi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1083330425"
+    },
+    {
+      "id": "az.baku.khazar.bine",
+      "name": "Binə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/253436338"
+    },
+    {
+      "id": "az.baku.khazar.bine-atciliq",
+      "name": "Binə Atçılıq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/314035330"
+    },
+    {
+      "id": "az.baku.khazar.buzovna",
+      "name": "Buzovna",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/271974369"
+    },
+    {
+      "id": "az.baku.khazar.delmar-residence",
+      "name": "Delmar Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/314016154"
+    },
+    {
+      "id": "az.baku.khazar.dubendi-stansiya",
+      "name": "Dübəndi Stansiya",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/332026592"
+    },
+    {
+      "id": "az.baku.khazar.gulculuk-suvelan",
+      "name": "Gülçülük Şüvəlan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/272638131"
+    },
+    {
+      "id": "az.baku.khazar.xasaxuna",
+      "name": "Xaşaxuna",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1087761256"
+    },
+    {
+      "id": "az.baku.khazar.qala",
+      "name": "Qala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/176759529"
+    },
+    {
+      "id": "az.baku.khazar.qala-2",
+      "name": "Qala 2",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/286013922"
+    },
+    {
+      "id": "az.baku.khazar.qala-baglari",
+      "name": "Qala Bağları",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/331843011"
+    },
+    {
+      "id": "az.baku.khazar.landed-property",
+      "name": "Landed property",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:relation/14464495"
+    },
+    {
+      "id": "az.baku.khazar.merdekan",
+      "name": "Mərdəkan",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/1149944916"
+    },
+    {
+      "id": "az.baku.khazar.sagan",
+      "name": "Şağan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1153877496"
+    },
+    {
+      "id": "az.baku.khazar.sagan-san-siti",
+      "name": "Şağan San Siti",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1153897951"
+    },
+    {
+      "id": "az.baku.khazar.suvelan",
+      "name": "Şüvəlan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/318705269"
+    },
+    {
+      "id": "az.baku.khazar.turkan",
+      "name": "Türkan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/253436335"
+    },
+    {
+      "id": "az.baku.khazar.turkan-baglari",
+      "name": "Türkan Bağları",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1090338210"
+    },
+    {
+      "id": "az.baku.khazar.uzumculuk-turkan",
+      "name": "Üzümçülük Türkan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1090863208"
+    },
+    {
+      "id": "az.baku.khazar.villa-siena",
+      "name": "Villa Siena",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1082574456"
+    },
+    {
+      "id": "az.baku.khazar.yeni-turkan",
+      "name": "Yeni Türkan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/253436334"
+    },
+    {
+      "id": "az.baku.khazar.zire",
+      "name": "Zirə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/253436331"
+    },
+    {
+      "id": "az.baku.khazar.zire-sudculuk",
+      "name": "Zirə Südçülük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/203692825"
+    }
+  ],
+  "landmarks": 2008,
+  "metro": 0,
+  "seedAdded": 29,
+  "curatedAdded": 0,
+  "demotedAdded": 1,
+  "unnamedDropped": 435,
+  "debt": [],
+  "landOnly": true
+}

@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.0.0-baku-khazar",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "B10",
+    "districtId": "az.baku.khazar",
+    "entityCount": 14213,
+    "localities": 25,
+    "landmarksInDistrict": 2008,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
