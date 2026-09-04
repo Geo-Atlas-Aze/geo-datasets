@@ -1,0 +1,274 @@
+{
+  "version": "4.0.0-baku-qaradagh",
+  "slice": "B11",
+  "inventoryCount": 37,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.qaradagh.301-sayli-usaq-bagcasi",
+      "name": "301 saylı Uşaq Bağçası",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/411690317"
+    },
+    {
+      "id": "az.baku.qaradagh.arxeoloji-qoruq",
+      "name": "Arxeoloji qoruq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/289791281"
+    },
+    {
+      "id": "az.baku.qaradagh.baki-cenub-qapisi-yk",
+      "name": "Bakı Cənub Qapısı YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1207568166"
+    },
+    {
+      "id": "az.baku.qaradagh.bas-elet",
+      "name": "Baş Ələt",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289787994"
+    },
+    {
+      "id": "az.baku.qaradagh.ceyildag",
+      "name": "Çeyildağ",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/287736731"
+    },
+    {
+      "id": "az.baku.qaradagh.elet",
+      "name": "Ələt",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/289785832"
+    },
+    {
+      "id": "az.baku.qaradagh.eliquluqislaq-umbaki",
+      "name": "Əliquluqışlaq Umbakı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/353986153"
+    },
+    {
+      "id": "az.baku.qaradagh.heybet-mehellesi",
+      "name": "Heybət məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/793034998"
+    },
+    {
+      "id": "az.baku.qaradagh.xarabaliq",
+      "name": "Xarabalıq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358288929"
+    },
+    {
+      "id": "az.baku.qaradagh.korgoz",
+      "name": "Korgöz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283465281"
+    },
+    {
+      "id": "az.baku.qaradagh.kotal",
+      "name": "Kotal",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290182411"
+    },
+    {
+      "id": "az.baku.qaradagh.qaradag-stansiyasi",
+      "name": "Qaradağ Stansiyası",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/804458876"
+    },
+    {
+      "id": "az.baku.qaradagh.qarakosa",
+      "name": "Qarakosa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/793045002"
+    },
+    {
+      "id": "az.baku.qaradagh.qizildas",
+      "name": "Qızıldaş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283471943"
+    },
+    {
+      "id": "az.baku.qaradagh.qobu-park-1-yk",
+      "name": "Qobu Park 1 YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/809284584"
+    },
+    {
+      "id": "az.baku.qaradagh.qobu-park-2-yk",
+      "name": "Qobu Park 2 YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/809284585"
+    },
+    {
+      "id": "az.baku.qaradagh.qobu-park-3-yk",
+      "name": "Qobu Park 3 YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/809284583"
+    },
+    {
+      "id": "az.baku.qaradagh.qobustan",
+      "name": "Qobustan",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/180946025"
+    },
+    {
+      "id": "az.baku.qaradagh.qobustan-dovlet-qorugu",
+      "name": "Qobustan Dövlət Qoruğu",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/283689361"
+    },
+    {
+      "id": "az.baku.qaradagh.qobustan-qaz-yatagi",
+      "name": "Qobustan Qaz Yatağı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1222110849"
+    },
+    {
+      "id": "az.baku.qaradagh.lokbatan",
+      "name": "Lökbatan",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/177623518"
+    },
+    {
+      "id": "az.baku.qaradagh.massiv-1",
+      "name": "Massiv 1",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1222076701"
+    },
+    {
+      "id": "az.baku.qaradagh.massiv-2",
+      "name": "Massiv 2",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1222081070"
+    },
+    {
+      "id": "az.baku.qaradagh.massiv-3",
+      "name": "Massiv 3",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358288982"
+    },
+    {
+      "id": "az.baku.qaradagh.massiv-4",
+      "name": "Massiv 4",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358288932"
+    },
+    {
+      "id": "az.baku.qaradagh.massiv-5",
+      "name": "Massiv 5",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358288933"
+    },
+    {
+      "id": "az.baku.qaradagh.massiv-6",
+      "name": "Massiv 6",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358288934"
+    },
+    {
+      "id": "az.baku.qaradagh.nubar-sengecal",
+      "name": "Nübar Səngəçal",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1220347330"
+    },
+    {
+      "id": "az.baku.qaradagh.oglandere",
+      "name": "Oğlandərə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/359302646"
+    },
+    {
+      "id": "az.baku.qaradagh.puta",
+      "name": "Puta",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/177623519"
+    },
+    {
+      "id": "az.baku.qaradagh.sahil",
+      "name": "Sahil",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/283465284"
+    },
+    {
+      "id": "az.baku.qaradagh.sengecal",
+      "name": "Səngəçal",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289840998"
+    },
+    {
+      "id": "az.baku.qaradagh.sixlar",
+      "name": "Şıxlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290181535"
+    },
+    {
+      "id": "az.baku.qaradagh.sonqar",
+      "name": "Şonqar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283465285"
+    },
+    {
+      "id": "az.baku.qaradagh.subani",
+      "name": "Şubanı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/357432546"
+    },
+    {
+      "id": "az.baku.qaradagh.umid",
+      "name": "Ümid",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283475867"
+    },
+    {
+      "id": "az.baku.qaradagh.veliler",
+      "name": "Vəlilər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289841306"
+    }
+  ],
+  "landmarks": 1184,
+  "metro": 0,
+  "seedAdded": 29,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 267,
+  "debt": [],
+  "landOnly": true
+}

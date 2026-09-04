@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.0.0-baku-qaradagh",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "B11",
+    "districtId": "az.baku.qaradagh",
+    "entityCount": 15434,
+    "localities": 37,
+    "landmarksInDistrict": 1184,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
