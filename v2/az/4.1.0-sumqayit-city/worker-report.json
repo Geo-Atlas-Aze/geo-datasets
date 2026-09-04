@@ -1,0 +1,652 @@
+{
+  "version": "4.1.0-sumqayit-city",
+  "slice": "S1",
+  "inventoryCount": 91,
+  "ownedLocalities": [
+    {
+      "id": "az.sm.1-ci-mehelle",
+      "name": "1-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584796"
+    },
+    {
+      "id": "az.sm.1-ci-mikrorayon",
+      "name": "1-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583635"
+    },
+    {
+      "id": "az.sm.10-cu-mehelle",
+      "name": "10-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/241746480"
+    },
+    {
+      "id": "az.sm.10-cu-mikrorayon",
+      "name": "10-cu Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583651"
+    },
+    {
+      "id": "az.sm.11-ci-mikrorayon",
+      "name": "11-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583632"
+    },
+    {
+      "id": "az.sm.12-ci-mikrorayon",
+      "name": "12-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/250141303"
+    },
+    {
+      "id": "az.sm.13-cu-mikrorayon",
+      "name": "13-cü Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583638"
+    },
+    {
+      "id": "az.sm.14-cu-mehelle",
+      "name": "14-cü Məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583634"
+    },
+    {
+      "id": "az.sm.15-ci-mehelle",
+      "name": "15-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584802"
+    },
+    {
+      "id": "az.sm.16-ci-mehelle",
+      "name": "16-cı Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584801"
+    },
+    {
+      "id": "az.sm.16-ci-mikrorayon",
+      "name": "16-cı Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/371587105"
+    },
+    {
+      "id": "az.sm.17-ci-mehelle",
+      "name": "17-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584803"
+    },
+    {
+      "id": "az.sm.17-ci-mikrorayon",
+      "name": "17-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583661"
+    },
+    {
+      "id": "az.sm.18-ci-mehelle",
+      "name": "18-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584788"
+    },
+    {
+      "id": "az.sm.18-ci-mikrorayon",
+      "name": "18-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583644"
+    },
+    {
+      "id": "az.sm.19-cu-mehelle",
+      "name": "19-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584818"
+    },
+    {
+      "id": "az.sm.2-ci-mehelle",
+      "name": "2-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584799"
+    },
+    {
+      "id": "az.sm.2-ci-mikrorayon",
+      "name": "2-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583652"
+    },
+    {
+      "id": "az.sm.20-ci-mehelle",
+      "name": "20-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584811"
+    },
+    {
+      "id": "az.sm.20-ci-mikrorayon",
+      "name": "20-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/498489598"
+    },
+    {
+      "id": "az.sm.21-ci-mehelle",
+      "name": "21-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584789"
+    },
+    {
+      "id": "az.sm.21-ci-mikrorayon",
+      "name": "21-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/358864868"
+    },
+    {
+      "id": "az.sm.22-ci-mehelle",
+      "name": "22-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584794"
+    },
+    {
+      "id": "az.sm.25-ci-mehelle",
+      "name": "25-cı Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584810"
+    },
+    {
+      "id": "az.sm.26-ci-mehelle",
+      "name": "26-cı Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584793"
+    },
+    {
+      "id": "az.sm.29-cu-mehelle",
+      "name": "29-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583636"
+    },
+    {
+      "id": "az.sm.3-ci-mehelle",
+      "name": "3-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584787"
+    },
+    {
+      "id": "az.sm.3-cu-mikrorayon",
+      "name": "3-cü Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583641"
+    },
+    {
+      "id": "az.sm.30-cu-mehelle",
+      "name": "30-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583648"
+    },
+    {
+      "id": "az.sm.34-cu-mehelle",
+      "name": "34-cü Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583650"
+    },
+    {
+      "id": "az.sm.36-ci-mehelle",
+      "name": "36-cı Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583657"
+    },
+    {
+      "id": "az.sm.4-cu-mehelle",
+      "name": "4-cü Məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96584814"
+    },
+    {
+      "id": "az.sm.4-cu-mikrorayon",
+      "name": "4-cü Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583653"
+    },
+    {
+      "id": "az.sm.40-ci-mehelle",
+      "name": "40-cı Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/231201998"
+    },
+    {
+      "id": "az.sm.41-ci-mehelle",
+      "name": "41-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583654"
+    },
+    {
+      "id": "az.sm.42-ci-mehelle",
+      "name": "42-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583642"
+    },
+    {
+      "id": "az.sm.42a-mehelle",
+      "name": "42A Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583658"
+    },
+    {
+      "id": "az.sm.45-ci-mehelle",
+      "name": "45-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583646"
+    },
+    {
+      "id": "az.sm.47-ci-mehelle",
+      "name": "47-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583659"
+    },
+    {
+      "id": "az.sm.48-ci-mehelle",
+      "name": "48-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96583640"
+    },
+    {
+      "id": "az.sm.5-ci-mehelle",
+      "name": "5-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584807"
+    },
+    {
+      "id": "az.sm.5-ci-mikrorayon",
+      "name": "5-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583633"
+    },
+    {
+      "id": "az.sm.51-ci-mehelle",
+      "name": "51-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/498489597"
+    },
+    {
+      "id": "az.sm.52-ci-mehelle",
+      "name": "52-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/498466842"
+    },
+    {
+      "id": "az.sm.54-cu-mehelle",
+      "name": "54-cü Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584800"
+    },
+    {
+      "id": "az.sm.6-ci-mikrorayon",
+      "name": "6-cı Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583660"
+    },
+    {
+      "id": "az.sm.71-ci-mehelle",
+      "name": "71-ci Məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/700572862"
+    },
+    {
+      "id": "az.sm.72-ci-mehelle",
+      "name": "72-ci məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/700705732"
+    },
+    {
+      "id": "az.sm.73-cu-mehelle",
+      "name": "73-cü məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/700705733"
+    },
+    {
+      "id": "az.sm.74-cu-mehelle",
+      "name": "74-cü məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/700705734"
+    },
+    {
+      "id": "az.sm.75-ci-mehelle",
+      "name": "75-ci məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/700705738"
+    },
+    {
+      "id": "az.sm.76-ci-mehelle",
+      "name": "76-cı məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/700705735"
+    },
+    {
+      "id": "az.sm.77-ci-mehelle",
+      "name": "77-ci məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/700705736"
+    },
+    {
+      "id": "az.sm.78-ci-mehelle",
+      "name": "78-ci məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/700705737"
+    },
+    {
+      "id": "az.sm.79-cu-mehelle",
+      "name": "79-cu məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1028463090"
+    },
+    {
+      "id": "az.sm.8-ci-mikrorayon",
+      "name": "8-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583639"
+    },
+    {
+      "id": "az.sm.80-ci-mehelle",
+      "name": "80-ci məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1028463089"
+    },
+    {
+      "id": "az.sm.9-cu-mehelle",
+      "name": "9-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584806"
+    },
+    {
+      "id": "az.sm.9-cu-mikrorayon",
+      "name": "9-cu Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/96583630"
+    },
+    {
+      "id": "az.sm.bagcaseher-yk",
+      "name": "Bağçaşəhər YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1001846456"
+    },
+    {
+      "id": "az.sm.birlesmis-7-8-12-mehelle",
+      "name": "Birləşmiş (7,8,12) Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584804"
+    },
+    {
+      "id": "az.sm.ceyranbatan",
+      "name": "Ceyranbatan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/267116677"
+    },
+    {
+      "id": "az.sm.ceyrancol-sumqayit",
+      "name": "Ceyrançöl Sumqayıt",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/628976773"
+    },
+    {
+      "id": "az.sm.corat",
+      "name": "Corat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/185577721"
+    },
+    {
+      "id": "az.sm.corat-baglari",
+      "name": "Corat bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/305690439"
+    },
+    {
+      "id": "az.sm.cinar-2016-mtk",
+      "name": "Çinar 2016 MTK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/444570663"
+    },
+    {
+      "id": "az.sm.xezer-baglari",
+      "name": "Xəzər Bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/266763478"
+    },
+    {
+      "id": "az.sm.xezri-residence",
+      "name": "Xəzri Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/498088102"
+    },
+    {
+      "id": "az.sm.kimyacilar-qesebesi",
+      "name": "Kimyaçılar qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96586448"
+    },
+    {
+      "id": "az.sm.kottec",
+      "name": "Kottec",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96584790"
+    },
+    {
+      "id": "az.sm.kohne-corat",
+      "name": "Köhnə Corat",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/267966098"
+    },
+    {
+      "id": "az.sm.kristal-abseron-park-sumqayit",
+      "name": "Kristal Abşeron Park Sumqayıt",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/799240061"
+    },
+    {
+      "id": "az.sm.qacqinlar-kompleksi",
+      "name": "Qaçqınlar Kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/807914998"
+    },
+    {
+      "id": "az.sm.qizilqum-qesebesi",
+      "name": "Qızılqum qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/96588108"
+    },
+    {
+      "id": "az.sm.levent-sumqayit-beach-city",
+      "name": "Levent Sumqayıt Beach City",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1227642159"
+    },
+    {
+      "id": "az.sm.mida",
+      "name": "MIDA",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/799240078"
+    },
+    {
+      "id": "az.sm.mirvari-city-sumqayit",
+      "name": "Mirvari City Sumqayıt",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1001813697"
+    },
+    {
+      "id": "az.sm.nasosnu-aerodrom",
+      "name": "Nasosnu Aerodrom",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/273574011"
+    },
+    {
+      "id": "az.sm.novxani-baglari",
+      "name": "Novxanı bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/298482184"
+    },
+    {
+      "id": "az.sm.stansiya-sumqayit",
+      "name": "Stansiya Sumqayıt",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/275028351"
+    },
+    {
+      "id": "az.sm.stansiya-zeynalabdin-tagiyev",
+      "name": "Stansiya Zeynalabdin Tağıyev",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/273549744"
+    },
+    {
+      "id": "az.sm.sumqayit-bulvar-residence",
+      "name": "Sumqayıt Bulvar Residence",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/892439267"
+    },
+    {
+      "id": "az.sm.sumqayit-city-park-bulvar",
+      "name": "Sumqayıt City Park Bulvar",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1281821057"
+    },
+    {
+      "id": "az.sm.sirvan-qesebesi",
+      "name": "Şirvan qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/273554944"
+    },
+    {
+      "id": "az.sm.teze-corat",
+      "name": "Təzə Corat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/267954724"
+    },
+    {
+      "id": "az.sm.three-tower-sumqayit",
+      "name": "Three Tower Sumqayıt",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1001846455"
+    },
+    {
+      "id": "az.sm.yasil-dere",
+      "name": "Yaşıl Dərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/268416454"
+    },
+    {
+      "id": "az.sm.yasma-baglari",
+      "name": "Yaşma Bağları",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273678687"
+    },
+    {
+      "id": "az.sm.yeni-sumqayit-qesebesi",
+      "name": "Yeni Sumqayıt qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/408146762"
+    },
+    {
+      "id": "az.sm.zeynalabdin-tagiyev",
+      "name": "Zeynalabdin Tağıyev",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/2784775206"
+    },
+    {
+      "id": "az.sm.zeynalabdin-tagiyev-qesebesi",
+      "name": "Zeynalabdin Tağıyev qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273549687"
+    }
+  ],
+  "landmarks": 1810,
+  "metro": 0,
+  "seedAdded": 32,
+  "curatedAdded": 2,
+  "demotedAdded": 0,
+  "unnamedDropped": 403,
+  "debt": [],
+  "landOnly": true
+}

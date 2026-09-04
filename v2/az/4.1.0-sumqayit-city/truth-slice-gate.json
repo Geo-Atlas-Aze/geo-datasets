@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.1.0-sumqayit-city",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "S1",
+    "districtId": "az.sm",
+    "entityCount": 17365,
+    "localities": 91,
+    "landmarksInDistrict": 1810,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
