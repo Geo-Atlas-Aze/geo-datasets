@@ -1,0 +1,29 @@
+{
+  "version": "4.1.1-masazir-rich",
+  "slice": "S8",
+  "inventoryCount": 2,
+  "ownedLocalities": [
+    {
+      "id": "az.abs.masazir.abseron-city-yk",
+      "name": "Abşeron City YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130627693"
+    },
+    {
+      "id": "az.abs.masazir.bagcali-evl-r",
+      "name": "Bağçalı Evlәr",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130672571"
+    }
+  ],
+  "landmarks": 258,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 4,
+  "demotedAdded": 0,
+  "unnamedDropped": 106,
+  "debt": [],
+  "landOnly": true
+}
