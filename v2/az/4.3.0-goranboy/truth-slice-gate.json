@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.3.0-goranboy",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "G4",
+    "districtId": "az.goranboy",
+    "entityCount": 24866,
+    "localities": 96,
+    "landmarksInDistrict": 489,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
