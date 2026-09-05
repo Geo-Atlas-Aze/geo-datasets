@@ -1,0 +1,246 @@
+{
+  "version": "4.3.0-samukh",
+  "slice": "G6",
+  "inventoryCount": 34,
+  "ownedLocalities": [
+    {
+      "id": "az.samukh.1",
+      "name": "1",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1042014798"
+    },
+    {
+      "id": "az.samukh.alabasli",
+      "name": "Alabaşli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1054847370"
+    },
+    {
+      "id": "az.samukh.aliusagi",
+      "name": "Alıuşağı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1036373083"
+    },
+    {
+      "id": "az.samukh.asagi-agasibeyli",
+      "name": "Aşağı Ağasıbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1034589368"
+    },
+    {
+      "id": "az.samukh.cobanabdalli",
+      "name": "Çobanabdallı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1038320588"
+    },
+    {
+      "id": "az.samukh.ehmedbeyli",
+      "name": "Əhmədbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1037195330"
+    },
+    {
+      "id": "az.samukh.fuzuli-samux",
+      "name": "Füzuli Samux",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1035166148"
+    },
+    {
+      "id": "az.samukh.hacalli",
+      "name": "Hacallı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1034899425"
+    },
+    {
+      "id": "az.samukh.institut",
+      "name": "İnstitut",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/11104021681"
+    },
+    {
+      "id": "az.samukh.istixana-ziyadli",
+      "name": "İstixana Ziyadlı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1039995472"
+    },
+    {
+      "id": "az.samukh.kober",
+      "name": "Köbər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2940915025"
+    },
+    {
+      "id": "az.samukh.kober-luksemburq",
+      "name": "Köbər Lüksemburq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1046921108"
+    },
+    {
+      "id": "az.samukh.qaraagacli",
+      "name": "Qaraağaclı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1046942182"
+    },
+    {
+      "id": "az.samukh.qaraarx",
+      "name": "Qaraarx",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1055798814"
+    },
+    {
+      "id": "az.samukh.qarabaglar",
+      "name": "Qarabağlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1037404184"
+    },
+    {
+      "id": "az.samukh.qarabagli",
+      "name": "Qarabağlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1047713746"
+    },
+    {
+      "id": "az.samukh.qarayeri",
+      "name": "Qarayeri",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/1041209809"
+    },
+    {
+      "id": "az.samukh.qedili",
+      "name": "Qədili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1042374509"
+    },
+    {
+      "id": "az.samukh.qiyasli",
+      "name": "Qiyaslı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1037186816"
+    },
+    {
+      "id": "az.samukh.qovlarsari",
+      "name": "Qovlarsarı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/180975250"
+    },
+    {
+      "id": "az.samukh.lek",
+      "name": "Lək",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1034878918"
+    },
+    {
+      "id": "az.samukh.poylu",
+      "name": "Poylu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1047714183"
+    },
+    {
+      "id": "az.samukh.salahli",
+      "name": "Salahlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3423583194"
+    },
+    {
+      "id": "az.samukh.sariqamis",
+      "name": "Sarıqamış",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1042011551"
+    },
+    {
+      "id": "az.samukh.sariqaya",
+      "name": "Sarıqaya",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1034614919"
+    },
+    {
+      "id": "az.samukh.seyidler",
+      "name": "Seyidlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1043241159"
+    },
+    {
+      "id": "az.samukh.serkar",
+      "name": "Sərkar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1039711609"
+    },
+    {
+      "id": "az.samukh.tatli",
+      "name": "Tatlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1039601889"
+    },
+    {
+      "id": "az.samukh.yenibag",
+      "name": "Yenibağ",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1041242612"
+    },
+    {
+      "id": "az.samukh.yenikend",
+      "name": "Yenikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1046332820"
+    },
+    {
+      "id": "az.samukh.yuxari-agasibeyli",
+      "name": "Yuxarı Ağasıbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1036081677"
+    },
+    {
+      "id": "az.samukh.zazali",
+      "name": "Zazalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1036353147"
+    },
+    {
+      "id": "az.samukh.ziyadli",
+      "name": "Ziyadlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1039711605"
+    }
+  ],
+  "landmarks": 175,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "demotedAdded": 1,
+  "unnamedDropped": 14,
+  "debt": [],
+  "landOnly": true
+}
