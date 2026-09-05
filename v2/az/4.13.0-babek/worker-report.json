@@ -1,0 +1,127 @@
+{
+  "version": "4.13.0-babek",
+  "slice": "X2",
+  "inventoryCount": 33,
+  "ownedLocalities": [
+    {
+      "id": "az.babek.araz",
+      "name": "Araz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/773153364"
+    },
+    {
+      "id": "az.babek.badasqan",
+      "name": "Badaşqan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1322911578"
+    },
+    {
+      "id": "az.babek.cehri",
+      "name": "Cəhri",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981640243"
+    },
+    {
+      "id": "az.babek.germecataq",
+      "name": "Gərməçataq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981672699"
+    },
+    {
+      "id": "az.babek.goynuk",
+      "name": "Göynük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2982379694"
+    },
+    {
+      "id": "az.babek.gulsenabad",
+      "name": "Gülşənabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981640244"
+    },
+    {
+      "id": "az.babek.guznut",
+      "name": "Güznüt",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/296531025"
+    },
+    {
+      "id": "az.babek.qaraqala",
+      "name": "Qaraqala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2984130213"
+    },
+    {
+      "id": "az.babek.qosadize",
+      "name": "Qoşadizə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/323004096"
+    },
+    {
+      "id": "az.babek.naxisnergiz",
+      "name": "Naxışnərgiz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/773152556"
+    },
+    {
+      "id": "az.babek.nehrem",
+      "name": "Nehrəm",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/829635120"
+    },
+    {
+      "id": "az.babek.payiz",
+      "name": "Payız",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981640245"
+    },
+    {
+      "id": "az.babek.sirab",
+      "name": "Sirab",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2982369035"
+    },
+    {
+      "id": "az.babek.sekerabad",
+      "name": "Şəkərabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/323004100"
+    },
+    {
+      "id": "az.babek.yarimca",
+      "name": "Yarımca",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2982374951"
+    },
+    {
+      "id": "az.babek.yuxari-buzqov",
+      "name": "Yuxarı Buzqov",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/552029932"
+    }
+  ],
+  "landmarks": 37,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 17,
+  "unnamedDropped": 8,
+  "debt": [],
+  "landOnly": true
+}
