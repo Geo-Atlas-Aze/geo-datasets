@@ -1,0 +1,204 @@
+{
+  "version": "4.7.0-bilesuvar",
+  "slice": "R2",
+  "inventoryCount": 27,
+  "ownedLocalities": [
+    {
+      "id": "az.bilesuvar.agalikend",
+      "name": "Ağalıkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293555065"
+    },
+    {
+      "id": "az.bilesuvar.agayrli",
+      "name": "Ağayrlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293032381"
+    },
+    {
+      "id": "az.bilesuvar.amankend",
+      "name": "Amankənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293552689"
+    },
+    {
+      "id": "az.bilesuvar.aranli",
+      "name": "Aranlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/282644348"
+    },
+    {
+      "id": "az.bilesuvar.arazbari",
+      "name": "Arazbarı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293293595"
+    },
+    {
+      "id": "az.bilesuvar.asagi-agali",
+      "name": "Aşağı Ağalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293319281"
+    },
+    {
+      "id": "az.bilesuvar.asagi-cureli",
+      "name": "Aşağı Cürəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293324054"
+    },
+    {
+      "id": "az.bilesuvar.bagbanlar",
+      "name": "Bağbanlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/282643405"
+    },
+    {
+      "id": "az.bilesuvar.beydili",
+      "name": "Bəydili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/282642503"
+    },
+    {
+      "id": "az.bilesuvar.cayli",
+      "name": "Çaylı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293030591"
+    },
+    {
+      "id": "az.bilesuvar.cinarli",
+      "name": "Çinarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2865861252"
+    },
+    {
+      "id": "az.bilesuvar.dervisli",
+      "name": "Dərvişli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293551159"
+    },
+    {
+      "id": "az.bilesuvar.eliabad",
+      "name": "Əliabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2865861203"
+    },
+    {
+      "id": "az.bilesuvar.esgerabad",
+      "name": "Əsgərabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293321650"
+    },
+    {
+      "id": "az.bilesuvar.gunesli",
+      "name": "Günəşli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293034434"
+    },
+    {
+      "id": "az.bilesuvar.xirmandali",
+      "name": "Xırmandalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/282642150"
+    },
+    {
+      "id": "az.bilesuvar.ismetli",
+      "name": "İsmətli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293036145"
+    },
+    {
+      "id": "az.bilesuvar.qacqin-seherciyi-bilesuvar",
+      "name": "Qaçqın Şəhərciyi Biləsuvar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293297740"
+    },
+    {
+      "id": "az.bilesuvar.mugan",
+      "name": "Muğan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293319283"
+    },
+    {
+      "id": "az.bilesuvar.nerimankend",
+      "name": "Nərimankənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290697458"
+    },
+    {
+      "id": "az.bilesuvar.nesimi",
+      "name": "Nəsimi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290697459"
+    },
+    {
+      "id": "az.bilesuvar.ovcubere",
+      "name": "Ovçubərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293556350"
+    },
+    {
+      "id": "az.bilesuvar.semedabad",
+      "name": "Səmədabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2942031704"
+    },
+    {
+      "id": "az.bilesuvar.tezekend",
+      "name": "Təzəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293557385"
+    },
+    {
+      "id": "az.bilesuvar.yuxari-agali",
+      "name": "Yuxarı Ağalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290228768"
+    },
+    {
+      "id": "az.bilesuvar.yuxari-cureli",
+      "name": "Yuxarı Cürəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/293557070"
+    },
+    {
+      "id": "az.bilesuvar.zehmetabad",
+      "name": "Zəhmətabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/292184875"
+    }
+  ],
+  "landmarks": 21,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "demotedAdded": 0,
+  "unnamedDropped": 3,
+  "debt": [],
+  "landOnly": true
+}

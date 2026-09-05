@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.7.0-bilesuvar",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "R2",
+    "districtId": "az.bilesuvar",
+    "entityCount": 33625,
+    "localities": 27,
+    "landmarksInDistrict": 21,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
