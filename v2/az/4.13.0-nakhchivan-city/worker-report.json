@@ -1,0 +1,64 @@
+{
+  "version": "4.13.0-nakhchivan-city",
+  "slice": "X1",
+  "inventoryCount": 7,
+  "ownedLocalities": [
+    {
+      "id": "az.nakhchivan.bulqan",
+      "name": "Bulqan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/323004088"
+    },
+    {
+      "id": "az.nakhchivan.cavidabad",
+      "name": "Cavidabad",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/323004090"
+    },
+    {
+      "id": "az.nakhchivan.eliabad",
+      "name": "Əliabad",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/286934635"
+    },
+    {
+      "id": "az.nakhchivan.haciniyyet",
+      "name": "Hacıniyyət",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/323004091"
+    },
+    {
+      "id": "az.nakhchivan.qaracuq",
+      "name": "Qaracuq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/323004094"
+    },
+    {
+      "id": "az.nakhchivan.qaraxanbeyli",
+      "name": "Qaraxanbəyli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/323004095"
+    },
+    {
+      "id": "az.nakhchivan.tumbul",
+      "name": "Tumbul",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/323004098"
+    }
+  ],
+  "landmarks": 168,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 21,
+  "debt": [],
+  "landOnly": true
+}
