@@ -1,0 +1,18 @@
+{
+  "version": "4.13.0-nakhchivan-skeleton",
+  "slice": "X0",
+  "debt": [],
+  "added": [
+    "az.nakhchivan",
+    "az.babek",
+    "az.julfa",
+    "az.kangarli",
+    "az.ordubad",
+    "az.sadarak",
+    "az.shahbuz",
+    "az.sharur",
+    "az.er.nakhchivan"
+  ],
+  "entityCount": 38452,
+  "landOnly": true
+}
