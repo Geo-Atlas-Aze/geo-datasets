@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.12.0-gubadli",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "E3",
+    "districtId": "az.gubadli",
+    "entityCount": 38212,
+    "localities": 90,
+    "landmarksInDistrict": 11,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
