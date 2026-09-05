@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.11.0-khankendi",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "K1",
+    "districtId": "az.khankendi",
+    "entityCount": 34626,
+    "localities": 90,
+    "landmarksInDistrict": 588,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

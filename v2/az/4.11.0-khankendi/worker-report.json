@@ -1,0 +1,645 @@
+{
+  "version": "4.11.0-khankendi",
+  "slice": "K1",
+  "inventoryCount": 90,
+  "ownedLocalities": [
+    {
+      "id": "az.khankendi.1-ci-mikrorayon",
+      "name": "1-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1311209592"
+    },
+    {
+      "id": "az.khankendi.12-ci-mehelle",
+      "name": "12-ci məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1413805283"
+    },
+    {
+      "id": "az.khankendi.2-ci-mikrorayon",
+      "name": "2-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1311209593"
+    },
+    {
+      "id": "az.khankendi.20-ci-meh-koh-dvadsatiy",
+      "name": "20-ci məh. (köh.Dvadsatıy)",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312605912"
+    },
+    {
+      "id": "az.khankendi.26-ci-mehelle",
+      "name": "26-cı məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1305248740"
+    },
+    {
+      "id": "az.khankendi.3-cu-mikrorayon",
+      "name": "3-cü mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1311209594"
+    },
+    {
+      "id": "az.khankendi.4-cu-mehelle",
+      "name": "4-cü məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/367799650"
+    },
+    {
+      "id": "az.khankendi.4-cu-mikrorayon",
+      "name": "4-cü mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1311209595"
+    },
+    {
+      "id": "az.khankendi.5-ci-km",
+      "name": "5-ci km",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1310851332"
+    },
+    {
+      "id": "az.khankendi.5-ci-mikrorayon",
+      "name": "5-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1311213799"
+    },
+    {
+      "id": "az.khankendi.57-ci-mehelle",
+      "name": "57-ci məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1316816263"
+    },
+    {
+      "id": "az.khankendi.7-ci-mehelle",
+      "name": "7-ci məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312807994"
+    },
+    {
+      "id": "az.khankendi.admiral-mehelle",
+      "name": "Admiral məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/357517221"
+    },
+    {
+      "id": "az.khankendi.aga-mehellesi",
+      "name": "Ağa məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/465843373"
+    },
+    {
+      "id": "az.khankendi.agabeyimli-mehellesi",
+      "name": "Ağabəyimli məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1316975974"
+    },
+    {
+      "id": "az.khankendi.alakesler-mehellesi",
+      "name": "Alakeşlər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309936856"
+    },
+    {
+      "id": "az.khankendi.asagi-mehelle",
+      "name": "Aşağı məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1304297419"
+    },
+    {
+      "id": "az.khankendi.bagbanlar-mehlesi",
+      "name": "Bağbanlar məhləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1310850230"
+    },
+    {
+      "id": "az.khankendi.bas-mehelle",
+      "name": "Baş məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1432087499"
+    },
+    {
+      "id": "az.khankendi.basqar-mehellesi",
+      "name": "Başqar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308790055"
+    },
+    {
+      "id": "az.khankendi.bayandurlu-mehellesi",
+      "name": "Bayandurlu məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1317248825"
+    },
+    {
+      "id": "az.khankendi.bayat-mehelle",
+      "name": "Bayat məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1311025875"
+    },
+    {
+      "id": "az.khankendi.bayir-mehelle",
+      "name": "Bayır məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1311219680"
+    },
+    {
+      "id": "az.khankendi.baza-mehellesi",
+      "name": "Baza məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1314248432"
+    },
+    {
+      "id": "az.khankendi.bazar-mehelle",
+      "name": "Bazar məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/367800652"
+    },
+    {
+      "id": "az.khankendi.besmertebe",
+      "name": "Beşmərtəbə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1310601692"
+    },
+    {
+      "id": "az.khankendi.bebisler-mehellesi",
+      "name": "Bəbişlər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1303167835"
+    },
+    {
+      "id": "az.khankendi.behlul-mehellesi",
+      "name": "Bəhlul məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1303981499"
+    },
+    {
+      "id": "az.khankendi.beycan",
+      "name": "Bəycan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312010756"
+    },
+    {
+      "id": "az.khankendi.beylerbeyi-mehellesi",
+      "name": "Bəylərbəyi məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1316820314"
+    },
+    {
+      "id": "az.khankendi.bilenderliler-mehellesi",
+      "name": "Biləndərlilər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/367803412"
+    },
+    {
+      "id": "az.khankendi.boyuk-mehelle",
+      "name": "Böyük məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308789504"
+    },
+    {
+      "id": "az.khankendi.boyukbazar-mehellesi",
+      "name": "Böyükbazar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1432090650"
+    },
+    {
+      "id": "az.khankendi.caparxanli-mehellesi",
+      "name": "Çaparxanlı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309936855"
+    },
+    {
+      "id": "az.khankendi.casirdere-mehellesi",
+      "name": "Çaşırdərə məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312505952"
+    },
+    {
+      "id": "az.khankendi.cinarliq-mehelle",
+      "name": "Çinarlıq məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/367799648"
+    },
+    {
+      "id": "az.khankendi.dag-mehelle",
+      "name": "Dağ məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1305131033"
+    },
+    {
+      "id": "az.khankendi.diplomatik-mehelle",
+      "name": "Diplomatik məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/459807853"
+    },
+    {
+      "id": "az.khankendi.elabad-mehelle",
+      "name": "Elabad məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308789503"
+    },
+    {
+      "id": "az.khankendi.erenler-mehellesi",
+      "name": "Ərənlər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312225541"
+    },
+    {
+      "id": "az.khankendi.erminavan-mehellesi",
+      "name": "Ərminavan məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/980474064"
+    },
+    {
+      "id": "az.khankendi.finevler",
+      "name": "Finevlər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1310602942"
+    },
+    {
+      "id": "az.khankendi.general-mehelle",
+      "name": "General məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/689359950"
+    },
+    {
+      "id": "az.khankendi.gelmeler-mehlesi",
+      "name": "Gəlmələr məhləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309959163"
+    },
+    {
+      "id": "az.khankendi.genclik-mehellesi",
+      "name": "Gənclik məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/367800338"
+    },
+    {
+      "id": "az.khankendi.gerger-baglari",
+      "name": "Gərgər bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309938311"
+    },
+    {
+      "id": "az.khankendi.herbi-sehercik",
+      "name": "Hərbi şəhərcik",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/373750610"
+    },
+    {
+      "id": "az.khankendi.hokmavar-mehellesi",
+      "name": "Hökmavar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309936854"
+    },
+    {
+      "id": "az.khankendi.xanbagi",
+      "name": "Xanbağı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1310597510"
+    },
+    {
+      "id": "az.khankendi.xanbagi-mehellesi",
+      "name": "Xanbağı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/12135551694"
+    },
+    {
+      "id": "az.khankendi.xerratlar-mehellesi",
+      "name": "Xərratlar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1304059418"
+    },
+    {
+      "id": "az.khankendi.xoylu-mehellesi",
+      "name": "Xoylu məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1304498512"
+    },
+    {
+      "id": "az.khankendi.i-mehelle",
+      "name": "I Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1321964129"
+    },
+    {
+      "id": "az.khankendi.kerkicahan",
+      "name": "Kərkicahan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/980474065"
+    },
+    {
+      "id": "az.khankendi.kerpic-mehelle",
+      "name": "Kərpic məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1303508505"
+    },
+    {
+      "id": "az.khankendi.kicik-mehelle",
+      "name": "Kiçik məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308788343"
+    },
+    {
+      "id": "az.khankendi.kimyacilar-mehellesi",
+      "name": "Kimyaçılar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308516817"
+    },
+    {
+      "id": "az.khankendi.kohne-erminavan-meh",
+      "name": "Köhnə Ərminavan məh.",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1433893790"
+    },
+    {
+      "id": "az.khankendi.qabiciq-mehellesi",
+      "name": "Qabıcıq məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309007272"
+    },
+    {
+      "id": "az.khankendi.qala-mehelle",
+      "name": "Qala məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1305283074"
+    },
+    {
+      "id": "az.khankendi.qaracali-mehellesi",
+      "name": "Qaracalı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308790056"
+    },
+    {
+      "id": "az.khankendi.qizilqaya-mehellesi",
+      "name": "Qızılqaya məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309958006"
+    },
+    {
+      "id": "az.khankendi.qoyqesem-mehellesi",
+      "name": "Qoyqəşəm məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1002886757"
+    },
+    {
+      "id": "az.khankendi.qumqazilan-mehelle",
+      "name": "Qumqazılan məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1314258151"
+    },
+    {
+      "id": "az.khankendi.qurdlar-mehellesi",
+      "name": "Qurdlar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309015091"
+    },
+    {
+      "id": "az.khankendi.mahalli-mehellesi",
+      "name": "Mahallı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/367780599"
+    },
+    {
+      "id": "az.khankendi.meseli-mehellesi",
+      "name": "Meşəli məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1296814466"
+    },
+    {
+      "id": "az.khankendi.mecidli-mehellesi",
+      "name": "Məcidli məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1307806832"
+    },
+    {
+      "id": "az.khankendi.mehemmed-mehellesi",
+      "name": "Məhəmməd məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1307807382"
+    },
+    {
+      "id": "az.khankendi.melikhesen-mehellesi",
+      "name": "Məlikhəsən məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312505220"
+    },
+    {
+      "id": "az.khankendi.merkezseher",
+      "name": "Mərkəzşəhər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1310840659"
+    },
+    {
+      "id": "az.khankendi.mulkler-mehelle",
+      "name": "Mülklər məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312502185"
+    },
+    {
+      "id": "az.khankendi.mzp-mexaniki-zavodlarin-pasyolkasi",
+      "name": "MZP (Mexaniki Zavodların Pasyolkası)",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1316815019"
+    },
+    {
+      "id": "az.khankendi.nahiye-mehellesi",
+      "name": "Nahiyə məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1317278869"
+    },
+    {
+      "id": "az.khankendi.orta-mehelle",
+      "name": "Orta məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/405431879"
+    },
+    {
+      "id": "az.khankendi.ozan-mehellesi",
+      "name": "Ozan məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1309956326"
+    },
+    {
+      "id": "az.khankendi.saatli-mehellesi",
+      "name": "Saatlı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1306440271"
+    },
+    {
+      "id": "az.khankendi.sixdere-mehellesi",
+      "name": "Şıxdərə məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1305052731"
+    },
+    {
+      "id": "az.khankendi.singedan-mehelle",
+      "name": "Şingədan məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1304742858"
+    },
+    {
+      "id": "az.khankendi.tala-mehelle",
+      "name": "Tala məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1311498973"
+    },
+    {
+      "id": "az.khankendi.tarzenler-mehellesi",
+      "name": "Tarzənlər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1307546789"
+    },
+    {
+      "id": "az.khankendi.tepebasi-mehellesi",
+      "name": "Təpəbaşı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1321994484"
+    },
+    {
+      "id": "az.khankendi.verende-mehellesi",
+      "name": "Vərəndə məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312010754"
+    },
+    {
+      "id": "az.khankendi.yasildere-meh",
+      "name": "Yaşıldərə məh.",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1311993441"
+    },
+    {
+      "id": "az.khankendi.yeddiasirim-meh",
+      "name": "Yeddiaşırım məh.",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312225540"
+    },
+    {
+      "id": "az.khankendi.yenigun-mehellesi",
+      "name": "Yenigün məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1002897550"
+    },
+    {
+      "id": "az.khankendi.yuxari-mehelle",
+      "name": "Yuxarı məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1304223779"
+    },
+    {
+      "id": "az.khankendi.zavodski-mehelle",
+      "name": "Zavodski məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1310913080"
+    },
+    {
+      "id": "az.khankendi.zeybe-mehelle",
+      "name": "Zeybə məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1370926823"
+    },
+    {
+      "id": "az.khankendi.zengezurlular-mehellesi",
+      "name": "Zəngəzurlular məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308795362"
+    }
+  ],
+  "landmarks": 588,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "demotedAdded": 0,
+  "unnamedDropped": 331,
+  "debt": [],
+  "landOnly": true
+}
