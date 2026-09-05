@@ -1,0 +1,50 @@
+{
+  "version": "4.7.0-shirvan",
+  "slice": "R1",
+  "inventoryCount": 5,
+  "ownedLocalities": [
+    {
+      "id": "az.shirvan.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1396431853"
+    },
+    {
+      "id": "az.shirvan.haciqehremanli",
+      "name": "Hacıqəhrəmanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1423961727"
+    },
+    {
+      "id": "az.shirvan.sirvan-mualice-diaqnostika-merkezi",
+      "name": "Şirvan Müalicə Diaqnostika Mərkəzi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430114492"
+    },
+    {
+      "id": "az.shirvan.sirvan-yeni-yasayis-kompleksi",
+      "name": "Şirvan Yeni Yaşayış Kompleksi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1414709597"
+    },
+    {
+      "id": "az.shirvan.yeni-yasayis-kompleksi",
+      "name": "Yeni Yaşayış Kompleksi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1413945972"
+    }
+  ],
+  "landmarks": 518,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 90,
+  "debt": [],
+  "landOnly": true
+}
