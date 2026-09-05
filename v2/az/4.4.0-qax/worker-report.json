@@ -1,0 +1,477 @@
+{
+  "version": "4.4.0-qax",
+  "slice": "Z3",
+  "inventoryCount": 66,
+  "ownedLocalities": [
+    {
+      "id": "az.qax.agcay",
+      "name": "Ağçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280463929"
+    },
+    {
+      "id": "az.qax.agyazi",
+      "name": "Ağyazı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306362"
+    },
+    {
+      "id": "az.qax.almali",
+      "name": "Almalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306361"
+    },
+    {
+      "id": "az.qax.amanli",
+      "name": "Amanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280301280"
+    },
+    {
+      "id": "az.qax.armudlu",
+      "name": "Armudlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280294579"
+    },
+    {
+      "id": "az.qax.asagi-malax",
+      "name": "Aşağı Malax",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280294581"
+    },
+    {
+      "id": "az.qax.bagtala",
+      "name": "Bağtala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/888977049"
+    },
+    {
+      "id": "az.qax.baydarli",
+      "name": "Baydarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300982"
+    },
+    {
+      "id": "az.qax.boyuk-alatemir",
+      "name": "Böyük Alatəmir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540110"
+    },
+    {
+      "id": "az.qax.bucaq-ilisu",
+      "name": "Bucaq İlisu",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1085888764"
+    },
+    {
+      "id": "az.qax.celayir",
+      "name": "Cəlayir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306363"
+    },
+    {
+      "id": "az.qax.cinarli",
+      "name": "Çinarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540116"
+    },
+    {
+      "id": "az.qax.cudullu",
+      "name": "Çüdüllü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550178"
+    },
+    {
+      "id": "az.qax.daniyal-mehellesi",
+      "name": "Daniyal məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/864732723"
+    },
+    {
+      "id": "az.qax.deymedagli",
+      "name": "Dəymədağlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306364"
+    },
+    {
+      "id": "az.qax.elibeyli",
+      "name": "Əlibəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306374"
+    },
+    {
+      "id": "az.qax.embercay",
+      "name": "Əmbərçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300990"
+    },
+    {
+      "id": "az.qax.emircan",
+      "name": "Əmircan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540117"
+    },
+    {
+      "id": "az.qax.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/887917399"
+    },
+    {
+      "id": "az.qax.fistiqli",
+      "name": "Fıstıqlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550155"
+    },
+    {
+      "id": "az.qax.gulluk",
+      "name": "Güllük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280562990"
+    },
+    {
+      "id": "az.qax.xeleftala",
+      "name": "Xələftala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300989"
+    },
+    {
+      "id": "az.qax.ibaxli",
+      "name": "İbaxlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306370"
+    },
+    {
+      "id": "az.qax.iceribazar-mehellesi",
+      "name": "İçəribazar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/864731323"
+    },
+    {
+      "id": "az.qax.ilisu",
+      "name": "İlisu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/250914273"
+    },
+    {
+      "id": "az.qax.ingiloy-kotuklu",
+      "name": "İngiloy Kötüklü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306368"
+    },
+    {
+      "id": "az.qax.kesqutan",
+      "name": "Keşqutan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300984"
+    },
+    {
+      "id": "az.qax.kicik-alatemir",
+      "name": "Kiçik Alatəmir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280588341"
+    },
+    {
+      "id": "az.qax.qax-ingiloy",
+      "name": "Qax İngiloy",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280465009"
+    },
+    {
+      "id": "az.qax.qaxbas",
+      "name": "Qaxbaş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280465010"
+    },
+    {
+      "id": "az.qax.qapicay",
+      "name": "Qapıçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550168"
+    },
+    {
+      "id": "az.qax.qarabaldir",
+      "name": "Qarabaldır",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280562998"
+    },
+    {
+      "id": "az.qax.qaradolaq",
+      "name": "Qaradolaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306365"
+    },
+    {
+      "id": "az.qax.qaramese",
+      "name": "Qarameşə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540113"
+    },
+    {
+      "id": "az.qax.qaratala",
+      "name": "Qaratala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306366"
+    },
+    {
+      "id": "az.qax.qasqacay",
+      "name": "Qaşqaçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280294588"
+    },
+    {
+      "id": "az.qax.qaysarli",
+      "name": "Qaysarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280301281"
+    },
+    {
+      "id": "az.qax.qazmalar",
+      "name": "Qazmalar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300986"
+    },
+    {
+      "id": "az.qax.qimir",
+      "name": "Qımır",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300987"
+    },
+    {
+      "id": "az.qax.qindirga",
+      "name": "Qındırğa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/200903777"
+    },
+    {
+      "id": "az.qax.qipcaq",
+      "name": "Qıpçaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280301282"
+    },
+    {
+      "id": "az.qax.qoragan",
+      "name": "Qorağan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280552572"
+    },
+    {
+      "id": "az.qax.qum",
+      "name": "Qum",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540114"
+    },
+    {
+      "id": "az.qax.lekit",
+      "name": "Ləkit",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550157"
+    },
+    {
+      "id": "az.qax.lekit-kotuklu",
+      "name": "Ləkit Kötüklü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540111"
+    },
+    {
+      "id": "az.qax.lekit-malax",
+      "name": "Ləkit Malax",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550160"
+    },
+    {
+      "id": "az.qax.leleli",
+      "name": "Lələli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/200903778"
+    },
+    {
+      "id": "az.qax.lelepasa",
+      "name": "Lələpaşa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550161"
+    },
+    {
+      "id": "az.qax.marsan",
+      "name": "Marsan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550166"
+    },
+    {
+      "id": "az.qax.mesebas",
+      "name": "Meşəbaş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540112"
+    },
+    {
+      "id": "az.qax.niyamkend",
+      "name": "Niyamkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/656503131"
+    },
+    {
+      "id": "az.qax.oncalli",
+      "name": "Oncallı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300985"
+    },
+    {
+      "id": "az.qax.saribas",
+      "name": "Sarıbaş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280466190"
+    },
+    {
+      "id": "az.qax.suskend",
+      "name": "Suskənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280540115"
+    },
+    {
+      "id": "az.qax.sixlar",
+      "name": "Şıxlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306373"
+    },
+    {
+      "id": "az.qax.sotavar",
+      "name": "Şotavar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280552574"
+    },
+    {
+      "id": "az.qax.tanqit",
+      "name": "Tanqıt",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280300988"
+    },
+    {
+      "id": "az.qax.tasmali",
+      "name": "Tasmalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/886766580"
+    },
+    {
+      "id": "az.qax.toragay-mehellesi",
+      "name": "Torağay məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/864730462"
+    },
+    {
+      "id": "az.qax.turacli",
+      "name": "Turaclı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550173"
+    },
+    {
+      "id": "az.qax.turkyurd",
+      "name": "Türkyurd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/863569474"
+    },
+    {
+      "id": "az.qax.uzuntala",
+      "name": "Uzuntala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306375"
+    },
+    {
+      "id": "az.qax.uzumlukend",
+      "name": "Üzümlükənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280308753"
+    },
+    {
+      "id": "az.qax.yeni-ilisu",
+      "name": "Yeni İlisu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280306369"
+    },
+    {
+      "id": "az.qax.zerne",
+      "name": "Zərnə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280550176"
+    },
+    {
+      "id": "az.qax.zeyem",
+      "name": "Zəyəm",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280563003"
+    }
+  ],
+  "landmarks": 385,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 21,
+  "debt": [],
+  "landOnly": true
+}
