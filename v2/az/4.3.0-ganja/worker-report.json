@@ -1,0 +1,148 @@
+{
+  "version": "4.3.0-ganja",
+  "slice": "G1",
+  "inventoryCount": 22,
+  "ownedLocalities": [
+    {
+      "id": "az.ganja.1-ci-mikrorayon",
+      "name": "1-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1408855800"
+    },
+    {
+      "id": "az.ganja.2-ci-mikrorayon",
+      "name": "2-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1422456879"
+    },
+    {
+      "id": "az.ganja.3-cu-mikrorayon",
+      "name": "3-cü mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1396155002"
+    },
+    {
+      "id": "az.ganja.4-cu-mikrorayon",
+      "name": "4-cü mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1194289402"
+    },
+    {
+      "id": "az.ganja.5-ci-mikrorayon",
+      "name": "5-ci mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1431432308"
+    },
+    {
+      "id": "az.ganja.behrambag",
+      "name": "Bəhrambağ",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7236626397"
+    },
+    {
+      "id": "az.ganja.beste-qesebesi",
+      "name": "Bəstə qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/918855451"
+    },
+    {
+      "id": "az.ganja.cavadxan",
+      "name": "Cavadxan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/7414817078"
+    },
+    {
+      "id": "az.ganja.demiryol-alti",
+      "name": "Dəmiryol altı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/7414853605"
+    },
+    {
+      "id": "az.ganja.firuzabad",
+      "name": "Firuzabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/8109739322"
+    },
+    {
+      "id": "az.ganja.fizuli-qesebesi",
+      "name": "Fizuli qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/11301483187"
+    },
+    {
+      "id": "az.ganja.gulustan",
+      "name": "Gülüstan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1433311200"
+    },
+    {
+      "id": "az.ganja.kelbecer-qacqin-seherciyi-gence",
+      "name": "Kəlbəcər Qaçqın Şəhərciyi Gəncə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1036969560"
+    },
+    {
+      "id": "az.ganja.qusqara",
+      "name": "Quşqara",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280683328"
+    },
+    {
+      "id": "az.ganja.mahrasa-bagi",
+      "name": "Mahrasa Bağı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1473362924"
+    },
+    {
+      "id": "az.ganja.natevan",
+      "name": "Natəvan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7414898564"
+    },
+    {
+      "id": "az.ganja.uctepe",
+      "name": "Üçtəpə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/11039676813"
+    },
+    {
+      "id": "az.ganja.yeni-gence",
+      "name": "Yeni Gəncə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1422456878"
+    },
+    {
+      "id": "az.ganja.yeni-qizilca",
+      "name": "Yeni Qızılca",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7236626396"
+    }
+  ],
+  "landmarks": 482,
+  "metro": 0,
+  "seedAdded": 7,
+  "curatedAdded": 4,
+  "demotedAdded": 3,
+  "unnamedDropped": 133,
+  "debt": [],
+  "landOnly": true
+}
