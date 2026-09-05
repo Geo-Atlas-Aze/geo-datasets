@@ -1,0 +1,17 @@
+{
+  "version": "4.6.0-central-aran-skeleton",
+  "slice": "A0",
+  "debt": [],
+  "added": [
+    "az.mingachevir",
+    "az.yevlax",
+    "az.agdash",
+    "az.goychay",
+    "az.kurdamir",
+    "az.ucar",
+    "az.zardab",
+    "az.er.central-aran"
+  ],
+  "entityCount": 31093,
+  "landOnly": true
+}
