@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.4.0-sheki-zagatala-skeleton",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "Z0",
+    "districtId": null,
+    "entityCount": 25460,
+    "localities": 0,
+    "landmarksInDistrict": 0,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

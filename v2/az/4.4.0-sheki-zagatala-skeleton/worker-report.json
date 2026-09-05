@@ -1,0 +1,16 @@
+{
+  "version": "4.4.0-sheki-zagatala-skeleton",
+  "slice": "Z0",
+  "debt": [],
+  "added": [
+    "az.sheki",
+    "az.balaken",
+    "az.qax",
+    "az.qabala",
+    "az.oguz",
+    "az.zagatala",
+    "az.er.sheki-zagatala"
+  ],
+  "entityCount": 25460,
+  "landOnly": true
+}
