@@ -1,0 +1,365 @@
+{
+  "version": "4.11.0-agjabadi",
+  "slice": "K2",
+  "inventoryCount": 50,
+  "ownedLocalities": [
+    {
+      "id": "az.agjabadi.ag-gol-qislaqlari-zerdab-agcabedi",
+      "name": "Ağ Göl Qışlaqları-Zərdab-Ağcabədi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/403024975"
+    },
+    {
+      "id": "az.agjabadi.agabeyli",
+      "name": "Ağabəyli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/313057766"
+    },
+    {
+      "id": "az.agjabadi.agcabedi-yeni-yasayis-kompleksi",
+      "name": "Ağcabədi Yeni Yaşayış Kompleksi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1351896225"
+    },
+    {
+      "id": "az.agjabadi.aran",
+      "name": "Aran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3630988776"
+    },
+    {
+      "id": "az.agjabadi.arazbar",
+      "name": "Arazbar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191220142"
+    },
+    {
+      "id": "az.agjabadi.asagi-avsar",
+      "name": "Aşağı Avşar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/367260252"
+    },
+    {
+      "id": "az.agjabadi.avsar",
+      "name": "Avşar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2904658665"
+    },
+    {
+      "id": "az.agjabadi.bala-kehrizli",
+      "name": "Bala Kəhrizli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772139886"
+    },
+    {
+      "id": "az.agjabadi.bileyen",
+      "name": "Biləyən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7216189833"
+    },
+    {
+      "id": "az.agjabadi.boyat",
+      "name": "Boyat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/358817412"
+    },
+    {
+      "id": "az.agjabadi.boyuk-kehrizli",
+      "name": "Böyük Kəhrizli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772139885"
+    },
+    {
+      "id": "az.agjabadi.ceferbeyli",
+      "name": "Cəfərbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313057782"
+    },
+    {
+      "id": "az.agjabadi.divanallilar",
+      "name": "Divanallılar",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/358065393"
+    },
+    {
+      "id": "az.agjabadi.goyuk",
+      "name": "Göyük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191212991"
+    },
+    {
+      "id": "az.agjabadi.hacibedelli",
+      "name": "Hacıbədəllı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2940163155"
+    },
+    {
+      "id": "az.agjabadi.hacilar",
+      "name": "Hacılar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/196844742"
+    },
+    {
+      "id": "az.agjabadi.hindarx",
+      "name": "Hindarx",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313058058"
+    },
+    {
+      "id": "az.agjabadi.husulu",
+      "name": "Hüsülü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191211123"
+    },
+    {
+      "id": "az.agjabadi.xocavend",
+      "name": "Xocavənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/367259912"
+    },
+    {
+      "id": "az.agjabadi.keribli",
+      "name": "Kəribli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3630981151"
+    },
+    {
+      "id": "az.agjabadi.kurdler",
+      "name": "Kürdlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191219285"
+    },
+    {
+      "id": "az.agjabadi.qaradolaq",
+      "name": "Qaradolaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3630988775"
+    },
+    {
+      "id": "az.agjabadi.qaraxanli",
+      "name": "Qaraxanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313058386"
+    },
+    {
+      "id": "az.agjabadi.qaravelli",
+      "name": "Qaravəlli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/173933771"
+    },
+    {
+      "id": "az.agjabadi.qelebedin",
+      "name": "Qələbədin",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2879904521"
+    },
+    {
+      "id": "az.agjabadi.qislaq",
+      "name": "Qışlaq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/403021505"
+    },
+    {
+      "id": "az.agjabadi.qiyameddinli",
+      "name": "Qiyaməddinli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2879904551"
+    },
+    {
+      "id": "az.agjabadi.mehrabli",
+      "name": "Mehrablı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/358065381"
+    },
+    {
+      "id": "az.agjabadi.minaxorlu",
+      "name": "Minaxorlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191218028"
+    },
+    {
+      "id": "az.agjabadi.muganli",
+      "name": "Muğanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/312972861"
+    },
+    {
+      "id": "az.agjabadi.necefqulubeyli",
+      "name": "Nəcəfqulubəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279415197"
+    },
+    {
+      "id": "az.agjabadi.perioglular",
+      "name": "Pərioğlular",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2940169268"
+    },
+    {
+      "id": "az.agjabadi.poladli",
+      "name": "Poladlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313059561"
+    },
+    {
+      "id": "az.agjabadi.rencberler",
+      "name": "Rəncbərlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191209987"
+    },
+    {
+      "id": "az.agjabadi.salmanbeyli",
+      "name": "Salmanbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2904657686"
+    },
+    {
+      "id": "az.agjabadi.saricali",
+      "name": "Sarıcalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284244632"
+    },
+    {
+      "id": "az.agjabadi.sarjali",
+      "name": "Sarjalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2879919865"
+    },
+    {
+      "id": "az.agjabadi.sarvanlar",
+      "name": "Sarvanlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191216544"
+    },
+    {
+      "id": "az.agjabadi.sahmallar",
+      "name": "Şahmallar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/358817408"
+    },
+    {
+      "id": "az.agjabadi.sahseven",
+      "name": "Şahsevən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191215164"
+    },
+    {
+      "id": "az.agjabadi.sahseven-tezekend",
+      "name": "Şahsevən Təzəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191206032"
+    },
+    {
+      "id": "az.agjabadi.senlik",
+      "name": "Şənlik",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/286561268"
+    },
+    {
+      "id": "az.agjabadi.serefxanli",
+      "name": "Şərəfxanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313058085"
+    },
+    {
+      "id": "az.agjabadi.sotlanli",
+      "name": "Şotlanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313058246"
+    },
+    {
+      "id": "az.agjabadi.taxta-korpu",
+      "name": "Taxta Körpü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/298150820"
+    },
+    {
+      "id": "az.agjabadi.taynaq",
+      "name": "Taynaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/313061867"
+    },
+    {
+      "id": "az.agjabadi.tehle",
+      "name": "Təhlə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2879894281"
+    },
+    {
+      "id": "az.agjabadi.tezekend",
+      "name": "Təzəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2940170006"
+    },
+    {
+      "id": "az.agjabadi.yeni-qaradolaq",
+      "name": "Yeni Qaradolaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3630988777"
+    },
+    {
+      "id": "az.agjabadi.zerdancal",
+      "name": "Zərdançal",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3191226510"
+    }
+  ],
+  "landmarks": 285,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 23,
+  "debt": [],
+  "landOnly": true
+}
