@@ -1,0 +1,533 @@
+{
+  "version": "4.12.0-zangilan",
+  "slice": "E5",
+  "inventoryCount": 78,
+  "ownedLocalities": [
+    {
+      "id": "az.zangilan.ag-oyuq",
+      "name": "Ağ Oyuq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772422147"
+    },
+    {
+      "id": "az.zangilan.agakisiler",
+      "name": "Ağakişilər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/629776460"
+    },
+    {
+      "id": "az.zangilan.agali",
+      "name": "Ağalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1082582928"
+    },
+    {
+      "id": "az.zangilan.agbiz",
+      "name": "Ağbiz",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788539909"
+    },
+    {
+      "id": "az.zangilan.agkend",
+      "name": "Ağkənd",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788520368"
+    },
+    {
+      "id": "az.zangilan.aladin",
+      "name": "Aladin",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788321241"
+    },
+    {
+      "id": "az.zangilan.asagi-geyeli",
+      "name": "Aşağı Gəyəli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/393500789"
+    },
+    {
+      "id": "az.zangilan.asagi-yemezli",
+      "name": "Aşağı Yeməzli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788539048"
+    },
+    {
+      "id": "az.zangilan.babayli",
+      "name": "Babaylı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788318122"
+    },
+    {
+      "id": "az.zangilan.baharli",
+      "name": "Baharlı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/620595027"
+    },
+    {
+      "id": "az.zangilan.bartaz",
+      "name": "Bartaz",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772419252"
+    },
+    {
+      "id": "az.zangilan.besdeli",
+      "name": "Beşdəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772421820"
+    },
+    {
+      "id": "az.zangilan.birinci-alibeyli",
+      "name": "Birinci Alıbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788318890"
+    },
+    {
+      "id": "az.zangilan.boyuk-giletag",
+      "name": "Böyük Gilətağ",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788321667"
+    },
+    {
+      "id": "az.zangilan.burunlu",
+      "name": "Bürünlü",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788511199"
+    },
+    {
+      "id": "az.zangilan.cahangirbeyli",
+      "name": "Cahangirbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772417424"
+    },
+    {
+      "id": "az.zangilan.canbar",
+      "name": "Canbar",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788513612"
+    },
+    {
+      "id": "az.zangilan.copdere",
+      "name": "Çöpdərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/620660493"
+    },
+    {
+      "id": "az.zangilan.dellekli",
+      "name": "Dəlləkli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788315451"
+    },
+    {
+      "id": "az.zangilan.dere-giletag",
+      "name": "Dərə Gilətağ",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788321198"
+    },
+    {
+      "id": "az.zangilan.dereli",
+      "name": "Dərəli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788515501"
+    },
+    {
+      "id": "az.zangilan.emirxanli",
+      "name": "Əmirxanlı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788315254"
+    },
+    {
+      "id": "az.zangilan.genlik",
+      "name": "Genlik",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788483053"
+    },
+    {
+      "id": "az.zangilan.gunqislaq",
+      "name": "Günqışlaq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788515135"
+    },
+    {
+      "id": "az.zangilan.havali",
+      "name": "Havalı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788318054"
+    },
+    {
+      "id": "az.zangilan.hekeri",
+      "name": "Həkəri",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:node/7211579656"
+    },
+    {
+      "id": "az.zangilan.xumarli",
+      "name": "Xumarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788318780"
+    },
+    {
+      "id": "az.zangilan.iceri-muslan",
+      "name": "İçəri Muşlan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772422526"
+    },
+    {
+      "id": "az.zangilan.ikinci-alibeyli",
+      "name": "İkinci Alıbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788318846"
+    },
+    {
+      "id": "az.zangilan.isgenderbeyli",
+      "name": "İsgəndərbəyli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788320789"
+    },
+    {
+      "id": "az.zangilan.kecikli",
+      "name": "Keçikli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772421719"
+    },
+    {
+      "id": "az.zangilan.kolluqislaq",
+      "name": "Kolluqışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772421419"
+    },
+    {
+      "id": "az.zangilan.qarababa",
+      "name": "Qarababa",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788538399"
+    },
+    {
+      "id": "az.zangilan.qaradere",
+      "name": "Qaradərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788315512"
+    },
+    {
+      "id": "az.zangilan.qaragol",
+      "name": "Qaragöl",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788509390"
+    },
+    {
+      "id": "az.zangilan.qaragoz",
+      "name": "Qaragöz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/620595023"
+    },
+    {
+      "id": "az.zangilan.qarqulu",
+      "name": "Qarqulu",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788315461"
+    },
+    {
+      "id": "az.zangilan.qazanci",
+      "name": "Qazançı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788516586"
+    },
+    {
+      "id": "az.zangilan.qiraq-muslan",
+      "name": "Qıraq Müşlan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772422775"
+    },
+    {
+      "id": "az.zangilan.qosakend",
+      "name": "Qoşakənd",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772417109"
+    },
+    {
+      "id": "az.zangilan.quyudere-xestab",
+      "name": "Quyudərə Xəştab",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788537839"
+    },
+    {
+      "id": "az.zangilan.malatkesin",
+      "name": "Malatkeşin",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788483052"
+    },
+    {
+      "id": "az.zangilan.melikli",
+      "name": "Məlikli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772422776"
+    },
+    {
+      "id": "az.zangilan.memmedbeyli",
+      "name": "Məmmədbəyli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788318121"
+    },
+    {
+      "id": "az.zangilan.mesediismayilli",
+      "name": "Məşədiismayıllı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772420954"
+    },
+    {
+      "id": "az.zangilan.mirzehesenli",
+      "name": "Mirzəhəsənli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788321149"
+    },
+    {
+      "id": "az.zangilan.muganli",
+      "name": "Muğanlı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772415912"
+    },
+    {
+      "id": "az.zangilan.necefler",
+      "name": "Nəcəflər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788512277"
+    },
+    {
+      "id": "az.zangilan.orta-yemezli",
+      "name": "Orta Yeməzli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788538400"
+    },
+    {
+      "id": "az.zangilan.ordekli",
+      "name": "Ördəkli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772418558"
+    },
+    {
+      "id": "az.zangilan.pirveysli",
+      "name": "Pirveysli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788513966"
+    },
+    {
+      "id": "az.zangilan.rebend",
+      "name": "Rəbənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788318900"
+    },
+    {
+      "id": "az.zangilan.rezdere",
+      "name": "Rəzdərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/360468779"
+    },
+    {
+      "id": "az.zangilan.sariqislaq",
+      "name": "Sarıqışlaq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788531371"
+    },
+    {
+      "id": "az.zangilan.saril",
+      "name": "Sarıl",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788318821"
+    },
+    {
+      "id": "az.zangilan.sarili-xestab",
+      "name": "Sarılı Xəştab",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788539245"
+    },
+    {
+      "id": "az.zangilan.seyidler",
+      "name": "Seyidlər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788520679"
+    },
+    {
+      "id": "az.zangilan.sobu",
+      "name": "Sobu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772420258"
+    },
+    {
+      "id": "az.zangilan.samli",
+      "name": "Şamlı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788321240"
+    },
+    {
+      "id": "az.zangilan.satariz",
+      "name": "Şatarız",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772421582"
+    },
+    {
+      "id": "az.zangilan.sayifli",
+      "name": "Şayıflı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788510935"
+    },
+    {
+      "id": "az.zangilan.sefibeyli",
+      "name": "Şəfibəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772420953"
+    },
+    {
+      "id": "az.zangilan.serifan",
+      "name": "Şərifan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/772415581"
+    },
+    {
+      "id": "az.zangilan.serikan",
+      "name": "Şərikan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788526825"
+    },
+    {
+      "id": "az.zangilan.tagli",
+      "name": "Tağlı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788689938"
+    },
+    {
+      "id": "az.zangilan.turapat",
+      "name": "Turapat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/712661172"
+    },
+    {
+      "id": "az.zangilan.udgun",
+      "name": "Üdgün",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/772422777"
+    },
+    {
+      "id": "az.zangilan.vejneli",
+      "name": "Vejnəli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788315225"
+    },
+    {
+      "id": "az.zangilan.venedli",
+      "name": "Vənədli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788321150"
+    },
+    {
+      "id": "az.zangilan.yenikend",
+      "name": "Yenikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/788318942"
+    },
+    {
+      "id": "az.zangilan.yuxari-geyeli",
+      "name": "Yuxarı Gəyəli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788520369"
+    },
+    {
+      "id": "az.zangilan.yuxari-yemezli",
+      "name": "Yuxarı Yeməzli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788538605"
+    },
+    {
+      "id": "az.zangilan.yusifler",
+      "name": "Yusiflər",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788511644"
+    },
+    {
+      "id": "az.zangilan.zerneli",
+      "name": "Zərnəli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/788318055"
+    }
+  ],
+  "landmarks": 10,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 4,
+  "unnamedDropped": 3,
+  "debt": [],
+  "landOnly": true
+}

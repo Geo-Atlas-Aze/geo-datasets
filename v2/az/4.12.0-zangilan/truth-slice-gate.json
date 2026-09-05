@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.12.0-zangilan",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "E5",
+    "districtId": "az.zangilan",
+    "entityCount": 38443,
+    "localities": 74,
+    "landmarksInDistrict": 10,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
