@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.13.0-kangarli",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "X4",
+    "districtId": "az.kangarli",
+    "entityCount": 38730,
+    "localities": 8,
+    "landmarksInDistrict": 10,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

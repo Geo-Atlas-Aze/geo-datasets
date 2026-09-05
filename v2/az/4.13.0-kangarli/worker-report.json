@@ -1,0 +1,71 @@
+{
+  "version": "4.13.0-kangarli",
+  "slice": "X4",
+  "inventoryCount": 11,
+  "ownedLocalities": [
+    {
+      "id": "az.kangarli.boyukduz",
+      "name": "Böyükdüz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5491943476"
+    },
+    {
+      "id": "az.kangarli.calxanqala",
+      "name": "Çalxanqala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5491943477"
+    },
+    {
+      "id": "az.kangarli.xincab",
+      "name": "Xincab",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5491943478"
+    },
+    {
+      "id": "az.kangarli.qarabaglar",
+      "name": "Qarabağlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5491943481"
+    },
+    {
+      "id": "az.kangarli.qivraq",
+      "name": "Qıvraq",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/829632436"
+    },
+    {
+      "id": "az.kangarli.sahtaxti",
+      "name": "Şahtaxtı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1223387781"
+    },
+    {
+      "id": "az.kangarli.tezekend",
+      "name": "Təzəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5491943483"
+    },
+    {
+      "id": "az.kangarli.yurdcu",
+      "name": "Yurdçu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5491943485"
+    }
+  ],
+  "landmarks": 10,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 3,
+  "unnamedDropped": 7,
+  "debt": [],
+  "landOnly": true
+}
