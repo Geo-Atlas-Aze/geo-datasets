@@ -1,0 +1,36 @@
+{
+  "version": "4.4.0-sheki",
+  "slice": "Z1",
+  "inventoryCount": 3,
+  "ownedLocalities": [
+    {
+      "id": "az.sheki.1-ci-mikrorayon-seki",
+      "name": "1-ci Mikrorayon Şəki",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/857315338"
+    },
+    {
+      "id": "az.sheki.2-ci-mikrorayon-seki",
+      "name": "2-ci Mikrorayon Şəki",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/857315337"
+    },
+    {
+      "id": "az.sheki.cesmeli",
+      "name": "Çeşməli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280009427"
+    }
+  ],
+  "landmarks": 512,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 3,
+  "demotedAdded": 0,
+  "unnamedDropped": 33,
+  "debt": [],
+  "landOnly": true
+}
