@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.1.1-xirdalan-rich",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "S7",
+    "districtId": "az.abs.xirdalan",
+    "entityCount": 21364,
+    "localities": 10,
+    "landmarksInDistrict": 1195,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

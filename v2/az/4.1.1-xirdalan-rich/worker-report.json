@@ -1,0 +1,85 @@
+{
+  "version": "4.1.1-xirdalan-rich",
+  "slice": "S7",
+  "inventoryCount": 10,
+  "ownedLocalities": [
+    {
+      "id": "az.abs.xirdalan.24-cu-mehelle",
+      "name": "24-cü Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1182095182"
+    },
+    {
+      "id": "az.abs.xirdalan.27-ci-mehelle",
+      "name": "27-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1180737385"
+    },
+    {
+      "id": "az.abs.xirdalan.28-ci-mehelle",
+      "name": "28-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1177961069"
+    },
+    {
+      "id": "az.abs.xirdalan.aaaf-park",
+      "name": "AAAF Park",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/294494901"
+    },
+    {
+      "id": "az.abs.xirdalan.blue-city-yasayis-kompleksi",
+      "name": "Blue City yaşayış kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1073354807"
+    },
+    {
+      "id": "az.abs.xirdalan.krisral-abseron-1",
+      "name": "Krisral Abşeron 1",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1180750632"
+    },
+    {
+      "id": "az.abs.xirdalan.kristal-abseron-2",
+      "name": "Kristal Abşeron 2",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/891425643"
+    },
+    {
+      "id": "az.abs.xirdalan.qusculuq",
+      "name": "Quşçuluq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1174380827"
+    },
+    {
+      "id": "az.abs.xirdalan.mexaniki-kolon",
+      "name": "Mexaniki Kolon",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1180079458"
+    },
+    {
+      "id": "az.abs.xirdalan.villa-butik-paradis",
+      "name": "Villa Butik Paradis",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/387563934"
+    }
+  ],
+  "landmarks": 1195,
+  "metro": 0,
+  "seedAdded": 2,
+  "curatedAdded": 5,
+  "demotedAdded": 0,
+  "unnamedDropped": 121,
+  "debt": [],
+  "landOnly": true
+}
