@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.3.0-goygol",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "G5",
+    "districtId": "az.goygol",
+    "entityCount": 25245,
+    "localities": 53,
+    "landmarksInDistrict": 326,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
