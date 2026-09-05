@@ -1,0 +1,218 @@
+{
+  "version": "4.6.0-ucar",
+  "slice": "A6",
+  "inventoryCount": 29,
+  "ownedLocalities": [
+    {
+      "id": "az.ucar.alpi",
+      "name": "Alpı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278827712"
+    },
+    {
+      "id": "az.ucar.alpout-ucar",
+      "name": "Alpout Ucar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279416796"
+    },
+    {
+      "id": "az.ucar.bagirbeyli",
+      "name": "Bağırbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278828383"
+    },
+    {
+      "id": "az.ucar.bagman",
+      "name": "Bağman",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278833570"
+    },
+    {
+      "id": "az.ucar.bergusad",
+      "name": "Bərgüşad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278833833"
+    },
+    {
+      "id": "az.ucar.boyat",
+      "name": "Boyat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/266324758"
+    },
+    {
+      "id": "az.ucar.ciyni",
+      "name": "Çiyni",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278824618"
+    },
+    {
+      "id": "az.ucar.elikend",
+      "name": "Əlikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2831230246"
+    },
+    {
+      "id": "az.ucar.elikend-stansiyasi",
+      "name": "Əlikənd Stansiyası",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/987188165"
+    },
+    {
+      "id": "az.ucar.enver-memmedxanli",
+      "name": "Ənvər Məmmədxanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278834778"
+    },
+    {
+      "id": "az.ucar.xelec",
+      "name": "Xələc",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/248971637"
+    },
+    {
+      "id": "az.ucar.kucekend",
+      "name": "Küçəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279505621"
+    },
+    {
+      "id": "az.ucar.qarabork",
+      "name": "Qarabörk",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279418649"
+    },
+    {
+      "id": "az.ucar.qaracalli",
+      "name": "Qaracallı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279504656"
+    },
+    {
+      "id": "az.ucar.qaradagli",
+      "name": "Qaradağlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278824622"
+    },
+    {
+      "id": "az.ucar.qaziqumlaq",
+      "name": "Qazıqumlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278821631"
+    },
+    {
+      "id": "az.ucar.qazyan",
+      "name": "Qazyan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279418648"
+    },
+    {
+      "id": "az.ucar.qulebend",
+      "name": "Quləbənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278825995"
+    },
+    {
+      "id": "az.ucar.lek",
+      "name": "Lək",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279413623"
+    },
+    {
+      "id": "az.ucar.melikballi",
+      "name": "Məlikballı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278821630"
+    },
+    {
+      "id": "az.ucar.mususlu",
+      "name": "Müsüslü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277402857"
+    },
+    {
+      "id": "az.ucar.pirkend",
+      "name": "Pirkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279505618"
+    },
+    {
+      "id": "az.ucar.ramal",
+      "name": "Ramal",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278819893"
+    },
+    {
+      "id": "az.ucar.restece",
+      "name": "Rəstəcə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279416797"
+    },
+    {
+      "id": "az.ucar.sahliq",
+      "name": "Şahlıq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2831230248"
+    },
+    {
+      "id": "az.ucar.teze-silyan",
+      "name": "Təzə Şilyan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277402859"
+    },
+    {
+      "id": "az.ucar.turkeci",
+      "name": "Türkəci",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278834779"
+    },
+    {
+      "id": "az.ucar.yeni-yasayis-kompleksi-ucar",
+      "name": "Yeni Yaşayış Kompleksi Ucar",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/991746885"
+    },
+    {
+      "id": "az.ucar.yuxari-silyan",
+      "name": "Yuxarı Şilyan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278829704"
+    }
+  ],
+  "landmarks": 187,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 22,
+  "debt": [],
+  "landOnly": true
+}

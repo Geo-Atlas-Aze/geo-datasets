@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.6.0-ucar",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "A6",
+    "districtId": "az.ucar",
+    "entityCount": 32969,
+    "localities": 29,
+    "landmarksInDistrict": 187,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
