@@ -1,0 +1,36 @@
+{
+  "version": "4.3.0-naftalan",
+  "slice": "G2",
+  "inventoryCount": 3,
+  "ownedLocalities": [
+    {
+      "id": "az.naftalan.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1385408888"
+    },
+    {
+      "id": "az.naftalan.qasimbeyli",
+      "name": "Qasımbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1385400186"
+    },
+    {
+      "id": "az.naftalan.qasalti-qaraqoyunlu",
+      "name": "Qaşaltı Qaraqoyunlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1381804746"
+    }
+  ],
+  "landmarks": 124,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 4,
+  "demotedAdded": 0,
+  "unnamedDropped": 24,
+  "debt": [],
+  "landOnly": true
+}
