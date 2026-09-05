@@ -1,0 +1,16 @@
+{
+  "version": "4.3.0-ganja-dashkasan-skeleton",
+  "slice": "G0",
+  "debt": [],
+  "added": [
+    "az.ganja",
+    "az.naftalan",
+    "az.dashkasan",
+    "az.goranboy",
+    "az.goygol",
+    "az.samukh",
+    "az.er.ganja-dashkasan"
+  ],
+  "entityCount": 23596,
+  "landOnly": true
+}

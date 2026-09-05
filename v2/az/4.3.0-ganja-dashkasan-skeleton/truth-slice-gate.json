@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.3.0-ganja-dashkasan-skeleton",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "G0",
+    "districtId": null,
+    "entityCount": 23596,
+    "localities": 0,
+    "landmarksInDistrict": 0,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
