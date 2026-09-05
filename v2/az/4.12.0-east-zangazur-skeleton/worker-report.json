@@ -1,0 +1,15 @@
+{
+  "version": "4.12.0-east-zangazur-skeleton",
+  "slice": "E0",
+  "debt": [],
+  "added": [
+    "az.jabrayil",
+    "az.kalbajar",
+    "az.gubadli",
+    "az.lachin",
+    "az.zangilan",
+    "az.er.east-zangazur"
+  ],
+  "entityCount": 37886,
+  "landOnly": true
+}
