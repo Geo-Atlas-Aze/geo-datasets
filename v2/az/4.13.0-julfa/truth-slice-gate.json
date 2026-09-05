@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.13.0-julfa",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "X3",
+    "districtId": "az.julfa",
+    "entityCount": 38712,
+    "localities": 7,
+    "landmarksInDistrict": 25,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

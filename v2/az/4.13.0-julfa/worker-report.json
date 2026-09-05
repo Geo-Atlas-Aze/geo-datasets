@@ -1,0 +1,64 @@
+{
+  "version": "4.13.0-julfa",
+  "slice": "X3",
+  "inventoryCount": 22,
+  "ownedLocalities": [
+    {
+      "id": "az.julfa.boyehmed",
+      "name": "Boyəhməd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5306505858"
+    },
+    {
+      "id": "az.julfa.camaldin",
+      "name": "Camaldın",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1017095009"
+    },
+    {
+      "id": "az.julfa.dize",
+      "name": "Dizə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5306505860"
+    },
+    {
+      "id": "az.julfa.erefse",
+      "name": "Ərəfsə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5306505862"
+    },
+    {
+      "id": "az.julfa.gulustan",
+      "name": "Gülüstan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/782126161"
+    },
+    {
+      "id": "az.julfa.milax",
+      "name": "Milax",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5306505873"
+    },
+    {
+      "id": "az.julfa.yayci",
+      "name": "Yaycı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/562553314"
+    }
+  ],
+  "landmarks": 25,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 15,
+  "unnamedDropped": 8,
+  "debt": [],
+  "landOnly": true
+}
