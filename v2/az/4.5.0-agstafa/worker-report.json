@@ -1,0 +1,316 @@
+{
+  "version": "4.5.0-agstafa",
+  "slice": "T1",
+  "inventoryCount": 43,
+  "ownedLocalities": [
+    {
+      "id": "az.agstafa.aggol",
+      "name": "Ağgöl",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1300103729"
+    },
+    {
+      "id": "az.agstafa.asagi-goyceli",
+      "name": "Aşağı Göycəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1302940223"
+    },
+    {
+      "id": "az.agstafa.asagi-kesemen",
+      "name": "Aşağı Kəsəmən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1290427642"
+    },
+    {
+      "id": "az.agstafa.boyuk-kesik",
+      "name": "Böyük Kəsik",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1300095483"
+    },
+    {
+      "id": "az.agstafa.ceyrancol",
+      "name": "Ceyrançöl",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/775961318"
+    },
+    {
+      "id": "az.agstafa.dag-kesemen",
+      "name": "Dağ Kəsəmən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1308506437"
+    },
+    {
+      "id": "az.agstafa.duzqislaq",
+      "name": "Düzqışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1295027141"
+    },
+    {
+      "id": "az.agstafa.eynalli",
+      "name": "Eynallı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1287499135"
+    },
+    {
+      "id": "az.agstafa.ezizbeyli",
+      "name": "Əzizbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1304313965"
+    },
+    {
+      "id": "az.agstafa.goyceli",
+      "name": "Göycəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607946964"
+    },
+    {
+      "id": "az.agstafa.hesensu",
+      "name": "Həsənsu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1290096686"
+    },
+    {
+      "id": "az.agstafa.hezi-aslanov-agstafa",
+      "name": "Həzi Aslanov Ağstafa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296713237"
+    },
+    {
+      "id": "az.agstafa.xetai-agstafa",
+      "name": "Xətai Ağstafa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1302940238"
+    },
+    {
+      "id": "az.agstafa.xilxina",
+      "name": "Xılxına",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1292935013"
+    },
+    {
+      "id": "az.agstafa.kolayir",
+      "name": "Kolayır",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1295027142"
+    },
+    {
+      "id": "az.agstafa.kolxelfeli",
+      "name": "Kolxəlfəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1292708965"
+    },
+    {
+      "id": "az.agstafa.kocesger",
+      "name": "Köçəsgər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1289745603"
+    },
+    {
+      "id": "az.agstafa.kocvelili",
+      "name": "Köçvəlili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1297447118"
+    },
+    {
+      "id": "az.agstafa.kohneqislaq",
+      "name": "Köhnəqışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1314722786"
+    },
+    {
+      "id": "az.agstafa.qacaq-kerem",
+      "name": "Qacaq Kərəm",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1302940233"
+    },
+    {
+      "id": "az.agstafa.qarahesenli",
+      "name": "Qarahəsənli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1295072588"
+    },
+    {
+      "id": "az.agstafa.qarayazi",
+      "name": "Qarayazı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296713204"
+    },
+    {
+      "id": "az.agstafa.qiraq-kesemen",
+      "name": "Qıraq Kəsəmən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1290504437"
+    },
+    {
+      "id": "az.agstafa.qirili",
+      "name": "Qırılı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1288964798"
+    },
+    {
+      "id": "az.agstafa.qirli",
+      "name": "Qırlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/885979206"
+    },
+    {
+      "id": "az.agstafa.mollaceferli",
+      "name": "Mollacəfərli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1292935011"
+    },
+    {
+      "id": "az.agstafa.muganli",
+      "name": "Muğanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1299859161"
+    },
+    {
+      "id": "az.agstafa.pirili",
+      "name": "Pirili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1295078082"
+    },
+    {
+      "id": "az.agstafa.poylu",
+      "name": "Poylu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/922889935"
+    },
+    {
+      "id": "az.agstafa.poylu-kend",
+      "name": "Poylu kənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1291885127"
+    },
+    {
+      "id": "az.agstafa.poylu-qesebesi",
+      "name": "Poylu qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1291898602"
+    },
+    {
+      "id": "az.agstafa.sadaxli",
+      "name": "Sadaxlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1300345486"
+    },
+    {
+      "id": "az.agstafa.saloglu",
+      "name": "Saloğlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296702080"
+    },
+    {
+      "id": "az.agstafa.soyuqbulaq",
+      "name": "Soyuqbulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1297447086"
+    },
+    {
+      "id": "az.agstafa.sekerli-qesebisi",
+      "name": "Şəkərli qəsəbisi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1291889244"
+    },
+    {
+      "id": "az.agstafa.tatli",
+      "name": "Tatlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1314722763"
+    },
+    {
+      "id": "az.agstafa.tatli-mis-medeni",
+      "name": "Tatlı Mis Mədəni",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1314439171"
+    },
+    {
+      "id": "az.agstafa.teze-mehelle",
+      "name": "Təzə Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308506468"
+    },
+    {
+      "id": "az.agstafa.vurgun",
+      "name": "Vurğun",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1290096713"
+    },
+    {
+      "id": "az.agstafa.yaradullu",
+      "name": "Yaradullu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1314723533"
+    },
+    {
+      "id": "az.agstafa.yeni-poylu",
+      "name": "Yeni Poylu",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1302940248"
+    },
+    {
+      "id": "az.agstafa.yenigun",
+      "name": "Yenigün",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1302940237"
+    },
+    {
+      "id": "az.agstafa.zelimxan",
+      "name": "Zəlimxan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1290440079"
+    }
+  ],
+  "landmarks": 421,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 3,
+  "demotedAdded": 0,
+  "unnamedDropped": 45,
+  "debt": [],
+  "landOnly": true
+}

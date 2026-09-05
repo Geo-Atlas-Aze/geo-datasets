@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.5.0-agstafa",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "T1",
+    "districtId": "az.agstafa",
+    "entityCount": 28668,
+    "localities": 43,
+    "landmarksInDistrict": 421,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
