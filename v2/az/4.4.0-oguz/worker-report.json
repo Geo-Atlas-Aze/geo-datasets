@@ -1,0 +1,281 @@
+{
+  "version": "4.4.0-oguz",
+  "slice": "Z5",
+  "inventoryCount": 39,
+  "ownedLocalities": [
+    {
+      "id": "az.oguz.abdalli",
+      "name": "Abdallı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278645083"
+    },
+    {
+      "id": "az.oguz.bas-dasagil",
+      "name": "Baş Daşağıl",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/851802882"
+    },
+    {
+      "id": "az.oguz.bayan",
+      "name": "Bayan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279610068"
+    },
+    {
+      "id": "az.oguz.boyuk-soyudlu",
+      "name": "Böyük Söyüdlü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279616582"
+    },
+    {
+      "id": "az.oguz.bucaq",
+      "name": "Bucaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273655702"
+    },
+    {
+      "id": "az.oguz.calut",
+      "name": "Calut",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279596708"
+    },
+    {
+      "id": "az.oguz.cadirliq-muxas",
+      "name": "Çadırlıq Muxas",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/851663424"
+    },
+    {
+      "id": "az.oguz.caldas",
+      "name": "Çaldaş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279616530"
+    },
+    {
+      "id": "az.oguz.cayqovusan",
+      "name": "Çayqovuşan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279616595"
+    },
+    {
+      "id": "az.oguz.deymedagli",
+      "name": "Dəymədağlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278658902"
+    },
+    {
+      "id": "az.oguz.deymedere",
+      "name": "Dəymədərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278666581"
+    },
+    {
+      "id": "az.oguz.ermenet",
+      "name": "Ərmənət",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/323202444"
+    },
+    {
+      "id": "az.oguz.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/850642916"
+    },
+    {
+      "id": "az.oguz.filfili",
+      "name": "Filfili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278645085"
+    },
+    {
+      "id": "az.oguz.hallavar",
+      "name": "Hallavar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/850277649"
+    },
+    {
+      "id": "az.oguz.xacmazkend",
+      "name": "Xaçmazkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278645087"
+    },
+    {
+      "id": "az.oguz.xacmazqislaq",
+      "name": "Xaçmazqışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278658905"
+    },
+    {
+      "id": "az.oguz.xalxal",
+      "name": "Xalxal",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/323191438"
+    },
+    {
+      "id": "az.oguz.xalxalqislaq",
+      "name": "Xalxalqışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278643198"
+    },
+    {
+      "id": "az.oguz.kerimli",
+      "name": "Kərimli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273653898"
+    },
+    {
+      "id": "az.oguz.qarabaldir",
+      "name": "Qarabaldır",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279610069"
+    },
+    {
+      "id": "az.oguz.qarabulaq",
+      "name": "Qarabulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279616589"
+    },
+    {
+      "id": "az.oguz.qumlaq",
+      "name": "Qumlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279596710"
+    },
+    {
+      "id": "az.oguz.mollali",
+      "name": "Mollalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278643196"
+    },
+    {
+      "id": "az.oguz.muxas",
+      "name": "Muxas",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280014506"
+    },
+    {
+      "id": "az.oguz.padar-oguz",
+      "name": "Padar Oğuz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279599047"
+    },
+    {
+      "id": "az.oguz.sincan",
+      "name": "Sincan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278666582"
+    },
+    {
+      "id": "az.oguz.sirvanli",
+      "name": "Şirvanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279599057"
+    },
+    {
+      "id": "az.oguz.tayifli",
+      "name": "Tayıflı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279599051"
+    },
+    {
+      "id": "az.oguz.terkes",
+      "name": "Tərkeş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278666583"
+    },
+    {
+      "id": "az.oguz.top",
+      "name": "Top",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273653902"
+    },
+    {
+      "id": "az.oguz.vardanli-mehellesi",
+      "name": "Vardanlı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/845364592"
+    },
+    {
+      "id": "az.oguz.yaqublu",
+      "name": "Yaqublu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273653904"
+    },
+    {
+      "id": "az.oguz.yemisanli",
+      "name": "Yemişanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2838219108"
+    },
+    {
+      "id": "az.oguz.yemisanli-tayifli-yolu",
+      "name": "Yemişanlı - Tayıflı yolu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279599055"
+    },
+    {
+      "id": "az.oguz.yeni-yol",
+      "name": "Yeni Yol",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/896292296"
+    },
+    {
+      "id": "az.oguz.yenikend",
+      "name": "Yenikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273653905"
+    },
+    {
+      "id": "az.oguz.zerrab",
+      "name": "Zərrab",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273653906"
+    }
+  ],
+  "landmarks": 275,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 1,
+  "unnamedDropped": 11,
+  "debt": [],
+  "landOnly": true
+}

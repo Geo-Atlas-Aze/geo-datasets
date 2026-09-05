@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.4.0-oguz",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "Z5",
+    "districtId": "az.oguz",
+    "entityCount": 27690,
+    "localities": 38,
+    "landmarksInDistrict": 275,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
