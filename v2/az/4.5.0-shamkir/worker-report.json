@@ -1,0 +1,666 @@
+{
+  "version": "4.5.0-shamkir",
+  "slice": "T4",
+  "inventoryCount": 93,
+  "ownedLocalities": [
+    {
+      "id": "az.shamkir.abbasli",
+      "name": "Abbaslı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231743211"
+    },
+    {
+      "id": "az.shamkir.agamemmedli-tatarli",
+      "name": "Ağaməmmədli Tatarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1245909109"
+    },
+    {
+      "id": "az.shamkir.aglavasli",
+      "name": "Ağlavaşlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1053139606"
+    },
+    {
+      "id": "az.shamkir.alhuseynli-tiresi",
+      "name": "Alhüseynli tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748987"
+    },
+    {
+      "id": "az.shamkir.aluminiumstroy",
+      "name": "Aluminiumstroy",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1046332805"
+    },
+    {
+      "id": "az.shamkir.asagi-caykend",
+      "name": "Aşağı Çaykənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1331065877"
+    },
+    {
+      "id": "az.shamkir.asagi-cayli-tiresi",
+      "name": "Aşağı Çaylı tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748991"
+    },
+    {
+      "id": "az.shamkir.asagi-konullu",
+      "name": "Aşağı Könüllü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1054873135"
+    },
+    {
+      "id": "az.shamkir.asagi-sixli-tiresi",
+      "name": "Aşağı Şıxlı tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748981"
+    },
+    {
+      "id": "az.shamkir.asagii-seher-mehellesi",
+      "name": "Aşağıı Şəhər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1237362542"
+    },
+    {
+      "id": "az.shamkir.asagi-seyfeli",
+      "name": "Aşaği Seyfəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1231743183"
+    },
+    {
+      "id": "az.shamkir.atabey",
+      "name": "Atabəy",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1330250267"
+    },
+    {
+      "id": "az.shamkir.atbarmaq-tiresi",
+      "name": "Atbarmaq tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748989"
+    },
+    {
+      "id": "az.shamkir.babiller",
+      "name": "Babillər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/9630186073"
+    },
+    {
+      "id": "az.shamkir.barlibag",
+      "name": "Barlibağ",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1232500581"
+    },
+    {
+      "id": "az.shamkir.bayramli",
+      "name": "Bayramlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1339611319"
+    },
+    {
+      "id": "az.shamkir.bebiller",
+      "name": "Bəbillər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1047279624"
+    },
+    {
+      "id": "az.shamkir.bilan-tiresi",
+      "name": "Bilan tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748985"
+    },
+    {
+      "id": "az.shamkir.caparli",
+      "name": "Çaparlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/355403568"
+    },
+    {
+      "id": "az.shamkir.cayli",
+      "name": "Çaylı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1230414841"
+    },
+    {
+      "id": "az.shamkir.celler-tiresi",
+      "name": "Çəllər tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748980"
+    },
+    {
+      "id": "az.shamkir.cenlibel",
+      "name": "Çənlibel",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1330010849"
+    },
+    {
+      "id": "az.shamkir.cinarli",
+      "name": "Çinarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1231743210"
+    },
+    {
+      "id": "az.shamkir.dag-ceyir",
+      "name": "Dağ Cəyir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1330469304"
+    },
+    {
+      "id": "az.shamkir.dasbulaq",
+      "name": "Daşbulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1330236304"
+    },
+    {
+      "id": "az.shamkir.deller-ceyir",
+      "name": "Dəllər Cəyir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/355403571"
+    },
+    {
+      "id": "az.shamkir.deller-cirdaxan",
+      "name": "Dəllər Cırdaxan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1233634646"
+    },
+    {
+      "id": "az.shamkir.deller-dasbulaq",
+      "name": "Dəllər Daşbulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/355403570"
+    },
+    {
+      "id": "az.shamkir.deller-qesebe",
+      "name": "Dəllər qəsəbə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1234695383"
+    },
+    {
+      "id": "az.shamkir.duyerli",
+      "name": "Düyərli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/75068803"
+    },
+    {
+      "id": "az.shamkir.duzqislaq",
+      "name": "Düzqışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/778244665"
+    },
+    {
+      "id": "az.shamkir.ehmedli",
+      "name": "Əhmədli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1238678005"
+    },
+    {
+      "id": "az.shamkir.elesgerli",
+      "name": "Ələsgərli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1246477494"
+    },
+    {
+      "id": "az.shamkir.eliyaqublu",
+      "name": "Əliyaqublu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1232755702"
+    },
+    {
+      "id": "az.shamkir.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1235628290"
+    },
+    {
+      "id": "az.shamkir.fuzuli",
+      "name": "Füzuli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1229034108"
+    },
+    {
+      "id": "az.shamkir.goymemmedli",
+      "name": "Göyməmmədli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1237044171"
+    },
+    {
+      "id": "az.shamkir.gunesli",
+      "name": "Günəşli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1330737601"
+    },
+    {
+      "id": "az.shamkir.hacialilar",
+      "name": "Hacıalılar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1347687796"
+    },
+    {
+      "id": "az.shamkir.hevili-tiresi",
+      "name": "Hevili tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748984"
+    },
+    {
+      "id": "az.shamkir.hesenqulu-tiresi",
+      "name": "Həsənqulu tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748975"
+    },
+    {
+      "id": "az.shamkir.xuluf",
+      "name": "Xuluf",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1057725172"
+    },
+    {
+      "id": "az.shamkir.irmasli",
+      "name": "İrmaşlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/343415905"
+    },
+    {
+      "id": "az.shamkir.kamandar",
+      "name": "Kamandar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1246588568"
+    },
+    {
+      "id": "az.shamkir.kecili",
+      "name": "Keçili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1057725174"
+    },
+    {
+      "id": "az.shamkir.kur-qesebesi",
+      "name": "Kür qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1049411098"
+    },
+    {
+      "id": "az.shamkir.qapanli",
+      "name": "Qapanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1052515182"
+    },
+    {
+      "id": "az.shamkir.qarabaglar",
+      "name": "Qarabağlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1232500578"
+    },
+    {
+      "id": "az.shamkir.qaracemirli",
+      "name": "Qaracəmirli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1052816156"
+    },
+    {
+      "id": "az.shamkir.qaraqocali",
+      "name": "Qaraqocalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1230414836"
+    },
+    {
+      "id": "az.shamkir.qaraqoyunlu",
+      "name": "Qaraqoyunlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/737035753"
+    },
+    {
+      "id": "az.shamkir.qaralar",
+      "name": "Qaralar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1053106051"
+    },
+    {
+      "id": "az.shamkir.qaranuy",
+      "name": "Qaranüy",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1233634611"
+    },
+    {
+      "id": "az.shamkir.qasimalilar",
+      "name": "Qasımalılar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1237044224"
+    },
+    {
+      "id": "az.shamkir.qedimqala",
+      "name": "Qədimqala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1232520780"
+    },
+    {
+      "id": "az.shamkir.qilincbeyli",
+      "name": "Qılıncbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1053089244"
+    },
+    {
+      "id": "az.shamkir.qurdlar-tiresi",
+      "name": "Qurdlar tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748978"
+    },
+    {
+      "id": "az.shamkir.mahmudlu",
+      "name": "Mahmudlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/355402341"
+    },
+    {
+      "id": "az.shamkir.mansirli-tiresi",
+      "name": "Mansırlı tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748990"
+    },
+    {
+      "id": "az.shamkir.mehdixanli-tiresi",
+      "name": "Mehdixanlı tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748986"
+    },
+    {
+      "id": "az.shamkir.mehrili",
+      "name": "Mehrili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1230414812"
+    },
+    {
+      "id": "az.shamkir.mesedi-cefer-tiresi",
+      "name": "Məşədi Cəfər tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748983"
+    },
+    {
+      "id": "az.shamkir.mesedi-oruc-tiresi",
+      "name": "Məşədi Oruc tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748988"
+    },
+    {
+      "id": "az.shamkir.mesedihuseynli",
+      "name": "Məşədihüseynli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1054061535"
+    },
+    {
+      "id": "az.shamkir.miskinli",
+      "name": "Miskinli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1232520781"
+    },
+    {
+      "id": "az.shamkir.morul",
+      "name": "Morul",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1238138618"
+    },
+    {
+      "id": "az.shamkir.naxircilar-mehellesi",
+      "name": "Naxırçılar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1237353563"
+    },
+    {
+      "id": "az.shamkir.nerimanli",
+      "name": "Nərimanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280508657"
+    },
+    {
+      "id": "az.shamkir.sabirkend",
+      "name": "Sabirkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1243543432"
+    },
+    {
+      "id": "az.shamkir.saritepe",
+      "name": "Sarıtəpə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/347906900"
+    },
+    {
+      "id": "az.shamkir.semed-vurgun-qesebesi",
+      "name": "Səməd Vurğun Qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1049411097"
+    },
+    {
+      "id": "az.shamkir.seveyler-tiresi",
+      "name": "Səvəylər tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748979"
+    },
+    {
+      "id": "az.shamkir.seidler",
+      "name": "Şəidlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1329992818"
+    },
+    {
+      "id": "az.shamkir.semkir-kend",
+      "name": "Şəmkir Kənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1056043970"
+    },
+    {
+      "id": "az.shamkir.sistepe",
+      "name": "Şiştəpə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/343416619"
+    },
+    {
+      "id": "az.shamkir.talis",
+      "name": "Taliş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1043241126"
+    },
+    {
+      "id": "az.shamkir.tatarli",
+      "name": "Tatarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1245905337"
+    },
+    {
+      "id": "az.shamkir.tezekend",
+      "name": "Təzəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1056048904"
+    },
+    {
+      "id": "az.shamkir.varli-heyat",
+      "name": "Varlı Həyat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/737035752"
+    },
+    {
+      "id": "az.shamkir.yeni-goyca",
+      "name": "Yeni Göyça",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1330747701"
+    },
+    {
+      "id": "az.shamkir.yeni-heyat",
+      "name": "Yeni Həyat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/357661131"
+    },
+    {
+      "id": "az.shamkir.yeni-yol",
+      "name": "Yeni Yol",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1229034107"
+    },
+    {
+      "id": "az.shamkir.yeniabad",
+      "name": "Yeniabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1052494360"
+    },
+    {
+      "id": "az.shamkir.yenimehle-tiresi",
+      "name": "Yeniməhlə tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748977"
+    },
+    {
+      "id": "az.shamkir.yuxari-caykend",
+      "name": "Yuxarı Çaykənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1331072269"
+    },
+    {
+      "id": "az.shamkir.yuxari-konullu",
+      "name": "Yuxarı Könüllü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1232241667"
+    },
+    {
+      "id": "az.shamkir.yuxari-seher-mehellesi",
+      "name": "Yuxarı Şəhər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1237361561"
+    },
+    {
+      "id": "az.shamkir.yuxari-sixli-tiresi",
+      "name": "Yuxarı Şıxlı tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748982"
+    },
+    {
+      "id": "az.shamkir.yuxari-seyfeli",
+      "name": "Yuxari Seyfəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1231743227"
+    },
+    {
+      "id": "az.shamkir.yurdabad-tiresi",
+      "name": "Yurdabad tirəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1231748976"
+    },
+    {
+      "id": "az.shamkir.zabit-binalari",
+      "name": "Zabit Binaları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1237353556"
+    },
+    {
+      "id": "az.shamkir.zeyem",
+      "name": "Zəyəm",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1243540480"
+    },
+    {
+      "id": "az.shamkir.zeyem-cirdaxan",
+      "name": "Zəyəm Cırdaxan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1245358026"
+    }
+  ],
+  "landmarks": 600,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 3,
+  "demotedAdded": 0,
+  "unnamedDropped": 81,
+  "debt": [],
+  "landOnly": true
+}

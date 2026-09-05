@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.5.0-shamkir",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "T4",
+    "districtId": "az.shamkir",
+    "entityCount": 30431,
+    "localities": 93,
+    "landmarksInDistrict": 600,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
