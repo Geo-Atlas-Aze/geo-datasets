@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.6.0-mingachevir",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "A1",
+    "districtId": "az.mingachevir",
+    "entityCount": 31489,
+    "localities": 18,
+    "landmarksInDistrict": 378,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

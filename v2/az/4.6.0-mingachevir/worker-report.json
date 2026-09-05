@@ -1,0 +1,141 @@
+{
+  "version": "4.6.0-mingachevir",
+  "slice": "A1",
+  "inventoryCount": 18,
+  "ownedLocalities": [
+    {
+      "id": "az.mingachevir.2",
+      "name": "2",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/267258121"
+    },
+    {
+      "id": "az.mingachevir.babek-mehellesi",
+      "name": "Babək məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1028142264"
+    },
+    {
+      "id": "az.mingachevir.baglar",
+      "name": "Bağlar",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/276504965"
+    },
+    {
+      "id": "az.mingachevir.bozdag-mehellesi",
+      "name": "Bozdağ məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1028155508"
+    },
+    {
+      "id": "az.mingachevir.gunesli",
+      "name": "Günəşli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/276504967"
+    },
+    {
+      "id": "az.mingachevir.ikicayarasi-mehellesi",
+      "name": "İkiçayarası Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1027137884"
+    },
+    {
+      "id": "az.mingachevir.kohne-mehelle",
+      "name": "Köhnə məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1026475614"
+    },
+    {
+      "id": "az.mingachevir.qacqinlar-mehellesi",
+      "name": "Qaçqınlar məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1028142261"
+    },
+    {
+      "id": "az.mingachevir.qres-qesebesi",
+      "name": "Qres qəsəbəsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1028155497"
+    },
+    {
+      "id": "az.mingachevir.meydan-mehellesi",
+      "name": "Meydan Məhəlləsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1026796838"
+    },
+    {
+      "id": "az.mingachevir.nur-mehellesi",
+      "name": "Nur məhəlləsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1028136721"
+    },
+    {
+      "id": "az.mingachevir.ocaq-mehellesi",
+      "name": "Ocaq məhəlləsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1026479834"
+    },
+    {
+      "id": "az.mingachevir.sagsahil-mehellesi",
+      "name": "Sağsahil məhəlləsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1026475615"
+    },
+    {
+      "id": "az.mingachevir.solsahil-mehellesi",
+      "name": "Solsahil məhəlləsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1028142249"
+    },
+    {
+      "id": "az.mingachevir.seddadiler-mehellesi",
+      "name": "Şəddadilər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1028142262"
+    },
+    {
+      "id": "az.mingachevir.tekudarxan-mehellesi",
+      "name": "Təkudarxan məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1028155500"
+    },
+    {
+      "id": "az.mingachevir.ucxoz-mehellesi",
+      "name": "Üçxoz məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1028155501"
+    },
+    {
+      "id": "az.mingachevir.yeni-mehelle",
+      "name": "Yeni məhəllə",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1028136719"
+    }
+  ],
+  "landmarks": 378,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "demotedAdded": 0,
+  "unnamedDropped": 59,
+  "debt": [],
+  "landOnly": true
+}
