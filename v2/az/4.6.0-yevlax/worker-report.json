@@ -1,0 +1,57 @@
+{
+  "version": "4.6.0-yevlax",
+  "slice": "A2",
+  "inventoryCount": 6,
+  "ownedLocalities": [
+    {
+      "id": "az.yevlax.1-ci-mikrorayon",
+      "name": "1-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1013170841"
+    },
+    {
+      "id": "az.yevlax.2-ci-mikrorayon",
+      "name": "2-ci Mikrorayon",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1013170842"
+    },
+    {
+      "id": "az.yevlax.qaracilar-mehellesi",
+      "name": "Qaraçılar Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1013170835"
+    },
+    {
+      "id": "az.yevlax.malazgird-mehellesi",
+      "name": "Malazgird məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1013170846"
+    },
+    {
+      "id": "az.yevlax.sebzebar-mehellesi",
+      "name": "Səbzəbar Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1013170838"
+    },
+    {
+      "id": "az.yevlax.yeni-yevlax-mehellesi",
+      "name": "Yeni Yevlax Məhəlləsi",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/1013170834"
+    }
+  ],
+  "landmarks": 198,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 20,
+  "debt": [],
+  "landOnly": true
+}
