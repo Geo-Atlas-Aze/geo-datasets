@@ -1,0 +1,225 @@
+{
+  "version": "4.1.2-xizi",
+  "slice": "S9",
+  "inventoryCount": 30,
+  "ownedLocalities": [
+    {
+      "id": "az.xizi.agdere",
+      "name": "Ağdərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275293773"
+    },
+    {
+      "id": "az.xizi.altiagac",
+      "name": "Altıağac",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273674311"
+    },
+    {
+      "id": "az.xizi.baxisli",
+      "name": "Baxışlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/822178946"
+    },
+    {
+      "id": "az.xizi.beyehmedyurd",
+      "name": "Bəyəhmədyurd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274373818"
+    },
+    {
+      "id": "az.xizi.dizever",
+      "name": "Dizəvər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274376459"
+    },
+    {
+      "id": "az.xizi.embizler",
+      "name": "Əmbizlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274213033"
+    },
+    {
+      "id": "az.xizi.engilan",
+      "name": "Əngilan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274213034"
+    },
+    {
+      "id": "az.xizi.fehle-qesebesi",
+      "name": "Fəhlə qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/273658763"
+    },
+    {
+      "id": "az.xizi.findigan",
+      "name": "Fındığan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273673643"
+    },
+    {
+      "id": "az.xizi.gedi",
+      "name": "Gədi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/821961446"
+    },
+    {
+      "id": "az.xizi.gilezi",
+      "name": "Giləzi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274211225"
+    },
+    {
+      "id": "az.xizi.guneyqislaq",
+      "name": "Güneyqışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285091568"
+    },
+    {
+      "id": "az.xizi.xelec",
+      "name": "Xələc",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2785058799"
+    },
+    {
+      "id": "az.xizi.xelenc",
+      "name": "Xələnc",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273673644"
+    },
+    {
+      "id": "az.xizi.kohne-xizi",
+      "name": "Köhnə Xızı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273677043"
+    },
+    {
+      "id": "az.xizi.qarabulaq",
+      "name": "Qarabulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273677045"
+    },
+    {
+      "id": "az.xizi.qars",
+      "name": "Qars",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273674728"
+    },
+    {
+      "id": "az.xizi.qasimkend",
+      "name": "Qasımkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274213030"
+    },
+    {
+      "id": "az.xizi.qizilqazma",
+      "name": "Qızılqazma",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/363442144"
+    },
+    {
+      "id": "az.xizi.mesedi-hesen",
+      "name": "Məşədi Həsən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274382958"
+    },
+    {
+      "id": "az.xizi.safbulaq",
+      "name": "Safbulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274506193"
+    },
+    {
+      "id": "az.xizi.sitalcay",
+      "name": "Sitalçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273677865"
+    },
+    {
+      "id": "az.xizi.sitalcay-herbi",
+      "name": "Sitalçay Hərbi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/273678350"
+    },
+    {
+      "id": "az.xizi.tezekend",
+      "name": "Təzəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274373820"
+    },
+    {
+      "id": "az.xizi.tixli",
+      "name": "Tıxlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273677047"
+    },
+    {
+      "id": "az.xizi.tudar",
+      "name": "Tudar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274213031"
+    },
+    {
+      "id": "az.xizi.verdah",
+      "name": "Vərdah",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284496560"
+    },
+    {
+      "id": "az.xizi.yarimca",
+      "name": "Yarımca",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273674730"
+    },
+    {
+      "id": "az.xizi.yasma-stansiyasi",
+      "name": "Yaşma Stansiyası",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/895961192"
+    },
+    {
+      "id": "az.xizi.yeni-yasma",
+      "name": "Yeni Yaşma",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273658766"
+    }
+  ],
+  "landmarks": 86,
+  "metro": 0,
+  "seedAdded": 7,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 33,
+  "debt": [],
+  "landOnly": true
+}
