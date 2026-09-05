@@ -1,0 +1,20 @@
+{
+  "version": "4.11.0-karabakh-skeleton",
+  "slice": "K0",
+  "debt": [],
+  "added": [
+    "az.khankendi",
+    "az.agjabadi",
+    "az.agdam",
+    "az.agdere",
+    "az.barda",
+    "az.fuzuli",
+    "az.khojaly",
+    "az.khojavend",
+    "az.shusha",
+    "az.tartar",
+    "az.er.karabakh"
+  ],
+  "entityCount": 33948,
+  "landOnly": true
+}
