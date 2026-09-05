@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.11.0-khojaly",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "K7",
+    "districtId": "az.khojaly",
+    "entityCount": 37461,
+    "localities": 131,
+    "landmarksInDistrict": 1210,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
