@@ -1,0 +1,15 @@
+{
+  "version": "4.7.0-shirvan-salyan-skeleton",
+  "slice": "R0",
+  "debt": [],
+  "added": [
+    "az.shirvan",
+    "az.bilesuvar",
+    "az.hajigabul",
+    "az.neftchala",
+    "az.salyan",
+    "az.er.shirvan-salyan"
+  ],
+  "entityCount": 33054,
+  "landOnly": true
+}
