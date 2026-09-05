@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.6.0-central-aran-full",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "A8",
+    "districtId": null,
+    "entityCount": 33048,
+    "localities": 0,
+    "landmarksInDistrict": 0,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
