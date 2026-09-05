@@ -1,0 +1,358 @@
+{
+  "version": "4.7.0-hajigabul",
+  "slice": "R3",
+  "inventoryCount": 49,
+  "ownedLocalities": [
+    {
+      "id": "az.hajigabul.abdulabad",
+      "name": "Abdulabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606845844"
+    },
+    {
+      "id": "az.hajigabul.abdulxan-mehellesi",
+      "name": "Abdulxan Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983279358"
+    },
+    {
+      "id": "az.hajigabul.adisirinler-mehellesi",
+      "name": "Adışirinlər Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983280806"
+    },
+    {
+      "id": "az.hajigabul.agacanli",
+      "name": "Ağacanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1413325534"
+    },
+    {
+      "id": "az.hajigabul.axtaci-sirvan",
+      "name": "Axtaçı Şirvan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606847163"
+    },
+    {
+      "id": "az.hajigabul.atbulaq",
+      "name": "Atbulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289784664"
+    },
+    {
+      "id": "az.hajigabul.baliqci",
+      "name": "Balıqçı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752072619"
+    },
+    {
+      "id": "az.hajigabul.baliqci-qesebesi",
+      "name": "Balıqçı qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1413325535"
+    },
+    {
+      "id": "az.hajigabul.baliqci-mehellesi",
+      "name": "Balıqçı Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983279359"
+    },
+    {
+      "id": "az.hajigabul.birinci-meyniman",
+      "name": "Birinci Meyniman",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606847230"
+    },
+    {
+      "id": "az.hajigabul.burvend",
+      "name": "Bürvənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/775468740"
+    },
+    {
+      "id": "az.hajigabul.col-mehelle",
+      "name": "Çöl Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983281933"
+    },
+    {
+      "id": "az.hajigabul.eletli",
+      "name": "Ələtli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073623"
+    },
+    {
+      "id": "az.hajigabul.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/900473102"
+    },
+    {
+      "id": "az.hajigabul.iceri-mehelle",
+      "name": "İçəri Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983281936"
+    },
+    {
+      "id": "az.hajigabul.ikinci-meyniman",
+      "name": "İkinci Meyniman",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606847096"
+    },
+    {
+      "id": "az.hajigabul.islamiyyet-mehellesi",
+      "name": "İslamiyyət Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983281935"
+    },
+    {
+      "id": "az.hajigabul.isciler-mehellesi",
+      "name": "İşçilər Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983281934"
+    },
+    {
+      "id": "az.hajigabul.kolanli",
+      "name": "Kolanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606846124"
+    },
+    {
+      "id": "az.hajigabul.kurdcu",
+      "name": "Kürdçü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289784665"
+    },
+    {
+      "id": "az.hajigabul.qarasu",
+      "name": "Qarasu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289771482"
+    },
+    {
+      "id": "az.hajigabul.qazimemmed-mehellesi",
+      "name": "Qazıməmməd Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983279735"
+    },
+    {
+      "id": "az.hajigabul.qizil-dovr-mehlesi",
+      "name": "Qızıl Dövr Məhləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983276078"
+    },
+    {
+      "id": "az.hajigabul.qizilburun",
+      "name": "Qızılburun",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289784667"
+    },
+    {
+      "id": "az.hajigabul.qizilburun-qacqin-seherciyi",
+      "name": "Qızılburun qaçqın şəhərciyi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/429353751"
+    },
+    {
+      "id": "az.hajigabul.qubali",
+      "name": "Qubalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/287741789"
+    },
+    {
+      "id": "az.hajigabul.qubalibalaoglan",
+      "name": "Qubalıbalaoğlan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283552763"
+    },
+    {
+      "id": "az.hajigabul.meyniman",
+      "name": "Meyniman",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606847442"
+    },
+    {
+      "id": "az.hajigabul.mugan",
+      "name": "Muğan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289772231"
+    },
+    {
+      "id": "az.hajigabul.navahi",
+      "name": "Navahi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283553428"
+    },
+    {
+      "id": "az.hajigabul.nevahi-stansiya",
+      "name": "Nəvahi Stansiya",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283553536"
+    },
+    {
+      "id": "az.hajigabul.padar",
+      "name": "Padar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/287228199"
+    },
+    {
+      "id": "az.hajigabul.padar-stansiya",
+      "name": "Padar Stansiya",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/276752433"
+    },
+    {
+      "id": "az.hajigabul.pasali-1",
+      "name": "Paşalı 1",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289765992"
+    },
+    {
+      "id": "az.hajigabul.pasali-2",
+      "name": "Paşalı 2",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289765994"
+    },
+    {
+      "id": "az.hajigabul.pasali-birinci",
+      "name": "Paşalı Birinci",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2933056145"
+    },
+    {
+      "id": "az.hajigabul.pasali-ikinci",
+      "name": "Paşalı İkinci",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2933056147"
+    },
+    {
+      "id": "az.hajigabul.pirsaat",
+      "name": "Pirsaat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283553235"
+    },
+    {
+      "id": "az.hajigabul.pirsaatcay",
+      "name": "Pirsaatçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289769240"
+    },
+    {
+      "id": "az.hajigabul.rencber",
+      "name": "Rəncbər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/283552517"
+    },
+    {
+      "id": "az.hajigabul.sarixalca-mehellesi",
+      "name": "Sarıxalça Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983279357"
+    },
+    {
+      "id": "az.hajigabul.sahabad-mehellesi",
+      "name": "Şahabad Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/983280807"
+    },
+    {
+      "id": "az.hajigabul.sorbaci",
+      "name": "Şorbaçı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289765995"
+    },
+    {
+      "id": "az.hajigabul.tagili",
+      "name": "Tağılı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/287741661"
+    },
+    {
+      "id": "az.hajigabul.talis",
+      "name": "Talış",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606846312"
+    },
+    {
+      "id": "az.hajigabul.udullu-1",
+      "name": "Udullu 1",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289765993"
+    },
+    {
+      "id": "az.hajigabul.udullu-2",
+      "name": "Udullu 2",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/287741663"
+    },
+    {
+      "id": "az.hajigabul.udullu-birinci",
+      "name": "Udullu Birinci",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2933056146"
+    },
+    {
+      "id": "az.hajigabul.udullu-ikinci",
+      "name": "Udullu İkinci",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2913090347"
+    }
+  ],
+  "landmarks": 263,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 26,
+  "debt": [],
+  "landOnly": true
+}
