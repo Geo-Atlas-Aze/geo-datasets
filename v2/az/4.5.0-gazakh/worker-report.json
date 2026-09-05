@@ -1,0 +1,295 @@
+{
+  "version": "4.5.0-gazakh",
+  "slice": "T3",
+  "inventoryCount": 42,
+  "ownedLocalities": [
+    {
+      "id": "az.gazakh.abbasbeyli",
+      "name": "Abbasbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1311821121"
+    },
+    {
+      "id": "az.gazakh.agkoynek",
+      "name": "Ağköynək",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1310834481"
+    },
+    {
+      "id": "az.gazakh.alpout",
+      "name": "Alpout",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1311615876"
+    },
+    {
+      "id": "az.gazakh.aslanbeyli",
+      "name": "Aslanbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1347132611"
+    },
+    {
+      "id": "az.gazakh.asagi-eskipara-xarabaligi",
+      "name": "Aşağı Əskipara xarabalığı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312437287"
+    },
+    {
+      "id": "az.gazakh.asagi-salahli",
+      "name": "Aşağı Salahlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296114455"
+    },
+    {
+      "id": "az.gazakh.baganis-ayrim",
+      "name": "Bağanıs Ayrım",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312437271"
+    },
+    {
+      "id": "az.gazakh.bala-ceferli",
+      "name": "Bala Cəfərli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1314200582"
+    },
+    {
+      "id": "az.gazakh.bala-cayli",
+      "name": "Bala Çaylı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1311072263"
+    },
+    {
+      "id": "az.gazakh.birinci-sixli",
+      "name": "Birinci Şıxlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1312682796"
+    },
+    {
+      "id": "az.gazakh.canali",
+      "name": "Canalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1304225800"
+    },
+    {
+      "id": "az.gazakh.ceferli",
+      "name": "Cəfərli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1314212936"
+    },
+    {
+      "id": "az.gazakh.cayli",
+      "name": "Çaylı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1310913729"
+    },
+    {
+      "id": "az.gazakh.das-karyeri",
+      "name": "Daş Karyeri",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/713537260"
+    },
+    {
+      "id": "az.gazakh.das-salahli",
+      "name": "Daş Salahlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1311602661"
+    },
+    {
+      "id": "az.gazakh.demirciler",
+      "name": "Dəmirçilər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1311105700"
+    },
+    {
+      "id": "az.gazakh.demirciler-sixli",
+      "name": "Dəmirçilər Şıxlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1312682805"
+    },
+    {
+      "id": "az.gazakh.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1312096271"
+    },
+    {
+      "id": "az.gazakh.ferehli",
+      "name": "Fərəhli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1311821031"
+    },
+    {
+      "id": "az.gazakh.herbi-sehercik",
+      "name": "Hərbi Şəhərcik",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1296424289"
+    },
+    {
+      "id": "az.gazakh.huseynbeyli",
+      "name": "Hüseynbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1305308856"
+    },
+    {
+      "id": "az.gazakh.xanliqlar",
+      "name": "Xanlıqlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1313858184"
+    },
+    {
+      "id": "az.gazakh.ikinci-sixli",
+      "name": "İkinci Şıxlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1313096369"
+    },
+    {
+      "id": "az.gazakh.kemerli",
+      "name": "Kəmərli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1347170885"
+    },
+    {
+      "id": "az.gazakh.kosalar",
+      "name": "Kosalar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1304149958"
+    },
+    {
+      "id": "az.gazakh.qarapapaq",
+      "name": "Qarapapaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1308886236"
+    },
+    {
+      "id": "az.gazakh.qaymaqli",
+      "name": "Qaymaqlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1347170886"
+    },
+    {
+      "id": "az.gazakh.qazax-sement-zavodu",
+      "name": "Qazax Sement Zavodu",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/713537453"
+    },
+    {
+      "id": "az.gazakh.qazaxbeyli",
+      "name": "Qazaxbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296424299"
+    },
+    {
+      "id": "az.gazakh.qizilhacili-xarabaliq",
+      "name": "Qızılhacılı xarabalıq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1311836493"
+    },
+    {
+      "id": "az.gazakh.quscu-ayrim",
+      "name": "Quşçu Ayrım",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1312318610"
+    },
+    {
+      "id": "az.gazakh.mezem",
+      "name": "Məzəm",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1312319442"
+    },
+    {
+      "id": "az.gazakh.nerimanov-qesebesi",
+      "name": "Nərimanov Qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1310834480"
+    },
+    {
+      "id": "az.gazakh.orta-salahli",
+      "name": "Orta Salahlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296114378"
+    },
+    {
+      "id": "az.gazakh.omeragali",
+      "name": "Ömərağalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/78760949"
+    },
+    {
+      "id": "az.gazakh.sarivelli",
+      "name": "Sarıvəlli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1313096372"
+    },
+    {
+      "id": "az.gazakh.urkmezli",
+      "name": "Ürkmezli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1311085838"
+    },
+    {
+      "id": "az.gazakh.vagzal-qesebe-qazax",
+      "name": "Vağzal Qəsəbə Qazax",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1308893885"
+    },
+    {
+      "id": "az.gazakh.yeni-qesebe-qazaxbeyli",
+      "name": "Yeni Qəsəbə Qazaxbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5858725539"
+    },
+    {
+      "id": "az.gazakh.yuxari-salahli",
+      "name": "Yuxarı Salahlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296453868"
+    }
+  ],
+  "landmarks": 501,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "demotedAdded": 2,
+  "unnamedDropped": 56,
+  "debt": [],
+  "landOnly": true
+}
