@@ -1,0 +1,414 @@
+{
+  "version": "4.13.0-sharur",
+  "slice": "X8",
+  "inventoryCount": 61,
+  "ownedLocalities": [
+    {
+      "id": "az.sharur.axamed",
+      "name": "Axaməd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781503137"
+    },
+    {
+      "id": "az.sharur.axura",
+      "name": "Axura",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/455670754"
+    },
+    {
+      "id": "az.sharur.alisar",
+      "name": "Alışar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785321851"
+    },
+    {
+      "id": "az.sharur.arbatan",
+      "name": "Arbatan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785314868"
+    },
+    {
+      "id": "az.sharur.arpacay",
+      "name": "Arpaçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781505103"
+    },
+    {
+      "id": "az.sharur.asagi-araliq",
+      "name": "Aşağı Aralıq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518389"
+    },
+    {
+      "id": "az.sharur.asagi-dasarx",
+      "name": "Aşağı Daşarx",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781509716"
+    },
+    {
+      "id": "az.sharur.asagi-yayci",
+      "name": "Aşağı Yaycı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781499855"
+    },
+    {
+      "id": "az.sharur.babeki",
+      "name": "Babəki",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781505101"
+    },
+    {
+      "id": "az.sharur.cemenli",
+      "name": "Çəmənli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781505102"
+    },
+    {
+      "id": "az.sharur.cercibogan",
+      "name": "Çərçiboğan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785314869"
+    },
+    {
+      "id": "az.sharur.comaxtur",
+      "name": "Çomaxtur",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785314867"
+    },
+    {
+      "id": "az.sharur.danyeri",
+      "name": "Danyeri",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/550870173"
+    },
+    {
+      "id": "az.sharur.derekend",
+      "name": "Dərəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781511212"
+    },
+    {
+      "id": "az.sharur.dervisler",
+      "name": "Dərvişlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785311715"
+    },
+    {
+      "id": "az.sharur.diyadin",
+      "name": "Diyadin",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781513136"
+    },
+    {
+      "id": "az.sharur.dize",
+      "name": "Dizə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/183432829"
+    },
+    {
+      "id": "az.sharur.elekli",
+      "name": "Ələkli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785318468"
+    },
+    {
+      "id": "az.sharur.erebyengice",
+      "name": "Ərəbyengicə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785309431"
+    },
+    {
+      "id": "az.sharur.gumuslu",
+      "name": "Gümüşlü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781499992"
+    },
+    {
+      "id": "az.sharur.hemzeli",
+      "name": "Həmzəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781499669"
+    },
+    {
+      "id": "az.sharur.xanliqlar",
+      "name": "Xanlıqlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785319167"
+    },
+    {
+      "id": "az.sharur.xelec",
+      "name": "Xələc",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785321958"
+    },
+    {
+      "id": "az.sharur.xetai",
+      "name": "Xətai",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781509602"
+    },
+    {
+      "id": "az.sharur.ibadulla",
+      "name": "İbadulla",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785319803"
+    },
+    {
+      "id": "az.sharur.kerimbeyli",
+      "name": "Kərimbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781503418"
+    },
+    {
+      "id": "az.sharur.kosacan",
+      "name": "Kosacan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518388"
+    },
+    {
+      "id": "az.sharur.kurculu",
+      "name": "Kürçülü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781503934"
+    },
+    {
+      "id": "az.sharur.kurkend",
+      "name": "Kürkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781503935"
+    },
+    {
+      "id": "az.sharur.qaraburc",
+      "name": "Qaraburc",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781501723"
+    },
+    {
+      "id": "az.sharur.qarahesenli",
+      "name": "Qarahəsənli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785309475"
+    },
+    {
+      "id": "az.sharur.qarxun",
+      "name": "Qarxun",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518064"
+    },
+    {
+      "id": "az.sharur.qislaqabbas",
+      "name": "Qışlaqabbas",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785319804"
+    },
+    {
+      "id": "az.sharur.qorculu",
+      "name": "Qorçulu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785321048"
+    },
+    {
+      "id": "az.sharur.mahmudkend",
+      "name": "Mahmudkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981045937"
+    },
+    {
+      "id": "az.sharur.maxta",
+      "name": "Maxta",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781503089"
+    },
+    {
+      "id": "az.sharur.memmedsabir",
+      "name": "Məmmədsabir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7340704893"
+    },
+    {
+      "id": "az.sharur.muganciq-mehrab",
+      "name": "Muğancıq Mehrab",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518009"
+    },
+    {
+      "id": "az.sharur.muganciq-muslum",
+      "name": "Muğancıq Müslüm",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518008"
+    },
+    {
+      "id": "az.sharur.muganli",
+      "name": "Muğanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785321850"
+    },
+    {
+      "id": "az.sharur.oglanqala",
+      "name": "Oğlanqala",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981045640"
+    },
+    {
+      "id": "az.sharur.oguzkend",
+      "name": "Oğuzkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781509618"
+    },
+    {
+      "id": "az.sharur.pusyan",
+      "name": "Püsyan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781512690"
+    },
+    {
+      "id": "az.sharur.serxanli",
+      "name": "Sərxanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518007"
+    },
+    {
+      "id": "az.sharur.siyaqut",
+      "name": "Siyaqut",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518512"
+    },
+    {
+      "id": "az.sharur.sahbulaq",
+      "name": "Şahbulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7296429793"
+    },
+    {
+      "id": "az.sharur.sehriyar",
+      "name": "Şəhriyar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785320908"
+    },
+    {
+      "id": "az.sharur.tenenem",
+      "name": "Tənənəm",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781507692"
+    },
+    {
+      "id": "az.sharur.tezekend",
+      "name": "Təzəkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781516776"
+    },
+    {
+      "id": "az.sharur.tumasli",
+      "name": "Tumaslı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781512993"
+    },
+    {
+      "id": "az.sharur.vayxir",
+      "name": "Vayxır",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781512994"
+    },
+    {
+      "id": "az.sharur.vermeziyar",
+      "name": "Vərməziyar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785318641"
+    },
+    {
+      "id": "az.sharur.yengice",
+      "name": "Yengicə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785320907"
+    },
+    {
+      "id": "az.sharur.yeni-havus",
+      "name": "Yeni Havuş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781509601"
+    },
+    {
+      "id": "az.sharur.yuxari-araliq",
+      "name": "Yuxarı Aralıq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781518390"
+    },
+    {
+      "id": "az.sharur.yuxari-dasarx",
+      "name": "Yuxarı Daşarx",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781511615"
+    },
+    {
+      "id": "az.sharur.yuxari-yayci",
+      "name": "Yuxarı Yaycı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781501147"
+    }
+  ],
+  "landmarks": 15,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 4,
+  "unnamedDropped": 6,
+  "debt": [],
+  "landOnly": true
+}
