@@ -1,0 +1,43 @@
+{
+  "version": "4.9.0-lankaran-city",
+  "slice": "L1",
+  "inventoryCount": 4,
+  "ownedLocalities": [
+    {
+      "id": "az.lankaran.digah",
+      "name": "Digah",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310280053"
+    },
+    {
+      "id": "az.lankaran.lenkeran-yasayis-kompleksi",
+      "name": "Lənkəran Yaşayış Kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1155807640"
+    },
+    {
+      "id": "az.lankaran.sebir",
+      "name": "Səbir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7316620054"
+    },
+    {
+      "id": "az.lankaran.silevar",
+      "name": "Şiləvar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310269607"
+    }
+  ],
+  "landmarks": 74,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "demotedAdded": 0,
+  "unnamedDropped": 26,
+  "debt": [],
+  "landOnly": true
+}
