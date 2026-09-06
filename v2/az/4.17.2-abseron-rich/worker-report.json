@@ -1,0 +1,358 @@
+{
+  "version": "4.17.2-abseron-rich",
+  "slice": "AR1",
+  "inventoryCount": 49,
+  "ownedLocalities": [
+    {
+      "id": "az.abs.abseron-city-yk",
+      "name": "Abşeron City YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/835590909"
+    },
+    {
+      "id": "az.abs.abseron-gencler-seherciyi",
+      "name": "Abşeron Gənclər Şəhərciyi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/163930237"
+    },
+    {
+      "id": "az.abs.asagi-guzdek",
+      "name": "Aşağı Güzdək",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274479743"
+    },
+    {
+      "id": "az.abs.ceyranbatan",
+      "name": "Ceyranbatan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2564078372"
+    },
+    {
+      "id": "az.abs.cennet-parki-yk",
+      "name": "Cənnət Parkı YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1202074835"
+    },
+    {
+      "id": "az.abs.cayli",
+      "name": "Çaylı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274482402"
+    },
+    {
+      "id": "az.abs.digah",
+      "name": "Digah",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1119456614"
+    },
+    {
+      "id": "az.abs.digah-qesebesi",
+      "name": "Digah qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3398738578"
+    },
+    {
+      "id": "az.abs.dream-city",
+      "name": "Dream City",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/886405744"
+    },
+    {
+      "id": "az.abs.eko-park-yk",
+      "name": "Eko Park YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/987116643"
+    },
+    {
+      "id": "az.abs.eliciraq",
+      "name": "Əliçıraq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1120619699"
+    },
+    {
+      "id": "az.abs.fatmayi",
+      "name": "Fatmayı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/185580059"
+    },
+    {
+      "id": "az.abs.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1111584291"
+    },
+    {
+      "id": "az.abs.gencler-seherciyi",
+      "name": "Gənclər Şəhərciyi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/333975643"
+    },
+    {
+      "id": "az.abs.goradil",
+      "name": "Goradil",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/298473570"
+    },
+    {
+      "id": "az.abs.guzdek",
+      "name": "Güzdək",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/177623516"
+    },
+    {
+      "id": "az.abs.hokmeli",
+      "name": "Hökməli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/301879863"
+    },
+    {
+      "id": "az.abs.xocesen-yeni-yasayis-mehellesi",
+      "name": "Xocəsən Yeni Yaşayış Məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1203755296"
+    },
+    {
+      "id": "az.abs.kimsesiz-mezunlar-kompleksi",
+      "name": "Kimsəsiz Məzunlar Kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130631857"
+    },
+    {
+      "id": "az.abs.qacqinlar-yasayis-kompleksi",
+      "name": "Qaçqınlar Yaşayış Kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1120645099"
+    },
+    {
+      "id": "az.abs.qobu",
+      "name": "Qobu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/164457579"
+    },
+    {
+      "id": "az.abs.qobu-village-ys",
+      "name": "Qobu Village YS",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1207002833"
+    },
+    {
+      "id": "az.abs.qobustan-2-yazili-tepe",
+      "name": "Qobustan 2 Yazılı Təpə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/353985478"
+    },
+    {
+      "id": "az.abs.qobustan-qesebesi",
+      "name": "Qobustan qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274480773"
+    },
+    {
+      "id": "az.abs.qurd-deresi",
+      "name": "Qurd Dərəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/299562042"
+    },
+    {
+      "id": "az.abs.qurtulus-93-yk",
+      "name": "Qurtuluş 93 YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130631840"
+    },
+    {
+      "id": "az.abs.mehdiabad",
+      "name": "Mehdiabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1119456613"
+    },
+    {
+      "id": "az.abs.mehemmedli",
+      "name": "Məhəmmədli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1111619317"
+    },
+    {
+      "id": "az.abs.musfiqabad",
+      "name": "Müşfiqabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/365103366"
+    },
+    {
+      "id": "az.abs.novxani",
+      "name": "Novxanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/185580060"
+    },
+    {
+      "id": "az.abs.novxani-baglari",
+      "name": "Novxanı Bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1172584545"
+    },
+    {
+      "id": "az.abs.park-salero-yk",
+      "name": "Park Salero YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130658809"
+    },
+    {
+      "id": "az.abs.pirekeskul",
+      "name": "Pirəkəşkül",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/332035591"
+    },
+    {
+      "id": "az.abs.pirekeskul-qesebesi",
+      "name": "Pirəkəşkül Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1022924189"
+    },
+    {
+      "id": "az.abs.polietilen-anbari",
+      "name": "Polietilen anbari",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/408160778"
+    },
+    {
+      "id": "az.abs.saray",
+      "name": "Saray",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/299562044"
+    },
+    {
+      "id": "az.abs.saray-baglari",
+      "name": "Saray Bağları",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1172584546"
+    },
+    {
+      "id": "az.abs.saray-h-mtk",
+      "name": "Saray H MTK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/945969912"
+    },
+    {
+      "id": "az.abs.saray-uzumluk",
+      "name": "Saray Üzümlük",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1172491182"
+    },
+    {
+      "id": "az.abs.sefeq",
+      "name": "Şəfəq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/888587930"
+    },
+    {
+      "id": "az.abs.sefeq-qesebesi",
+      "name": "Şəfəq qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/11900304551"
+    },
+    {
+      "id": "az.abs.viktoria-city-yk",
+      "name": "Viktoria City YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130650099"
+    },
+    {
+      "id": "az.abs.villa-badam-yk",
+      "name": "Villa Badam YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/273453545"
+    },
+    {
+      "id": "az.abs.villalar",
+      "name": "Villalar",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1111875834"
+    },
+    {
+      "id": "az.abs.yeni-baki-yk",
+      "name": "Yeni Bakı YK",
+      "kind": "Microdistrict",
+      "mode": "OWN",
+      "osm": "geo:way/292886867"
+    },
+    {
+      "id": "az.abs.yeni-ceyranbatan",
+      "name": "Yeni Ceyranbatan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/316274781"
+    },
+    {
+      "id": "az.abs.yeni-saray",
+      "name": "Yeni Saray",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1173138200"
+    },
+    {
+      "id": "az.abs.zengilan-seherciyi-masazir",
+      "name": "Zəngilan şəhərciyi, Masazır",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/304279579"
+    },
+    {
+      "id": "az.abs.west-town-absheron",
+      "name": "West Town Absheron",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1493949342"
+    }
+  ],
+  "landmarks": 2641,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 4,
+  "demotedAdded": 0,
+  "unnamedDropped": 0,
+  "debt": [],
+  "landOnly": true
+}
