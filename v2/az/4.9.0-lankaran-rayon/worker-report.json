@@ -1,0 +1,631 @@
+{
+  "version": "4.9.0-lankaran-rayon",
+  "slice": "L2",
+  "inventoryCount": 88,
+  "ownedLocalities": [
+    {
+      "id": "az.lankaran-rayon.asagi-apu",
+      "name": "Aşağı Apu",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/344299098"
+    },
+    {
+      "id": "az.lankaran-rayon.bala-suruk",
+      "name": "Bala Şürük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311145163"
+    },
+    {
+      "id": "az.lankaran-rayon.beliton",
+      "name": "Bəliton",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/605798623"
+    },
+    {
+      "id": "az.lankaran-rayon.bellebur",
+      "name": "Bəlləbur",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310571680"
+    },
+    {
+      "id": "az.lankaran-rayon.bileser",
+      "name": "Biləsər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/354744786"
+    },
+    {
+      "id": "az.lankaran-rayon.boladi",
+      "name": "Boladi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308788084"
+    },
+    {
+      "id": "az.lankaran-rayon.burceli",
+      "name": "Bürcəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311631309"
+    },
+    {
+      "id": "az.lankaran-rayon.cil",
+      "name": "Cil",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308957518"
+    },
+    {
+      "id": "az.lankaran-rayon.caykenari",
+      "name": "Çaykənarı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/310283167"
+    },
+    {
+      "id": "az.lankaran-rayon.damba-serinbulaq",
+      "name": "Damba Sərinbulaq",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/310670646"
+    },
+    {
+      "id": "az.lankaran-rayon.darquba",
+      "name": "Darquba",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310281515"
+    },
+    {
+      "id": "az.lankaran-rayon.dasdaliqcar",
+      "name": "Daşdalıqcar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311825214"
+    },
+    {
+      "id": "az.lankaran-rayon.dastatuk",
+      "name": "Daştatük",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/344299099"
+    },
+    {
+      "id": "az.lankaran-rayon.diryan",
+      "name": "Dıryan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/783340702"
+    },
+    {
+      "id": "az.lankaran-rayon.elezepin",
+      "name": "Ələzəpin",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/354744591"
+    },
+    {
+      "id": "az.lankaran-rayon.esle",
+      "name": "Əşlə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310577610"
+    },
+    {
+      "id": "az.lankaran-rayon.gegiran",
+      "name": "Gəgiran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/783342186"
+    },
+    {
+      "id": "az.lankaran-rayon.germetuk",
+      "name": "Gərmətük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311145164"
+    },
+    {
+      "id": "az.lankaran-rayon.girdeni",
+      "name": "Girdəni",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309632959"
+    },
+    {
+      "id": "az.lankaran-rayon.goysaban",
+      "name": "Göyşaban",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/783335669"
+    },
+    {
+      "id": "az.lankaran-rayon.gunehir",
+      "name": "Günəhir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/605798624"
+    },
+    {
+      "id": "az.lankaran-rayon.haftaruon",
+      "name": "Haftaruon",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309281005"
+    },
+    {
+      "id": "az.lankaran-rayon.haftoni",
+      "name": "Haftoni",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309635507"
+    },
+    {
+      "id": "az.lankaran-rayon.havzova",
+      "name": "Havzova",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309624450"
+    },
+    {
+      "id": "az.lankaran-rayon.hirkan",
+      "name": "Hirkan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311818536"
+    },
+    {
+      "id": "az.lankaran-rayon.horavenc",
+      "name": "Horavenc",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/605798622"
+    },
+    {
+      "id": "az.lankaran-rayon.xanbulan",
+      "name": "Xanbulan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311631323"
+    },
+    {
+      "id": "az.lankaran-rayon.xanliqli",
+      "name": "Xanlıqlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309634288"
+    },
+    {
+      "id": "az.lankaran-rayon.xarxatan",
+      "name": "Xarxatan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308957015"
+    },
+    {
+      "id": "az.lankaran-rayon.xolmili",
+      "name": "Xolmili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311442464"
+    },
+    {
+      "id": "az.lankaran-rayon.istisu",
+      "name": "İstisu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309632739"
+    },
+    {
+      "id": "az.lankaran-rayon.jidi",
+      "name": "Jidi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/783340855"
+    },
+    {
+      "id": "az.lankaran-rayon.kergelan",
+      "name": "Kərgəlan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310287305"
+    },
+    {
+      "id": "az.lankaran-rayon.kosalar",
+      "name": "Kosalar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310690990"
+    },
+    {
+      "id": "az.lankaran-rayon.kohne-gegir",
+      "name": "Köhnə Gəgir",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/783340395"
+    },
+    {
+      "id": "az.lankaran-rayon.kuvenil",
+      "name": "Küvənil",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311160125"
+    },
+    {
+      "id": "az.lankaran-rayon.qodese",
+      "name": "Qodəsə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/605797525"
+    },
+    {
+      "id": "az.lankaran-rayon.qumbasi",
+      "name": "Qumbaşı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308617463"
+    },
+    {
+      "id": "az.lankaran-rayon.qurumba",
+      "name": "Qurumba",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310570180"
+    },
+    {
+      "id": "az.lankaran-rayon.lej",
+      "name": "Ləj",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309635952"
+    },
+    {
+      "id": "az.lankaran-rayon.liman",
+      "name": "Liman",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/308776606"
+    },
+    {
+      "id": "az.lankaran-rayon.luveser",
+      "name": "Lüvəsər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310682942"
+    },
+    {
+      "id": "az.lankaran-rayon.mamusta",
+      "name": "Mamusta",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311829139"
+    },
+    {
+      "id": "az.lankaran-rayon.mikolan",
+      "name": "Mikolan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310679977"
+    },
+    {
+      "id": "az.lankaran-rayon.mogonojoba",
+      "name": "Moğonojoba",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1313164421"
+    },
+    {
+      "id": "az.lankaran-rayon.mollakend",
+      "name": "Mollakənd",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/310577608"
+    },
+    {
+      "id": "az.lankaran-rayon.moloja",
+      "name": "Moloja",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309279973"
+    },
+    {
+      "id": "az.lankaran-rayon.narbagi",
+      "name": "Narbağı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310578437"
+    },
+    {
+      "id": "az.lankaran-rayon.nerimanabad-1",
+      "name": "Nərimanabad-1",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/295833135"
+    },
+    {
+      "id": "az.lankaran-rayon.osakuce",
+      "name": "Osaküçə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309284208"
+    },
+    {
+      "id": "az.lankaran-rayon.pambeyi",
+      "name": "Pambəyi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309284209"
+    },
+    {
+      "id": "az.lankaran-rayon.parakend",
+      "name": "Parakənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7300555106"
+    },
+    {
+      "id": "az.lankaran-rayon.piran",
+      "name": "Piran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/355459844"
+    },
+    {
+      "id": "az.lankaran-rayon.rezvan",
+      "name": "Rəzvan",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/344303840"
+    },
+    {
+      "id": "az.lankaran-rayon.rvo",
+      "name": "Rvo",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310578274"
+    },
+    {
+      "id": "az.lankaran-rayon.seliqavol",
+      "name": "Seliqavol",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/354744590"
+    },
+    {
+      "id": "az.lankaran-rayon.separadi",
+      "name": "Separadi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308954738"
+    },
+    {
+      "id": "az.lankaran-rayon.seyidekeran",
+      "name": "Seyidəkəran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311272447"
+    },
+    {
+      "id": "az.lankaran-rayon.seyidoba",
+      "name": "Seyidoba",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308609490"
+    },
+    {
+      "id": "az.lankaran-rayon.sepnekenar",
+      "name": "Səpnəkənar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310686367"
+    },
+    {
+      "id": "az.lankaran-rayon.sepnekeran",
+      "name": "Səpnəkəran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3161459181"
+    },
+    {
+      "id": "az.lankaran-rayon.serinbulaq",
+      "name": "Sərinbulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310677144"
+    },
+    {
+      "id": "az.lankaran-rayon.sinovli",
+      "name": "Sinovli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309275164"
+    },
+    {
+      "id": "az.lankaran-rayon.siyabli",
+      "name": "Siyablı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310575910"
+    },
+    {
+      "id": "az.lankaran-rayon.saglakuce",
+      "name": "Şağlaküçə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310289258"
+    },
+    {
+      "id": "az.lankaran-rayon.saglaser",
+      "name": "Şağlaser",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308957016"
+    },
+    {
+      "id": "az.lankaran-rayon.sixekeran",
+      "name": "Şıxəkəran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311450265"
+    },
+    {
+      "id": "az.lankaran-rayon.sirinsu",
+      "name": "Şirinsu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308772832"
+    },
+    {
+      "id": "az.lankaran-rayon.sivlik",
+      "name": "Şivlik",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/783445478"
+    },
+    {
+      "id": "az.lankaran-rayon.sovu",
+      "name": "Şovu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/356213609"
+    },
+    {
+      "id": "az.lankaran-rayon.suruk",
+      "name": "Şürük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310697281"
+    },
+    {
+      "id": "az.lankaran-rayon.talisli",
+      "name": "Talışlı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/309653191"
+    },
+    {
+      "id": "az.lankaran-rayon.tatoba",
+      "name": "Tatoba",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309619068"
+    },
+    {
+      "id": "az.lankaran-rayon.tengivan",
+      "name": "Təngivan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/356213608"
+    },
+    {
+      "id": "az.lankaran-rayon.tuado",
+      "name": "Tuado",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/783339706"
+    },
+    {
+      "id": "az.lankaran-rayon.tukevile",
+      "name": "Tükəvilə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308959424"
+    },
+    {
+      "id": "az.lankaran-rayon.turkekeran",
+      "name": "Türkəkəran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310698424"
+    },
+    {
+      "id": "az.lankaran-rayon.turkencil",
+      "name": "Türkəncil",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/605797526"
+    },
+    {
+      "id": "az.lankaran-rayon.tutepeste",
+      "name": "Tütəpeştə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:relation/18004582"
+    },
+    {
+      "id": "az.lankaran-rayon.urge",
+      "name": "Ürgə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308964034"
+    },
+    {
+      "id": "az.lankaran-rayon.uzumculuk",
+      "name": "Üzümçülük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/295833136"
+    },
+    {
+      "id": "az.lankaran-rayon.veledi",
+      "name": "Velədi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/311285243"
+    },
+    {
+      "id": "az.lankaran-rayon.viy",
+      "name": "Vıy",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7312602747"
+    },
+    {
+      "id": "az.lankaran-rayon.vilvan",
+      "name": "Vilvan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309602057"
+    },
+    {
+      "id": "az.lankaran-rayon.viravul",
+      "name": "Viravul",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/309608367"
+    },
+    {
+      "id": "az.lankaran-rayon.viyen",
+      "name": "Viyən",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/311296943"
+    },
+    {
+      "id": "az.lankaran-rayon.yuxari-nuvedi",
+      "name": "Yuxarı Nüvədi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/310685179"
+    },
+    {
+      "id": "az.lankaran-rayon.zovle",
+      "name": "Zövlə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/308605910"
+    }
+  ],
+  "landmarks": 38,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 17,
+  "debt": [],
+  "landOnly": true
+}
