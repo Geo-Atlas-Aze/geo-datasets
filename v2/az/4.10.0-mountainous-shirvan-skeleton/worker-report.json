@@ -1,0 +1,14 @@
+{
+  "version": "4.10.0-mountainous-shirvan-skeleton",
+  "slice": "D0",
+  "debt": [],
+  "added": [
+    "az.agsu",
+    "az.ismailly",
+    "az.gobustan",
+    "az.shamakhi",
+    "az.er.mountainous-shirvan"
+  ],
+  "entityCount": 41083,
+  "landOnly": true
+}
