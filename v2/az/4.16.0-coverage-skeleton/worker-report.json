@@ -1,0 +1,13 @@
+{
+  "version": "4.16.0-coverage-skeleton",
+  "slice": "F0",
+  "debt": [],
+  "added": [
+    "az.baku",
+    "az.sheki-rayon",
+    "az.yevlax-rayon"
+  ],
+  "entityCount": 42836,
+  "boundaryCount": 5039,
+  "landOnly": true
+}
