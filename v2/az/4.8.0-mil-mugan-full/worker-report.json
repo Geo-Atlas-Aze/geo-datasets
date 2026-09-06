@@ -1,0 +1,561 @@
+{
+  "version": "4.8.0-sabirabad",
+  "slice": "M4",
+  "inventoryCount": 78,
+  "ownedLocalities": [
+    {
+      "id": "az.sabirabad.axisxa",
+      "name": "Axısxa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606843791"
+    },
+    {
+      "id": "az.sabirabad.axtaci",
+      "name": "Axtacı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/621402498"
+    },
+    {
+      "id": "az.sabirabad.axtaci-mugan",
+      "name": "Axtaçı Muğan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430143814"
+    },
+    {
+      "id": "az.sabirabad.azadkend",
+      "name": "Azadkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290212951"
+    },
+    {
+      "id": "az.sabirabad.bala-hesimxanli",
+      "name": "Bala Həşimxanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430150597"
+    },
+    {
+      "id": "az.sabirabad.balakend",
+      "name": "Balakənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781007601"
+    },
+    {
+      "id": "az.sabirabad.balvar",
+      "name": "Balvar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606849562"
+    },
+    {
+      "id": "az.sabirabad.bayramli",
+      "name": "Bayramlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1416611145"
+    },
+    {
+      "id": "az.sabirabad.besdeli",
+      "name": "Beşdəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1422160756"
+    },
+    {
+      "id": "az.sabirabad.bulaqli",
+      "name": "Bulaqlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277654879"
+    },
+    {
+      "id": "az.sabirabad.bulduq",
+      "name": "Bulduq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073634"
+    },
+    {
+      "id": "az.sabirabad.cavad",
+      "name": "Cavad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607107745"
+    },
+    {
+      "id": "az.sabirabad.cengan",
+      "name": "Cəngan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290298859"
+    },
+    {
+      "id": "az.sabirabad.cigirgan",
+      "name": "Çığırğan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1442448307"
+    },
+    {
+      "id": "az.sabirabad.cicekli",
+      "name": "Çiçəkli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290298860"
+    },
+    {
+      "id": "az.sabirabad.col-agamemmedli",
+      "name": "Çöl Ağaməmmədli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430148120"
+    },
+    {
+      "id": "az.sabirabad.col-besdeli",
+      "name": "Çöl Beşdəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430143868"
+    },
+    {
+      "id": "az.sabirabad.col-dellek",
+      "name": "Çöl Dəllək",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430148114"
+    },
+    {
+      "id": "az.sabirabad.dadasbeyli",
+      "name": "Dadaşbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289854794"
+    },
+    {
+      "id": "az.sabirabad.ehmedabad",
+      "name": "Əhmədabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/780806830"
+    },
+    {
+      "id": "az.sabirabad.elicanli",
+      "name": "Əlicanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607108390"
+    },
+    {
+      "id": "az.sabirabad.elilembeyli",
+      "name": "Əliləmbəyli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430148125"
+    },
+    {
+      "id": "az.sabirabad.esedli",
+      "name": "Əsədli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277653462"
+    },
+    {
+      "id": "az.sabirabad.esgerbeyli",
+      "name": "Əsgərbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607109050"
+    },
+    {
+      "id": "az.sabirabad.etceler",
+      "name": "Ətcələr",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430135832"
+    },
+    {
+      "id": "az.sabirabad.ferma-minbasi",
+      "name": "Ferma Minbaşı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1416609277"
+    },
+    {
+      "id": "az.sabirabad.ferna-qaraagac",
+      "name": "Ferna Qaraağac",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1418155471"
+    },
+    {
+      "id": "az.sabirabad.gudecuhur",
+      "name": "Güdəcühür",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073626"
+    },
+    {
+      "id": "az.sabirabad.hacibebir",
+      "name": "Hacıbəbir",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430143870"
+    },
+    {
+      "id": "az.sabirabad.hesenli",
+      "name": "Həsənli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073649"
+    },
+    {
+      "id": "az.sabirabad.hesimxanli",
+      "name": "Həşimxanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430135833"
+    },
+    {
+      "id": "az.sabirabad.xankecen",
+      "name": "Xankeçən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1442448306"
+    },
+    {
+      "id": "az.sabirabad.xelfeli",
+      "name": "Xəlfəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/621402496"
+    },
+    {
+      "id": "az.sabirabad.kovlar",
+      "name": "Kovlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606843921"
+    },
+    {
+      "id": "az.sabirabad.kurkendi",
+      "name": "Kürkəndi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277654558"
+    },
+    {
+      "id": "az.sabirabad.qalaqayin",
+      "name": "Qalaqayın",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/781007664"
+    },
+    {
+      "id": "az.sabirabad.qaraagac",
+      "name": "Qaraağac",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1418155463"
+    },
+    {
+      "id": "az.sabirabad.qaraguney",
+      "name": "Qaragüney",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/289854795"
+    },
+    {
+      "id": "az.sabirabad.qaraqasli",
+      "name": "Qaraqaşlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606845660"
+    },
+    {
+      "id": "az.sabirabad.qaralar",
+      "name": "Qaralar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277653460"
+    },
+    {
+      "id": "az.sabirabad.qarali",
+      "name": "Qaralı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606843798"
+    },
+    {
+      "id": "az.sabirabad.qaratepe",
+      "name": "Qaratəpə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/780806401"
+    },
+    {
+      "id": "az.sabirabad.qaratugay",
+      "name": "Qaratuğay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430116112"
+    },
+    {
+      "id": "az.sabirabad.qardaskend",
+      "name": "Qardaşkənd",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430143867"
+    },
+    {
+      "id": "az.sabirabad.qasimbeyli",
+      "name": "Qasımbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607110755"
+    },
+    {
+      "id": "az.sabirabad.qeferli",
+      "name": "Qəfərli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277653461"
+    },
+    {
+      "id": "az.sabirabad.qezli",
+      "name": "Qəzli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606844457"
+    },
+    {
+      "id": "az.sabirabad.quruzma",
+      "name": "Quruzma",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073641"
+    },
+    {
+      "id": "az.sabirabad.memisler",
+      "name": "Məmişlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277654559"
+    },
+    {
+      "id": "az.sabirabad.minbasi",
+      "name": "Minbaşı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1417603533"
+    },
+    {
+      "id": "az.sabirabad.moranli",
+      "name": "Moranlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/780975057"
+    },
+    {
+      "id": "az.sabirabad.mugan-genceli",
+      "name": "Muğan Gəncəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290299047"
+    },
+    {
+      "id": "az.sabirabad.muradbeyli",
+      "name": "Muradbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607111749"
+    },
+    {
+      "id": "az.sabirabad.murselli",
+      "name": "Mürsəlli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073631"
+    },
+    {
+      "id": "az.sabirabad.narlic",
+      "name": "Narlıc",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607110758"
+    },
+    {
+      "id": "az.sabirabad.nerimankend",
+      "name": "Nərimankənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/780806222"
+    },
+    {
+      "id": "az.sabirabad.nesimi",
+      "name": "Nəsimi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7292135432"
+    },
+    {
+      "id": "az.sabirabad.nizami",
+      "name": "Nizami",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430143852"
+    },
+    {
+      "id": "az.sabirabad.osmanli",
+      "name": "Osmanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752072620"
+    },
+    {
+      "id": "az.sabirabad.poladtugay",
+      "name": "Poladtuğay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290212956"
+    },
+    {
+      "id": "az.sabirabad.rustemli",
+      "name": "Rüstəmli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430148046"
+    },
+    {
+      "id": "az.sabirabad.salmanli",
+      "name": "Salmanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/290301079"
+    },
+    {
+      "id": "az.sabirabad.sarxanbeyli",
+      "name": "Sarxanbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/780974778"
+    },
+    {
+      "id": "az.sabirabad.suqovusan",
+      "name": "Suqovuşan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/277654706"
+    },
+    {
+      "id": "az.sabirabad.surra",
+      "name": "Surra",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606843795"
+    },
+    {
+      "id": "az.sabirabad.sehriyar",
+      "name": "Şəhriyar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/621402497"
+    },
+    {
+      "id": "az.sabirabad.six-salahli",
+      "name": "Şıx Salahlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430116111"
+    },
+    {
+      "id": "az.sabirabad.sixlar",
+      "name": "Şıxlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073632"
+    },
+    {
+      "id": "az.sabirabad.turkedi",
+      "name": "Türkədi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607109053"
+    },
+    {
+      "id": "az.sabirabad.ulacali",
+      "name": "Ulacalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752073633"
+    },
+    {
+      "id": "az.sabirabad.ulacali-qacqin-seherciyi",
+      "name": "Ulacalı qaçqın şəhərciyi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430135790"
+    },
+    {
+      "id": "az.sabirabad.yaxa-dellek",
+      "name": "Yaxa Dəllək",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1422160750"
+    },
+    {
+      "id": "az.sabirabad.yastiqobu",
+      "name": "Yastıqobu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606848629"
+    },
+    {
+      "id": "az.sabirabad.yenikend",
+      "name": "Yenikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/606844693"
+    },
+    {
+      "id": "az.sabirabad.yolcubeyli",
+      "name": "Yolçubəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607109453"
+    },
+    {
+      "id": "az.sabirabad.yuxari-axtaci",
+      "name": "yuxarı Axtaçı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607111752"
+    },
+    {
+      "id": "az.sabirabad.zalqaraagac",
+      "name": "Zalqaraağac",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/430148074"
+    },
+    {
+      "id": "az.sabirabad.zengene",
+      "name": "Zəngənə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607111912"
+    }
+  ],
+  "landmarks": 45,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "demotedAdded": 0,
+  "unnamedDropped": 12,
+  "debt": [],
+  "landOnly": true
+}
