@@ -1,0 +1,274 @@
+{
+  "version": "4.13.0-ordubad",
+  "slice": "X5",
+  "inventoryCount": 43,
+  "ownedLocalities": [
+    {
+      "id": "az.ordubad.agdere",
+      "name": "Ağdərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166491478"
+    },
+    {
+      "id": "az.ordubad.agri",
+      "name": "Ağrı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490531"
+    },
+    {
+      "id": "az.ordubad.anabad",
+      "name": "Anabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166489884"
+    },
+    {
+      "id": "az.ordubad.anaqut",
+      "name": "Anaqut",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490536"
+    },
+    {
+      "id": "az.ordubad.asagi-endemic",
+      "name": "Aşağı Əndəmic",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6165823440"
+    },
+    {
+      "id": "az.ordubad.asagi-eylis",
+      "name": "Aşağı Əylis",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166489883"
+    },
+    {
+      "id": "az.ordubad.aza",
+      "name": "Aza",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6037228495"
+    },
+    {
+      "id": "az.ordubad.bas-dize",
+      "name": "Baş Dizə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166491207"
+    },
+    {
+      "id": "az.ordubad.baskend",
+      "name": "Başkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490534"
+    },
+    {
+      "id": "az.ordubad.behrud",
+      "name": "Behrud",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5416464613"
+    },
+    {
+      "id": "az.ordubad.bilev",
+      "name": "Biləv",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166491426"
+    },
+    {
+      "id": "az.ordubad.bist",
+      "name": "Bist",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6036790434"
+    },
+    {
+      "id": "az.ordubad.cenneb",
+      "name": "Çənnəb",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490581"
+    },
+    {
+      "id": "az.ordubad.dirnis",
+      "name": "Dırnıs",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490537"
+    },
+    {
+      "id": "az.ordubad.dize",
+      "name": "Dizə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490532"
+    },
+    {
+      "id": "az.ordubad.duylun",
+      "name": "Düylün",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490541"
+    },
+    {
+      "id": "az.ordubad.elehi",
+      "name": "Ələhi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6036790435"
+    },
+    {
+      "id": "az.ordubad.gilancay",
+      "name": "Gilançay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166491253"
+    },
+    {
+      "id": "az.ordubad.xanaga",
+      "name": "Xanağa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490530"
+    },
+    {
+      "id": "az.ordubad.xurs",
+      "name": "Xurs",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6036790436"
+    },
+    {
+      "id": "az.ordubad.keleki",
+      "name": "Kələki",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490538"
+    },
+    {
+      "id": "az.ordubad.kelenter-dize",
+      "name": "Kələntər Dizə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166491204"
+    },
+    {
+      "id": "az.ordubad.qoruqlar",
+      "name": "Qoruqlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490535"
+    },
+    {
+      "id": "az.ordubad.mezre",
+      "name": "Məzrə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490908"
+    },
+    {
+      "id": "az.ordubad.nesrivaz",
+      "name": "Nəsrivaz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/561770448"
+    },
+    {
+      "id": "az.ordubad.nurgut",
+      "name": "Nürgüt",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6036796824"
+    },
+    {
+      "id": "az.ordubad.nusnus",
+      "name": "Nüsnüs",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6165823442"
+    },
+    {
+      "id": "az.ordubad.paraga",
+      "name": "Parağa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5416464531"
+    },
+    {
+      "id": "az.ordubad.paragacay",
+      "name": "Parağaçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5416439357"
+    },
+    {
+      "id": "az.ordubad.pezmeri",
+      "name": "Pəzməri",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490540"
+    },
+    {
+      "id": "az.ordubad.sabirkend",
+      "name": "Sabirkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166491205"
+    },
+    {
+      "id": "az.ordubad.unus",
+      "name": "Unus",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490539"
+    },
+    {
+      "id": "az.ordubad.urmis",
+      "name": "Urmis",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490941"
+    },
+    {
+      "id": "az.ordubad.ustupu",
+      "name": "Üstüpü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166490907"
+    },
+    {
+      "id": "az.ordubad.venend",
+      "name": "Vənənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/4508564376"
+    },
+    {
+      "id": "az.ordubad.yuxari-endemic",
+      "name": "Yuxarı Əndəmic",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6165823441"
+    },
+    {
+      "id": "az.ordubad.yuxari-eylis",
+      "name": "Yuxarı Əylis",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/6166489882"
+    }
+  ],
+  "landmarks": 24,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 6,
+  "unnamedDropped": 12,
+  "debt": [],
+  "landOnly": true
+}
