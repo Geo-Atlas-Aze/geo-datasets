@@ -1,0 +1,22 @@
+{
+  "version": "4.16.1-az-full",
+  "slice": "F4",
+  "restored": [
+    "az.baku.bineqedi",
+    "az.baku.khatai",
+    "az.baku.khazar",
+    "az.baku.narimanov",
+    "az.baku.nasimi",
+    "az.baku.nizami",
+    "az.baku.pirallahi",
+    "az.baku.qaradagh",
+    "az.baku.sabail",
+    "az.baku.sabunchu",
+    "az.baku.surakhani",
+    "az.baku.yasamal"
+  ],
+  "boundaryCount": 5202,
+  "entityCount": 43442,
+  "debt": [],
+  "ok": true
+}

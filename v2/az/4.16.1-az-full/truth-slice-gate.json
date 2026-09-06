@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.16.1-az-full",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "F4",
+    "districtId": null,
+    "entityCount": 43442,
+    "localities": 0,
+    "landmarksInDistrict": 0,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
