@@ -1,0 +1,92 @@
+{
+  "version": "4.13.0-shahbuz",
+  "slice": "X7",
+  "inventoryCount": 25,
+  "ownedLocalities": [
+    {
+      "id": "az.shahbuz.daylaqli",
+      "name": "Daylaqlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/908200864"
+    },
+    {
+      "id": "az.shahbuz.daylaqli-kendi",
+      "name": "Daylaqlı kəndi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981692201"
+    },
+    {
+      "id": "az.shahbuz.gomur",
+      "name": "Gömür",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981872963"
+    },
+    {
+      "id": "az.shahbuz.kecili",
+      "name": "Keçili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981721221"
+    },
+    {
+      "id": "az.shahbuz.kicik-oba-kendi",
+      "name": "Kiçik oba kəndi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981694553"
+    },
+    {
+      "id": "az.shahbuz.kicikoba",
+      "name": "Kiçikoba",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/908200865"
+    },
+    {
+      "id": "az.shahbuz.kuku",
+      "name": "Kükü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1205118110"
+    },
+    {
+      "id": "az.shahbuz.qarababa",
+      "name": "Qarababa",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/829628211"
+    },
+    {
+      "id": "az.shahbuz.qizil-qislaq",
+      "name": "Qızıl Qışlaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1205118141"
+    },
+    {
+      "id": "az.shahbuz.nursu",
+      "name": "Nursu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981826577"
+    },
+    {
+      "id": "az.shahbuz.sahbuzkend",
+      "name": "Şahbuzkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2981715140"
+    }
+  ],
+  "landmarks": 22,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 14,
+  "unnamedDropped": 4,
+  "debt": [],
+  "landOnly": true
+}

@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.13.0-shahbuz",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "X7",
+    "districtId": "az.shahbuz",
+    "entityCount": 38832,
+    "localities": 11,
+    "landmarksInDistrict": 22,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
