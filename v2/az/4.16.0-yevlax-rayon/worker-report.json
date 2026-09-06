@@ -1,0 +1,393 @@
+{
+  "version": "4.16.0-yevlax-rayon",
+  "slice": "F2",
+  "inventoryCount": 55,
+  "ownedLocalities": [
+    {
+      "id": "az.yevlax-rayon.agqiraqli",
+      "name": "Ağqıraqlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275876127"
+    },
+    {
+      "id": "az.yevlax-rayon.aran",
+      "name": "Aran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278044353"
+    },
+    {
+      "id": "az.yevlax-rayon.aran-qesebesi",
+      "name": "Aran qəsəbəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/9392791524"
+    },
+    {
+      "id": "az.yevlax-rayon.asagi-bucaq",
+      "name": "Aşağı Bucaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1009696619"
+    },
+    {
+      "id": "az.yevlax-rayon.asagi-qarxun",
+      "name": "Aşağı Qarxun",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278053105"
+    },
+    {
+      "id": "az.yevlax-rayon.asagi-salamabad",
+      "name": "Aşağı Salamabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278051633"
+    },
+    {
+      "id": "az.yevlax-rayon.balcili",
+      "name": "Balçılı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/180801028"
+    },
+    {
+      "id": "az.yevlax-rayon.beydili",
+      "name": "Bəydili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278046467"
+    },
+    {
+      "id": "az.yevlax-rayon.boscali",
+      "name": "Boşçalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1028481457"
+    },
+    {
+      "id": "az.yevlax-rayon.cirdaxan",
+      "name": "Cırdaxan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/279160533"
+    },
+    {
+      "id": "az.yevlax-rayon.dellekler",
+      "name": "Dəlləklər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848465083"
+    },
+    {
+      "id": "az.yevlax-rayon.duzdag",
+      "name": "Düzdağ",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/203216604"
+    },
+    {
+      "id": "az.yevlax-rayon.ecemi",
+      "name": "Əcəmi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1011038018"
+    },
+    {
+      "id": "az.yevlax-rayon.exsam",
+      "name": "Əxşam",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275880742"
+    },
+    {
+      "id": "az.yevlax-rayon.erebbesre",
+      "name": "Ərəbbəsrə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/713329224"
+    },
+    {
+      "id": "az.yevlax-rayon.eres-yevlax",
+      "name": "Ərəş Yevlax",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1009381001"
+    },
+    {
+      "id": "az.yevlax-rayon.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1394391978"
+    },
+    {
+      "id": "az.yevlax-rayon.goyuk",
+      "name": "Göyük",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848465061"
+    },
+    {
+      "id": "az.yevlax-rayon.gulovse",
+      "name": "Gülövşə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275880744"
+    },
+    {
+      "id": "az.yevlax-rayon.haciselli",
+      "name": "Hacıselli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1014390702"
+    },
+    {
+      "id": "az.yevlax-rayon.havarli",
+      "name": "Havarlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1018886560"
+    },
+    {
+      "id": "az.yevlax-rayon.huruusagi",
+      "name": "Hürüuşağı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/180801021"
+    },
+    {
+      "id": "az.yevlax-rayon.xaldan",
+      "name": "Xaldan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278049706"
+    },
+    {
+      "id": "az.yevlax-rayon.xanabad",
+      "name": "Xanabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/199333149"
+    },
+    {
+      "id": "az.yevlax-rayon.ismayilabad",
+      "name": "İsmayılabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1015654669"
+    },
+    {
+      "id": "az.yevlax-rayon.kolani",
+      "name": "Kolanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848499041"
+    },
+    {
+      "id": "az.yevlax-rayon.kover",
+      "name": "Kövər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848499022"
+    },
+    {
+      "id": "az.yevlax-rayon.qaraci-mehellesi",
+      "name": "Qaraçı məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/880298039"
+    },
+    {
+      "id": "az.yevlax-rayon.qaramanli",
+      "name": "Qaramanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848465139"
+    },
+    {
+      "id": "az.yevlax-rayon.qaramemmedli",
+      "name": "Qaraməmmədli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848488302"
+    },
+    {
+      "id": "az.yevlax-rayon.qaraoglan",
+      "name": "Qaraoğlan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1011048625"
+    },
+    {
+      "id": "az.yevlax-rayon.qoyunbinesi",
+      "name": "Qoyunbinəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848498038"
+    },
+    {
+      "id": "az.yevlax-rayon.quscu",
+      "name": "Quşçu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1008927884"
+    },
+    {
+      "id": "az.yevlax-rayon.malbinesi",
+      "name": "Malbinəsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848498090"
+    },
+    {
+      "id": "az.yevlax-rayon.marzili",
+      "name": "Marzılı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1014411165"
+    },
+    {
+      "id": "az.yevlax-rayon.meyveli",
+      "name": "Meyvəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/923203752"
+    },
+    {
+      "id": "az.yevlax-rayon.meyveli-bag",
+      "name": "Meyvəli Bağ",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/280469829"
+    },
+    {
+      "id": "az.yevlax-rayon.nemetabad",
+      "name": "Nemətabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1015316988"
+    },
+    {
+      "id": "az.yevlax-rayon.nemirli",
+      "name": "Nəmirli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848465039"
+    },
+    {
+      "id": "az.yevlax-rayon.nerimanabad",
+      "name": "Nərimanabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1015286372"
+    },
+    {
+      "id": "az.yevlax-rayon.nurallar",
+      "name": "Nurallar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848475852"
+    },
+    {
+      "id": "az.yevlax-rayon.rivanli",
+      "name": "Rivanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/320373183"
+    },
+    {
+      "id": "az.yevlax-rayon.rustemli",
+      "name": "Rüstəmli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2848475361"
+    },
+    {
+      "id": "az.yevlax-rayon.salahli",
+      "name": "Salahlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/180801032"
+    },
+    {
+      "id": "az.yevlax-rayon.semedabad",
+      "name": "Səmədabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1015654671"
+    },
+    {
+      "id": "az.yevlax-rayon.silyan-yevlax",
+      "name": "Şilyan Yevlax",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278049054"
+    },
+    {
+      "id": "az.yevlax-rayon.tanriqulular",
+      "name": "Tanriqulular",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1028481439"
+    },
+    {
+      "id": "az.yevlax-rayon.varvara",
+      "name": "Varvara",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/180801030"
+    },
+    {
+      "id": "az.yevlax-rayon.yaldili",
+      "name": "Yaldili",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1018353566"
+    },
+    {
+      "id": "az.yevlax-rayon.yeni-cobankere",
+      "name": "Yeni Çobankərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1015603603"
+    },
+    {
+      "id": "az.yevlax-rayon.yenice",
+      "name": "Yenicə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1009705885"
+    },
+    {
+      "id": "az.yevlax-rayon.yuxari-bucaq",
+      "name": "Yuxarı Bucaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1009372239"
+    },
+    {
+      "id": "az.yevlax-rayon.yuxari-qarxun",
+      "name": "Yuxarı Qarxun",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/268554384"
+    },
+    {
+      "id": "az.yevlax-rayon.yuxari-salamabad",
+      "name": "Yuxarı Salamabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/923203750"
+    }
+  ],
+  "landmarks": 145,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 1,
+  "unnamedDropped": 9,
+  "debt": [],
+  "landOnly": true
+}
