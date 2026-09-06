@@ -1,0 +1,71 @@
+{
+  "version": "4.17.0-baku-pirallahi-rich",
+  "slice": "BR1",
+  "inventoryCount": 8,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.pirallahi.28-ci-mehelle",
+      "name": "28-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/286782125"
+    },
+    {
+      "id": "az.baku.pirallahi.29-cu-mehelle",
+      "name": "29-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/364516725"
+    },
+    {
+      "id": "az.baku.pirallahi.39-cu-mehelle",
+      "name": "39-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/287558445"
+    },
+    {
+      "id": "az.baku.pirallahi.40-ci-mehelle",
+      "name": "40-cı Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/364524602"
+    },
+    {
+      "id": "az.baku.pirallahi.cilov",
+      "name": "Çilov",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/784830891"
+    },
+    {
+      "id": "az.baku.pirallahi.dubendi",
+      "name": "Dübəndi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/203692823"
+    },
+    {
+      "id": "az.baku.pirallahi.gurgan",
+      "name": "Gürgan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/191323446"
+    },
+    {
+      "id": "az.baku.pirallahi.qosaqislaq-zire",
+      "name": "Qoşaqışlaq Zirə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1155320466"
+    }
+  ],
+  "landmarks": 151,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "demotedAdded": 0,
+  "unnamedDropped": 0,
+  "debt": [],
+  "landOnly": true
+}
