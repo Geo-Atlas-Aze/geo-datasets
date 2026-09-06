@@ -1,0 +1,28 @@
+{
+  "version": "4.16.0-az-full",
+  "slice": "AZ0",
+  "from": "4.16.0-yevlax-rayon",
+  "sourceRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.16.0-yevlax-rayon",
+  "entityCount": 43442,
+  "orphanParent": 0,
+  "orphanSamples": [],
+  "regionsPresent": [
+    "az.er.absheron-khizi",
+    "az.er.quba-xacmaz",
+    "az.er.ganja-dashkasan",
+    "az.er.sheki-zagatala",
+    "az.er.gazakh-tovuz",
+    "az.er.central-aran",
+    "az.er.shirvan-salyan",
+    "az.er.mil-mugan",
+    "az.er.lankaran-astara",
+    "az.er.mountainous-shirvan",
+    "az.er.karabakh",
+    "az.er.east-zangazur",
+    "az.er.nakhchivan",
+    "az.baku"
+  ],
+  "regionsMissing": [],
+  "debt": [],
+  "ok": true
+}
