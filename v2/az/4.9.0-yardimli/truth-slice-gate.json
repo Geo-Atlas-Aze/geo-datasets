@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.9.0-yardimli",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "L6",
+    "districtId": "az.yardimli",
+    "entityCount": 40918,
+    "localities": 90,
+    "landmarksInDistrict": 10,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
