@@ -1,0 +1,14 @@
+{
+  "version": "4.8.0-mil-mugan-skeleton",
+  "slice": "M0",
+  "debt": [],
+  "added": [
+    "az.beylagan",
+    "az.imisli",
+    "az.saatli",
+    "az.sabirabad",
+    "az.er.mil-mugan"
+  ],
+  "entityCount": 39738,
+  "landOnly": true
+}
