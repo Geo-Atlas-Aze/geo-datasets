@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.9.0-astara",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "L3",
+    "districtId": "az.astara",
+    "entityCount": 40447,
+    "localities": 90,
+    "landmarksInDistrict": 29,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
