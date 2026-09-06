@@ -1,0 +1,17 @@
+{
+  "version": "4.9.0-lankaran-astara-skeleton",
+  "slice": "L0",
+  "debt": [],
+  "added": [
+    "az.lankaran",
+    "az.lankaran-rayon",
+    "az.astara",
+    "az.jalilabad",
+    "az.lerik",
+    "az.yardimli",
+    "az.masalli",
+    "az.er.lankaran-astara"
+  ],
+  "entityCount": 40124,
+  "landOnly": true
+}
