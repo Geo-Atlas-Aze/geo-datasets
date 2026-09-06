@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.10.0-agsu",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "D1",
+    "districtId": "az.agsu",
+    "entityCount": 41413,
+    "localities": 81,
+    "landmarksInDistrict": 249,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
