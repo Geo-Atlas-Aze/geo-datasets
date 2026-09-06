@@ -1,0 +1,316 @@
+{
+  "version": "4.8.0-saatli",
+  "slice": "M3",
+  "inventoryCount": 43,
+  "ownedLocalities": [
+    {
+      "id": "az.saatli.aliabad",
+      "name": "Aliabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2889133858"
+    },
+    {
+      "id": "az.saatli.azadkend",
+      "name": "Azadkend",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2889179802"
+    },
+    {
+      "id": "az.saatli.beyler",
+      "name": "Bəylər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278148638"
+    },
+    {
+      "id": "az.saatli.beylik",
+      "name": "Bəylik",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776939997"
+    },
+    {
+      "id": "az.saatli.ceferxan",
+      "name": "Cəfərxan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7249616836"
+    },
+    {
+      "id": "az.saatli.dede-qorqud",
+      "name": "Dədə Qorqud",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/285228323"
+    },
+    {
+      "id": "az.saatli.deliler",
+      "name": "Dəlilər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776931145"
+    },
+    {
+      "id": "az.saatli.ebil",
+      "name": "Əbil",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7249616837"
+    },
+    {
+      "id": "az.saatli.ehmedbeyli",
+      "name": "Əhmədbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285224774"
+    },
+    {
+      "id": "az.saatli.elisoltanli",
+      "name": "Əlisoltanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278148641"
+    },
+    {
+      "id": "az.saatli.fetelikend",
+      "name": "Fətəlikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285233182"
+    },
+    {
+      "id": "az.saatli.geniskend",
+      "name": "Genişkənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285228659"
+    },
+    {
+      "id": "az.saatli.gomuscu",
+      "name": "Gömüşçü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776932933"
+    },
+    {
+      "id": "az.saatli.gunesli",
+      "name": "Günəşli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2889165314"
+    },
+    {
+      "id": "az.saatli.haciqasimli",
+      "name": "Hacıqasımlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776929700"
+    },
+    {
+      "id": "az.saatli.heyderabad",
+      "name": "Heydərabad",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/285228376"
+    },
+    {
+      "id": "az.saatli.kamalli",
+      "name": "Kamallı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776929699"
+    },
+    {
+      "id": "az.saatli.qacqin-seherciyi",
+      "name": "Qaçqın şəhərciyi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278148221"
+    },
+    {
+      "id": "az.saatli.qara-nuru",
+      "name": "Qara Nuru",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285216981"
+    },
+    {
+      "id": "az.saatli.qaracalar",
+      "name": "Qaracalar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776932869"
+    },
+    {
+      "id": "az.saatli.qaralar",
+      "name": "Qaralar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776679275"
+    },
+    {
+      "id": "az.saatli.qarayevkend",
+      "name": "Qarayevkənd",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/430148060"
+    },
+    {
+      "id": "az.saatli.qazanbatan",
+      "name": "Qazanbatan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2889035764"
+    },
+    {
+      "id": "az.saatli.qiraqli",
+      "name": "Qıraqlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776940173"
+    },
+    {
+      "id": "az.saatli.mamedabad",
+      "name": "Mamedabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2889144161"
+    },
+    {
+      "id": "az.saatli.mazreli",
+      "name": "Mazreli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/1643882817"
+    },
+    {
+      "id": "az.saatli.mezreli",
+      "name": "Məzrəli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776932247"
+    },
+    {
+      "id": "az.saatli.mircelal",
+      "name": "Mircəlal",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3403367645"
+    },
+    {
+      "id": "az.saatli.mollavazli",
+      "name": "Mollavazlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/278148639"
+    },
+    {
+      "id": "az.saatli.musali",
+      "name": "Musalı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776929772"
+    },
+    {
+      "id": "az.saatli.mustafabeyli",
+      "name": "Mustafabəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776940174"
+    },
+    {
+      "id": "az.saatli.naharli",
+      "name": "Naharlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776932246"
+    },
+    {
+      "id": "az.saatli.nerimanov",
+      "name": "Nərimanov",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776931144"
+    },
+    {
+      "id": "az.saatli.nesimikend",
+      "name": "Nəsimikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3403357707"
+    },
+    {
+      "id": "az.saatli.novruzlu",
+      "name": "Novruzlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/5752072614"
+    },
+    {
+      "id": "az.saatli.potubeyli",
+      "name": "Potubəyli",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/278148640"
+    },
+    {
+      "id": "az.saatli.saridjalar",
+      "name": "Saridjalar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/2889003528"
+    },
+    {
+      "id": "az.saatli.seyidler",
+      "name": "Seyidlər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776932429"
+    },
+    {
+      "id": "az.saatli.simada",
+      "name": "Sımada",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3403338706"
+    },
+    {
+      "id": "az.saatli.soltanabad",
+      "name": "Soltanabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/3403379204"
+    },
+    {
+      "id": "az.saatli.sirinbeyli",
+      "name": "Şirinbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285232290"
+    },
+    {
+      "id": "az.saatli.varxan",
+      "name": "Varxan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/776679274"
+    },
+    {
+      "id": "az.saatli.yeni-novruzlu",
+      "name": "Yeni Novruzlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/607106938"
+    }
+  ],
+  "landmarks": 21,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "demotedAdded": 0,
+  "unnamedDropped": 6,
+  "debt": [],
+  "landOnly": true
+}
