@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.10.0-shamakhi",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "D4",
+    "districtId": "az.shamakhi",
+    "entityCount": 42834,
+    "localities": 73,
+    "landmarksInDistrict": 609,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
