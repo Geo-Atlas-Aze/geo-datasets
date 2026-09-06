@@ -1,0 +1,29 @@
+{
+  "version": "4.13.0-sadarak",
+  "slice": "X6",
+  "inventoryCount": 2,
+  "ownedLocalities": [
+    {
+      "id": "az.sadarak.demirci",
+      "name": "Dəmirçi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/785320721"
+    },
+    {
+      "id": "az.sadarak.qaraagac",
+      "name": "Qaraağac",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1296815228"
+    }
+  ],
+  "landmarks": 6,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 7,
+  "debt": [],
+  "landOnly": true
+}

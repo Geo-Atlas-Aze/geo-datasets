@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.13.0-sadarak",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "X6",
+    "districtId": "az.sadarak",
+    "entityCount": 38799,
+    "localities": 2,
+    "landmarksInDistrict": 6,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
