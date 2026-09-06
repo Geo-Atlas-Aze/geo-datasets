@@ -1,0 +1,253 @@
+{
+  "version": "4.10.0-gobustan",
+  "slice": "D3",
+  "inventoryCount": 34,
+  "ownedLocalities": [
+    {
+      "id": "az.gobustan.bedelli",
+      "name": "Bədəlli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274522338"
+    },
+    {
+      "id": "az.gobustan.bekle",
+      "name": "Bəklə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1214388801"
+    },
+    {
+      "id": "az.gobustan.ceyrankecmez",
+      "name": "Ceyrankeçməz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/820536091"
+    },
+    {
+      "id": "az.gobustan.cemcemli",
+      "name": "Cəmcəmli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274511619"
+    },
+    {
+      "id": "az.gobustan.cengi",
+      "name": "Cəngi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274485477"
+    },
+    {
+      "id": "az.gobustan.ceyirli",
+      "name": "Cəyirli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274500141"
+    },
+    {
+      "id": "az.gobustan.cay-qurbanci",
+      "name": "Çay Qurbançı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274500144"
+    },
+    {
+      "id": "az.gobustan.celov",
+      "name": "Çelov",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274500140"
+    },
+    {
+      "id": "az.gobustan.cuxanli-mereze",
+      "name": "Çuxanlı Mərəzə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274509699"
+    },
+    {
+      "id": "az.gobustan.damlamaca",
+      "name": "Damlamaca",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/774525938"
+    },
+    {
+      "id": "az.gobustan.derekend",
+      "name": "Dərəkənd",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/274500142"
+    },
+    {
+      "id": "az.gobustan.erebqedim",
+      "name": "Ərəbqədim",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274485481"
+    },
+    {
+      "id": "az.gobustan.erebsahverdi",
+      "name": "Ərəbşahverdi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274498669"
+    },
+    {
+      "id": "az.gobustan.erebsalbas",
+      "name": "Ərəbşalbaş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274509701"
+    },
+    {
+      "id": "az.gobustan.fehle-qesebesi",
+      "name": "Fəhlə Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/829228144"
+    },
+    {
+      "id": "az.gobustan.goydere",
+      "name": "Göydərə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274485575"
+    },
+    {
+      "id": "az.gobustan.xilmilli",
+      "name": "Xilmilli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274500851"
+    },
+    {
+      "id": "az.gobustan.ilanli",
+      "name": "İlanlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274485479"
+    },
+    {
+      "id": "az.gobustan.qaracuzlu",
+      "name": "Qaracüzlü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274498667"
+    },
+    {
+      "id": "az.gobustan.qobustan-mereze",
+      "name": "Qobustan Mərəzə",
+      "kind": "Settlement",
+      "mode": "OWN",
+      "osm": "geo:way/65411463"
+    },
+    {
+      "id": "az.gobustan.qurbanci",
+      "name": "Qurbançı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274498668"
+    },
+    {
+      "id": "az.gobustan.nabur",
+      "name": "Nabur",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274500143"
+    },
+    {
+      "id": "az.gobustan.nardaran",
+      "name": "Nardaran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/820530461"
+    },
+    {
+      "id": "az.gobustan.nerimanabad",
+      "name": "Nərimanabad",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1223047496"
+    },
+    {
+      "id": "az.gobustan.poladli",
+      "name": "Poladlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/276016418"
+    },
+    {
+      "id": "az.gobustan.sedefli",
+      "name": "Sədəfli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274511620"
+    },
+    {
+      "id": "az.gobustan.sundu",
+      "name": "Sündü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274500850"
+    },
+    {
+      "id": "az.gobustan.sixlar",
+      "name": "Şıxlar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274535536"
+    },
+    {
+      "id": "az.gobustan.sixzahirli",
+      "name": "Şıxzahırlı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274485480"
+    },
+    {
+      "id": "az.gobustan.tekle",
+      "name": "Təklə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274509695"
+    },
+    {
+      "id": "az.gobustan.tekle-mirzebaba",
+      "name": "Təklə Mirzəbaba",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274509697"
+    },
+    {
+      "id": "az.gobustan.tesi",
+      "name": "Təsi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274522340"
+    },
+    {
+      "id": "az.gobustan.uzumcu",
+      "name": "Üzümçü",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274522341"
+    },
+    {
+      "id": "az.gobustan.yekexana",
+      "name": "Yekəxana",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274506894"
+    }
+  ],
+  "landmarks": 128,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "demotedAdded": 0,
+  "unnamedDropped": 14,
+  "debt": [],
+  "landOnly": true
+}
