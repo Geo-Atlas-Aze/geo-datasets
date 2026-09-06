@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "C:\\Users\\Guven Servis\\Desktop\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.8.0-imisli",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "M2",
+    "districtId": "az.imisli",
+    "entityCount": 39929,
+    "localities": 52,
+    "landmarksInDistrict": 68,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
