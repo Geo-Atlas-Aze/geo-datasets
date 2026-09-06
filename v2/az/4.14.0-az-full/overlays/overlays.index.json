@@ -1,0 +1,323 @@
+{
+  "path": "overlays/overlays.index.json",
+  "version": "2026-07-14",
+  "count": 34,
+  "bySource": {
+    "osm": 0,
+    "government": 0,
+    "curated": 34,
+    "manual": 0
+  },
+  "byOperation": {
+    "replace": 4,
+    "add": 30
+  },
+  "entries": [
+    {
+      "id": "overlay:curated:geo:node/1104258889",
+      "targetId": "geo:node/1104258889",
+      "operation": "replace",
+      "source": "curated",
+      "targetKind": "City",
+      "mergeStrategy": "override",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:node/2117350415",
+      "targetId": "geo:node/2117350415",
+      "operation": "replace",
+      "source": "curated",
+      "targetKind": "City",
+      "mergeStrategy": "override",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:node/670198805",
+      "targetId": "geo:node/670198805",
+      "operation": "replace",
+      "source": "curated",
+      "targetKind": "Metro",
+      "mergeStrategy": "override",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/metro/28-may",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Metro",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/shuvalan-merkez",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-1",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-10",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-11",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-12",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-13",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-16",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-17",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-18",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-2",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-20",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-21",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-3",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-4",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-5",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-6",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-8",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-9",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-mehelle-54",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/micro/sumqayit-mehelle-7-8-12",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Microdistrict",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/popular/fountain-square",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Popular",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/popular/icherisheher",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Popular",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/popular/shuvalan-beach",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Popular",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/popular/sumqayit-boulevard",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Popular",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/popular/sumqayit-heydar-aliyev-park",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Popular",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/popular/sumqayit-kimyachilar",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Popular",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/settlement/xazar",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Settlement",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/settlement/shuvalan",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Settlement",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:overlay/settlement/sumqayit-merkez",
+      "targetId": null,
+      "operation": "add",
+      "source": "curated",
+      "targetKind": "Settlement",
+      "mergeStrategy": "add",
+      "priority": 2000100
+    },
+    {
+      "id": "overlay:curated:geo:relation/2415335",
+      "targetId": "geo:relation/2415335",
+      "operation": "replace",
+      "source": "curated",
+      "targetKind": "Settlement",
+      "mergeStrategy": "override",
+      "priority": 2000100
+    }
+  ]
+}
