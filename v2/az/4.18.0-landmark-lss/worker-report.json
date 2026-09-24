@@ -1,0 +1,14 @@
+{
+  "debt": [],
+  "ok": true,
+  "slice": "LSS",
+  "from": "4.17.4-xirdalan-rich",
+  "version": "4.18.0-landmark-lss",
+  "landmarkReparented": 1461,
+  "landmarkSkippedNoCenter": 0,
+  "sumqayitLocalitiesMoved": 91,
+  "localityCandidates": 5106,
+  "boundaryItems": 5210,
+  "entityCount": 43396,
+  "sumqayitLocKids": 91
+}

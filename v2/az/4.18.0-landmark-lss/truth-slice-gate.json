@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "D:\\azescompany\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\4.18.0-landmark-lss",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "LSS",
+    "districtId": null,
+    "entityCount": 43396,
+    "localities": 0,
+    "landmarksInDistrict": 0,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}
