@@ -1,0 +1,16 @@
+{
+  "releaseRoot": "D:\\azescompany\\GEO_ATLAS_V.1.0.0\\geo-datasets\\v2\\az\\4.19.0-megapolis-localities",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "MEGAPOLIS",
+    "districtId": null,
+    "entityCount": 43423,
+    "localities": 0,
+    "landmarksInDistrict": 0,
+    "debtCount": 0,
+    "machineNames": 0,
+    "landmarkNoCenter": 0,
+    "ok": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "debt": [],
+  "ok": true,
+  "slice": "MEGAPOLIS",
+  "from": "4.18.0-landmark-lss",
+  "version": "4.19.0-megapolis-localities",
+  "localitiesAdded": 27,
+  "curatedAdded": 13,
+  "skippedDup": 285,
+  "skippedNoGeom": 0,
+  "sumqayitMoved": 0,
+  "landmarkReparented": 46,
+  "entityCount": 43423,
+  "sumqayitLocKids": 100,
+  "scopeStats": {
+    "az.baku.khazar": {
+      "inventory": 54,
+      "added": 4
+    },
+    "az.baku.narimanov": {
+      "inventory": 12,
+      "added": 2
+    },
+    "az.baku.nizami": {
+      "inventory": 8,
+      "added": 0
+    },
+    "az.baku.pirallahi": {
+      "inventory": 13,
+      "added": 0
+    },
+    "az.baku.qaradagh": {
+      "inventory": 52,
+      "added": 1
+    },
+    "az.sumqayit": {
+      "inventory": 102,
+      "added": 9
+    },
+    "az.ganja": {
+      "inventory": 25,
+      "added": 3
+    },
+    "az.mingachevir": {
+      "inventory": 35,
+      "added": 0
+    },
+    "az.sheki": {
+      "inventory": 4,
+      "added": 5
+    },
+    "az.lankaran": {
+      "inventory": 6,
+      "added": 3
+    }
+  }
+}
