@@ -1,0 +1,28 @@
+{
+  "manifestVersion": "2",
+  "datasetVersion": "4.21.0-khatai-full",
+  "schemaVersion": "2.0.0",
+  "country": "az",
+  "profile": "az",
+  "buildId": "az-4.21.0-khatai-full",
+  "buildTimestamp": "2026-09-28T11:48:13.920Z",
+  "generatorVersion": "refinedInformation-manual/0.1",
+  "basePath": "/v2/az/4.21.0-khatai-full/",
+  "note": "Khatai-focused patch from OSM refine prompts; not a full AZ replace",
+  "artifacts": [
+    {
+      "id": "hierarchy",
+      "path": "hierarchy/hierarchy.json",
+      "family": "hierarchy",
+      "kind": "hierarchy",
+      "contentType": "application/json",
+      "sizeBytes": 30671308
+    },
+    {
+      "id": "boundaries",
+      "path": "boundaries/boundaries.index.json",
+      "family": "boundaries",
+      "kind": "boundaries"
+    }
+  ]
+}
