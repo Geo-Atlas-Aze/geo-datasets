@@ -1,0 +1,114 @@
+{
+  "version": "5.0.0-pro-baku-narimanov",
+  "slice": "PD-B04",
+  "inventoryCount": 10,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.narimanov.205-ci-qesebe",
+      "name": "205-ci Qəsəbə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1084316242"
+    },
+    {
+      "id": "az.baku.narimanov.azinko-yasayis-kompleksi",
+      "name": "Azinko Yaşayış Kompleksi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/524762350"
+    },
+    {
+      "id": "az.baku.narimanov.baku-city-villas",
+      "name": "Baku City Villas",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/164547483"
+    },
+    {
+      "id": "az.baku.narimanov.kesle",
+      "name": "Keşlə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/306998874"
+    },
+    {
+      "id": "az.baku.narimanov.lake-city",
+      "name": "Lake City",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1030969992"
+    },
+    {
+      "id": "az.baku.narimanov.milyonerler-mehellesi",
+      "name": "Milyonerlər məhəlləsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1324057830"
+    },
+    {
+      "id": "az.baku.narimanov.montin-qesebesi",
+      "name": "Montin Qəsəbəsi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1075557839"
+    },
+    {
+      "id": "az.baku.narimanov.roseville-residence-rozvil",
+      "name": "Roseville Residence / Rozvil",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/389227497"
+    },
+    {
+      "id": "az.baku.narimanov.svit-haus-mtk",
+      "name": "Svit Haus MTK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/403218879"
+    },
+    {
+      "id": "az.baku.narimanov.zumrud-residence-baki",
+      "name": "Zümrüd Residence Bakı",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1057733981"
+    }
+  ],
+  "landmarks": 1096,
+  "metro": 4,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "altSourcePlan": {
+    "allowed": [
+      "osm",
+      "overpass",
+      "nominatim",
+      "wikidata",
+      "wikipedia",
+      "geonames",
+      "overture",
+      "gov"
+    ],
+    "blocked": [
+      "google-places",
+      "yandex",
+      "apple-maps",
+      "foursquare"
+    ],
+    "consulted": {
+      "osm": "primary-overpass-harvest",
+      "overpass": "primary-overpass-harvest",
+      "nominatim": "name-polygon-rescue-and-notable-search",
+      "wikidata": "label-when-qid-present",
+      "wikipedia": "azwiki-sitelink-when-qid-present",
+      "geonames": "adapter-present; dump not auto-loaded (no invented names)",
+      "overture": "adapter-present; places not scraped into slice",
+      "gov": "unavailable:GOV_DIR_EMPTY"
+    }
+  },
+  "notableSeedCount": 20,
+  "demotedAdded": 0,
+  "unnamedDropped": 165,
+  "debt": [],
+  "landOnly": true
+}
