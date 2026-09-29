@@ -1,0 +1,83 @@
+{
+  "debt": [],
+  "ok": true,
+  "slice": "AZFULL",
+  "from": "4.19.0-megapolis-localities",
+  "version": "4.20.0-az-full",
+  "entityCount": 43423,
+  "orphanParents": 0,
+  "landmarkNoCenter": 0,
+  "landmarkOrphan": 0,
+  "machineNames": 0,
+  "localityNotOwn": 0,
+  "emptyDistricts": 0,
+  "erStatus": {
+    "az.er.absheron-khizi": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 3
+    },
+    "az.er.quba-xacmaz": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 5
+    },
+    "az.er.ganja-dashkasan": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 6
+    },
+    "az.er.sheki-zagatala": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 7
+    },
+    "az.er.gazakh-tovuz": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 5
+    },
+    "az.er.central-aran": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 8
+    },
+    "az.er.shirvan-salyan": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 5
+    },
+    "az.er.mil-mugan": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 4
+    },
+    "az.er.lankaran-astara": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 7
+    },
+    "az.er.mountainous-shirvan": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 4
+    },
+    "az.er.karabakh": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 10
+    },
+    "az.er.east-zangazur": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 5
+    },
+    "az.er.nakhchivan": {
+      "present": true,
+      "geometryMode": "OWN",
+      "childDistricts": 8
+    }
+  },
+  "gaps": [],
+  "blockingGaps": 0
+}
