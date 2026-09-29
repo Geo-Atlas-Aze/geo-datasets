@@ -1,0 +1,25 @@
+{
+  "releaseRoot": "D:\\azescompany\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\5.0.0-pro-baku-sabail",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "PD-B02",
+    "districtId": "az.baku.sabail",
+    "entityCount": 43307,
+    "localities": 21,
+    "landmarksInDistrict": 1271,
+    "debtCount": 0,
+    "machineNames": 0,
+    "genericNames": 0,
+    "landmarkNoCenter": 0,
+    "pipFail": 0,
+    "crossAreaLeak": 0,
+    "duplicates": 0,
+    "sameNameNear": 0,
+    "provenanceMissing": 0,
+    "sliceIsolationNotes": 0,
+    "schemaOk": true,
+    "checksumsOk": true,
+    "ok": true
+  }
+}
