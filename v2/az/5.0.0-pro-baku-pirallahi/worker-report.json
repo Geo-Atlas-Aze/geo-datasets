@@ -1,0 +1,100 @@
+{
+  "version": "5.0.0-pro-baku-pirallahi",
+  "slice": "PD-B12",
+  "inventoryCount": 8,
+  "ownedLocalities": [
+    {
+      "id": "az.baku.pirallahi.28-ci-mehelle",
+      "name": "28-ci Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/286782125"
+    },
+    {
+      "id": "az.baku.pirallahi.29-cu-mehelle",
+      "name": "29-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/364516725"
+    },
+    {
+      "id": "az.baku.pirallahi.39-cu-mehelle",
+      "name": "39-cu Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/287558445"
+    },
+    {
+      "id": "az.baku.pirallahi.40-ci-mehelle",
+      "name": "40-cı Məhəllə",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/364524602"
+    },
+    {
+      "id": "az.baku.pirallahi.cilov",
+      "name": "Çilov",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/784830891"
+    },
+    {
+      "id": "az.baku.pirallahi.dubendi",
+      "name": "Dübəndi",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/203692823"
+    },
+    {
+      "id": "az.baku.pirallahi.gurgan",
+      "name": "Gürgan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/191323446"
+    },
+    {
+      "id": "az.baku.pirallahi.qosaqislaq-zire",
+      "name": "Qoşaqışlaq Zirə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1155320466"
+    }
+  ],
+  "landmarks": 122,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "altSourcePlan": {
+    "allowed": [
+      "osm",
+      "overpass",
+      "nominatim",
+      "wikidata",
+      "wikipedia",
+      "geonames",
+      "overture",
+      "gov"
+    ],
+    "blocked": [
+      "google-places",
+      "yandex",
+      "apple-maps",
+      "foursquare"
+    ],
+    "consulted": {
+      "osm": "primary-overpass-harvest",
+      "overpass": "primary-overpass-harvest",
+      "nominatim": "name-polygon-rescue-and-notable-search",
+      "wikidata": "label-when-qid-present",
+      "wikipedia": "azwiki-sitelink-when-qid-present",
+      "geonames": "adapter-present; dump not auto-loaded (no invented names)",
+      "overture": "adapter-present; places not scraped into slice",
+      "gov": "unavailable:GOV_DIR_EMPTY"
+    }
+  },
+  "notableSeedCount": 5,
+  "demotedAdded": 0,
+  "unnamedDropped": 56,
+  "debt": [],
+  "landOnly": false
+}

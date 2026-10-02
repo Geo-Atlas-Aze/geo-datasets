@@ -1,0 +1,25 @@
+{
+  "releaseRoot": "D:\\azescompany\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\5.0.0-pro-baku-pirallahi",
+  "ok": true,
+  "issues": [],
+  "summary": {
+    "slice": "PD-B12",
+    "districtId": "az.baku.pirallahi",
+    "entityCount": 41381,
+    "localities": 8,
+    "landmarksInDistrict": 122,
+    "debtCount": 0,
+    "machineNames": 0,
+    "genericNames": 0,
+    "landmarkNoCenter": 0,
+    "pipFail": 0,
+    "crossAreaLeak": 0,
+    "duplicates": 0,
+    "sameNameNear": 0,
+    "provenanceMissing": 0,
+    "sliceIsolationNotes": 0,
+    "schemaOk": true,
+    "checksumsOk": true,
+    "ok": true
+  }
+}
