@@ -1,0 +1,17 @@
+{
+  "count": 5422,
+  "chunks": [
+    {
+      "index": 0,
+      "path": "boundaries/boundaries-000.json",
+      "key": "0",
+      "entityCount": 5395
+    },
+    {
+      "index": 1,
+      "path": "boundaries/boundaries-megapolis.json",
+      "key": "megapolis",
+      "entityCount": 27
+    }
+  ]
+}
