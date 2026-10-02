@@ -1,0 +1,82 @@
+{
+  "schema": "query/v1",
+  "queryLayerVersion": "1.0.0",
+  "country": "az",
+  "generatedAt": "2026-09-03T01:25:10.964Z",
+  "hierarchyRef": "hierarchy/hierarchy.json",
+  "placeModelVersion": "1.0.0",
+  "entityCount": 22389,
+  "artifacts": {
+    "catalog": {
+      "path": "query/catalog.json"
+    },
+    "indexes": {
+      "path": "query/indexes.json"
+    },
+    "display": {
+      "path": "query/display.json"
+    },
+    "searchMeta": {
+      "path": "query/search-meta.json"
+    }
+  },
+  "requiredIndexes": [
+    "entityById",
+    "entityBySlug",
+    "parentById",
+    "childrenByParent",
+    "ancestorsById",
+    "breadcrumbById",
+    "entityByCanonicalClass",
+    "entityByHierarchyRank",
+    "entityByDisplayRank",
+    "entityBySearchPriority",
+    "entityByTraversalRank",
+    "entityByCountry",
+    "entityByAdministrativeArea",
+    "entityBySettlement",
+    "entityByNeighbourhood",
+    "entityByPointOfInterest"
+  ],
+  "stats": {
+    "indexKeyCounts": {
+      "entityById": 22389,
+      "entityBySlug": 22389,
+      "parentById": 22389,
+      "childrenByParent": 112,
+      "ancestorsById": 22389,
+      "breadcrumbById": 22389,
+      "entityByCanonicalClass": 6,
+      "entityByHierarchyRank": 8,
+      "entityByDisplayRank": 8,
+      "entityBySearchPriority": 9,
+      "entityByTraversalRank": 6,
+      "entityByCountry": 1,
+      "entityByAdministrativeArea": 794,
+      "entityBySettlement": 8302,
+      "entityByNeighbourhood": 130,
+      "entityByPointOfInterest": 13150
+    },
+    "canonicalClassCounts": {
+      "Country": 1,
+      "AdministrativeArea": 794,
+      "Neighbourhood": 130,
+      "Settlement": 8302,
+      "AdministrativeUnit": 12,
+      "PointOfInterest": 13150
+    },
+    "displayListCounts": {
+      "cities": 106,
+      "districts": 806,
+      "settlements": 8302,
+      "neighbourhoods": 130,
+      "popularPlaces": 200
+    },
+    "approxBytes": 27732129
+  },
+  "qa": {
+    "valid": true,
+    "issueCount": 0,
+    "issues": []
+  }
+}
