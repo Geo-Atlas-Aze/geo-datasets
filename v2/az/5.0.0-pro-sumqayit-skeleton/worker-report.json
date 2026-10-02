@@ -1,0 +1,15 @@
+{
+  "version": "5.0.0-pro-sumqayit-skeleton",
+  "slice": "S0",
+  "debt": [],
+  "added": [
+    "az.sm",
+    "az.abs",
+    "az.sumqayit",
+    "az.er.absheron-khizi",
+    "az.abs.xirdalan",
+    "az.abs.masazir"
+  ],
+  "entityCount": 41381,
+  "landOnly": true
+}

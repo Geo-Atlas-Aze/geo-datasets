@@ -1,0 +1,304 @@
+{
+  "version": "4.0.0-baku-skeleton",
+  "slice": "B0",
+  "entityCount": 14,
+  "features": [
+    {
+      "id": "az",
+      "kind": "Country",
+      "bbox": [
+        44.768262,
+        38.39873,
+        50.365918,
+        41.890967
+      ],
+      "maxLng": 50.365918,
+      "source": {
+        "system": "naturalearth",
+        "ref": "ne_50m_admin_0_countries:AZE"
+      },
+      "verts": 256
+    },
+    {
+      "id": "az.baku",
+      "kind": "City",
+      "bbox": [
+        49.218751,
+        39.633146,
+        50.365918,
+        40.584532
+      ],
+      "maxLng": 50.365918,
+      "source": {
+        "system": "derived",
+        "ref": "union:az.baku.*#land-only"
+      },
+      "verts": 666
+    },
+    {
+      "id": "az.baku.bineqedi",
+      "kind": "District",
+      "bbox": [
+        49.591709,
+        40.38028,
+        49.887818,
+        40.584519
+      ],
+      "maxLng": 49.887818,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11825936"
+      },
+      "verts": 114
+    },
+    {
+      "id": "az.baku.khatai",
+      "kind": "District",
+      "bbox": [
+        49.858469,
+        40.30755,
+        49.993826,
+        40.395113
+      ],
+      "maxLng": 49.993826,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11827202"
+      },
+      "verts": 36
+    },
+    {
+      "id": "az.baku.khazar",
+      "kind": "District",
+      "bbox": [
+        50.018813,
+        40.291123,
+        50.330554,
+        40.551743
+      ],
+      "maxLng": 50.330554,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11827332"
+      },
+      "verts": 50
+    },
+    {
+      "id": "az.baku.qaradagh",
+      "kind": "District",
+      "bbox": [
+        49.218751,
+        39.633146,
+        49.796519,
+        40.48344
+      ],
+      "maxLng": 49.796519,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11825937"
+      },
+      "verts": 112
+    },
+    {
+      "id": "az.baku.narimanov",
+      "kind": "District",
+      "bbox": [
+        49.825166,
+        40.383268,
+        49.916721,
+        40.437704
+      ],
+      "maxLng": 49.916721,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11827003"
+      },
+      "verts": 34
+    },
+    {
+      "id": "az.baku.nasimi",
+      "kind": "District",
+      "bbox": [
+        49.802368,
+        40.334016,
+        49.876375,
+        40.420916
+      ],
+      "maxLng": 49.876375,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11826962"
+      },
+      "verts": 33
+    },
+    {
+      "id": "az.baku.nizami",
+      "kind": "District",
+      "bbox": [
+        49.881893,
+        40.389442,
+        49.969333,
+        40.426414
+      ],
+      "maxLng": 49.969333,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11827201"
+      },
+      "verts": 28
+    },
+    {
+      "id": "az.baku.pirallahi",
+      "kind": "District",
+      "bbox": [
+        50.250121,
+        40.279492,
+        50.365918,
+        40.459345
+      ],
+      "maxLng": 50.365918,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11827333"
+      },
+      "verts": 14
+    },
+    {
+      "id": "az.baku.sabail",
+      "kind": "District",
+      "bbox": [
+        49.742496,
+        40.275924,
+        49.879449,
+        40.375735
+      ],
+      "maxLng": 49.879449,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11826940"
+      },
+      "verts": 29
+    },
+    {
+      "id": "az.baku.sabunchu",
+      "kind": "District",
+      "bbox": [
+        49.771353,
+        40.403684,
+        50.070323,
+        40.584532
+      ],
+      "maxLng": 50.070323,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11827203"
+      },
+      "verts": 116
+    },
+    {
+      "id": "az.baku.surakhani",
+      "kind": "District",
+      "bbox": [
+        49.959667,
+        40.318411,
+        50.130922,
+        40.466417
+      ],
+      "maxLng": 50.130922,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11827250"
+      },
+      "verts": 68
+    },
+    {
+      "id": "az.baku.yasamal",
+      "kind": "District",
+      "bbox": [
+        49.786006,
+        40.353732,
+        49.835997,
+        40.415225
+      ],
+      "maxLng": 49.835997,
+      "source": {
+        "system": "osm",
+        "ref": "relation/11826939"
+      },
+      "verts": 32
+    }
+  ],
+  "parents": [
+    {
+      "id": "az",
+      "parentId": null,
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku",
+      "parentId": "az",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.bineqedi",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.khatai",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.khazar",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.narimanov",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.nasimi",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.nizami",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.pirallahi",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.qaradagh",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.sabail",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.sabunchu",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.surakhani",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    },
+    {
+      "id": "az.baku.yasamal",
+      "parentId": "az.baku",
+      "mode": "OWN"
+    }
+  ],
+  "noAzBaki": true
+}
