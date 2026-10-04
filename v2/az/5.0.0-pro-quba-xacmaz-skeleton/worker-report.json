@@ -1,0 +1,16 @@
+{
+  "version": "5.0.0-pro-quba-xacmaz-skeleton",
+  "slice": "N0",
+  "debt": [],
+  "added": [
+    "az.siyezen",
+    "az.sabran",
+    "az.quba",
+    "az.qusar",
+    "az.xacmaz",
+    "az.er.quba-xacmaz",
+    "az.xacmaz.xudat"
+  ],
+  "entityCount": 39707,
+  "landOnly": true
+}
