@@ -214,10 +214,10 @@
       "osm": "geo:way/273658766"
     }
   ],
-  "landmarks": 78,
+  "landmarks": 85,
   "metro": 0,
   "seedAdded": 0,
-  "curatedAdded": 1,
+  "curatedAdded": 0,
   "altSourcePlan": {
     "allowed": [
       "osm",
@@ -246,9 +246,9 @@
       "gov": "unavailable:GOV_DIR_EMPTY"
     }
   },
-  "notableSeedCount": 20,
+  "notableSeedCount": 27,
   "demotedAdded": 0,
-  "unnamedDropped": 50,
+  "unnamedDropped": 18,
   "debt": [],
   "landOnly": true
 }
