@@ -1,0 +1,83 @@
+{
+  "count": 5368,
+  "chunkCount": 11,
+  "chunks": [
+    {
+      "index": 0,
+      "path": "boundaries/boundaries-000.json",
+      "key": "000",
+      "entityCount": 500,
+      "bytes": 524188
+    },
+    {
+      "index": 1,
+      "path": "boundaries/boundaries-001.json",
+      "key": "001",
+      "entityCount": 500,
+      "bytes": 415666
+    },
+    {
+      "index": 2,
+      "path": "boundaries/boundaries-002.json",
+      "key": "002",
+      "entityCount": 500,
+      "bytes": 617990
+    },
+    {
+      "index": 3,
+      "path": "boundaries/boundaries-003.json",
+      "key": "003",
+      "entityCount": 500,
+      "bytes": 381071
+    },
+    {
+      "index": 4,
+      "path": "boundaries/boundaries-004.json",
+      "key": "004",
+      "entityCount": 500,
+      "bytes": 370972
+    },
+    {
+      "index": 5,
+      "path": "boundaries/boundaries-005.json",
+      "key": "005",
+      "entityCount": 500,
+      "bytes": 334192
+    },
+    {
+      "index": 6,
+      "path": "boundaries/boundaries-006.json",
+      "key": "006",
+      "entityCount": 500,
+      "bytes": 339917
+    },
+    {
+      "index": 7,
+      "path": "boundaries/boundaries-007.json",
+      "key": "007",
+      "entityCount": 500,
+      "bytes": 382924
+    },
+    {
+      "index": 8,
+      "path": "boundaries/boundaries-008.json",
+      "key": "008",
+      "entityCount": 500,
+      "bytes": 414253
+    },
+    {
+      "index": 9,
+      "path": "boundaries/boundaries-009.json",
+      "key": "009",
+      "entityCount": 500,
+      "bytes": 381399
+    },
+    {
+      "index": 10,
+      "path": "boundaries/boundaries-010.json",
+      "key": "010",
+      "entityCount": 368,
+      "bytes": 330100
+    }
+  ]
+}
