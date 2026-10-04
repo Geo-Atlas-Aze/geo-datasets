@@ -1,0 +1,58 @@
+{
+  "version": "5.0.0-pro-masazir-rich",
+  "slice": "S8",
+  "inventoryCount": 2,
+  "ownedLocalities": [
+    {
+      "id": "az.abs.masazir.abseron-city-yk",
+      "name": "Abşeron City YK",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130627693"
+    },
+    {
+      "id": "az.abs.masazir.bagcali-evl-r",
+      "name": "Bağçalı Evlәr",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1130672571"
+    }
+  ],
+  "landmarks": 214,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 2,
+  "altSourcePlan": {
+    "allowed": [
+      "osm",
+      "overpass",
+      "nominatim",
+      "wikidata",
+      "wikipedia",
+      "geonames",
+      "overture",
+      "gov"
+    ],
+    "blocked": [
+      "google-places",
+      "yandex",
+      "apple-maps",
+      "foursquare"
+    ],
+    "consulted": {
+      "osm": "primary-overpass-harvest",
+      "overpass": "primary-overpass-harvest",
+      "nominatim": "name-polygon-rescue-and-notable-search",
+      "wikidata": "label-when-qid-present",
+      "wikipedia": "azwiki-sitelink-when-qid-present",
+      "geonames": "adapter-present; dump not auto-loaded (no invented names)",
+      "overture": "adapter-present; places not scraped into slice",
+      "gov": "unavailable:GOV_DIR_EMPTY"
+    }
+  },
+  "notableSeedCount": 12,
+  "demotedAdded": 0,
+  "unnamedDropped": 212,
+  "debt": [],
+  "landOnly": true
+}
