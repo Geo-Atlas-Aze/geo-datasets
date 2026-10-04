@@ -5,9 +5,9 @@
   "summary": {
     "slice": "S9",
     "districtId": "az.xizi",
-    "entityCount": 39671,
-    "localities": 0,
-    "landmarksInDistrict": 79,
+    "entityCount": 39700,
+    "localities": 30,
+    "landmarksInDistrict": 78,
     "debtCount": 0,
     "machineNames": 0,
     "genericNames": 0,

@@ -1,5 +1,5 @@
 {
-  "count": 5339,
+  "count": 5369,
   "chunkCount": 11,
   "chunks": [
     {
@@ -35,49 +35,49 @@
       "path": "boundaries/boundaries-004.json",
       "key": "004",
       "entityCount": 500,
-      "bytes": 369780
+      "bytes": 371405
     },
     {
       "index": 5,
       "path": "boundaries/boundaries-005.json",
       "key": "005",
       "entityCount": 500,
-      "bytes": 339458
+      "bytes": 333678
     },
     {
       "index": 6,
       "path": "boundaries/boundaries-006.json",
       "key": "006",
       "entityCount": 500,
-      "bytes": 339930
+      "bytes": 340398
     },
     {
       "index": 7,
       "path": "boundaries/boundaries-007.json",
       "key": "007",
       "entityCount": 500,
-      "bytes": 400070
+      "bytes": 382850
     },
     {
       "index": 8,
       "path": "boundaries/boundaries-008.json",
       "key": "008",
       "entityCount": 500,
-      "bytes": 397082
+      "bytes": 414309
     },
     {
       "index": 9,
       "path": "boundaries/boundaries-009.json",
       "key": "009",
       "entityCount": 500,
-      "bytes": 402959
+      "bytes": 380587
     },
     {
       "index": 10,
       "path": "boundaries/boundaries-010.json",
       "key": "010",
-      "entityCount": 339,
-      "bytes": 287910
+      "entityCount": 369,
+      "bytes": 331367
     }
   ]
 }
