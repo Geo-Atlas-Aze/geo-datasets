@@ -1,0 +1,65 @@
+{
+  "version": "5.0.0-pro-naftalan",
+  "slice": "G2",
+  "inventoryCount": 3,
+  "ownedLocalities": [
+    {
+      "id": "az.naftalan.ferma",
+      "name": "Ferma",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/1385408888"
+    },
+    {
+      "id": "az.naftalan.qasimbeyli",
+      "name": "Qasımbəyli",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1385400186"
+    },
+    {
+      "id": "az.naftalan.qasalti-qaraqoyunlu",
+      "name": "Qaşaltı Qaraqoyunlu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1381804746"
+    }
+  ],
+  "landmarks": 114,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 1,
+  "altSourcePlan": {
+    "allowed": [
+      "osm",
+      "overpass",
+      "nominatim",
+      "wikidata",
+      "wikipedia",
+      "geonames",
+      "overture",
+      "gov"
+    ],
+    "blocked": [
+      "google-places",
+      "yandex",
+      "apple-maps",
+      "foursquare"
+    ],
+    "consulted": {
+      "osm": "primary-overpass-harvest",
+      "overpass": "primary-overpass-harvest",
+      "nominatim": "name-polygon-rescue-and-notable-search",
+      "wikidata": "label-when-qid-present",
+      "wikipedia": "azwiki-sitelink-when-qid-present",
+      "geonames": "adapter-present; dump not auto-loaded (no invented names)",
+      "overture": "adapter-present; places not scraped into slice",
+      "gov": "unavailable:GOV_DIR_EMPTY"
+    }
+  },
+  "notableSeedCount": 8,
+  "demotedAdded": 0,
+  "unnamedDropped": 9,
+  "debt": [],
+  "landOnly": true
+}
