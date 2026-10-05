@@ -1,0 +1,303 @@
+{
+  "version": "5.0.0-pro-siyezen-rich",
+  "slice": "N9",
+  "inventoryCount": 37,
+  "ownedLocalities": [
+    {
+      "id": "az.siyezen.balaca-hemye",
+      "name": "Balaca Həmyə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/943632225"
+    },
+    {
+      "id": "az.siyezen.besdam",
+      "name": "Beşdam",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273677041"
+    },
+    {
+      "id": "az.siyezen.boyuk-hemye",
+      "name": "Böyük Həmyə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274365294"
+    },
+    {
+      "id": "az.siyezen.candahar",
+      "name": "Candahar",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274368674"
+    },
+    {
+      "id": "az.siyezen.carxana",
+      "name": "Çarxana",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275038661"
+    },
+    {
+      "id": "az.siyezen.dag-quscu",
+      "name": "Dağ Quşçu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285106643"
+    },
+    {
+      "id": "az.siyezen.dasli-calgan",
+      "name": "Daşlı Çalğan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275038657"
+    },
+    {
+      "id": "az.siyezen.dere-zarat",
+      "name": "Dərə Zarat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275010644"
+    },
+    {
+      "id": "az.siyezen.eynibulaq",
+      "name": "Eynibulaq",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273677042"
+    },
+    {
+      "id": "az.siyezen.elmekolu",
+      "name": "Əlməkolu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285106651"
+    },
+    {
+      "id": "az.siyezen.erzikus",
+      "name": "Ərziküş",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/402146039"
+    },
+    {
+      "id": "az.siyezen.gilgilcay",
+      "name": "Gilgilçay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274365295"
+    },
+    {
+      "id": "az.siyezen.haciseker",
+      "name": "Hacışəkər",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284496558"
+    },
+    {
+      "id": "az.siyezen.kolani",
+      "name": "Kolanı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274365293"
+    },
+    {
+      "id": "az.siyezen.kohne-quscu",
+      "name": "Köhnə Quşçu",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285110533"
+    },
+    {
+      "id": "az.siyezen.kunovse",
+      "name": "Künövşə",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/402145127"
+    },
+    {
+      "id": "az.siyezen.qalaalti",
+      "name": "Qalaaltı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275079240"
+    },
+    {
+      "id": "az.siyezen.qalasixi",
+      "name": "Qalaşıxı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284090813"
+    },
+    {
+      "id": "az.siyezen.qara-siyezen",
+      "name": "Qara Siyəzən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284120566"
+    },
+    {
+      "id": "az.siyezen.qaragoz",
+      "name": "Qaragöz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285106645"
+    },
+    {
+      "id": "az.siyezen.qereh",
+      "name": "Qərəh",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275079245"
+    },
+    {
+      "id": "az.siyezen.qislaq-sarvan",
+      "name": "Qışlaq Sarvan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/284121885"
+    },
+    {
+      "id": "az.siyezen.qozagaci",
+      "name": "Qozağacı",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275079244"
+    },
+    {
+      "id": "az.siyezen.mesrif",
+      "name": "Məşrif",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275079237"
+    },
+    {
+      "id": "az.siyezen.muskulqazma",
+      "name": "Müşkülqazma",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275038658"
+    },
+    {
+      "id": "az.siyezen.nardaran",
+      "name": "Nardaran",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/774616876"
+    },
+    {
+      "id": "az.siyezen.nardaran-siyezen",
+      "name": "Nardaran Siyəzən",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:node/7227160585"
+    },
+    {
+      "id": "az.siyezen.neft-medenleri",
+      "name": "Neft mədənləri",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/814334765"
+    },
+    {
+      "id": "az.siyezen.neftciler-kendi",
+      "name": "Neftçilər kəndi",
+      "kind": "Neighbourhood",
+      "mode": "OWN",
+      "osm": "geo:way/285221722"
+    },
+    {
+      "id": "az.siyezen.orta-calgan",
+      "name": "Orta Çalğan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275079239"
+    },
+    {
+      "id": "az.siyezen.sagolcan",
+      "name": "Sağolcan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275038659"
+    },
+    {
+      "id": "az.siyezen.sarvan-yenikend",
+      "name": "Sarvan Yenikənd",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273702858"
+    },
+    {
+      "id": "az.siyezen.sedan",
+      "name": "Sədan",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/275038660"
+    },
+    {
+      "id": "az.siyezen.tugay",
+      "name": "Tuğay",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/274365298"
+    },
+    {
+      "id": "az.siyezen.yaniq-elez",
+      "name": "Yanıq Ələz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/285106647"
+    },
+    {
+      "id": "az.siyezen.yuxari-elez",
+      "name": "Yuxarı Ələz",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/1352742702"
+    },
+    {
+      "id": "az.siyezen.zarat",
+      "name": "Zarat",
+      "kind": "Village",
+      "mode": "OWN",
+      "osm": "geo:way/273658767"
+    }
+  ],
+  "landmarks": 75,
+  "metro": 0,
+  "seedAdded": 0,
+  "curatedAdded": 0,
+  "altSourcePlan": {
+    "allowed": [
+      "osm",
+      "overpass",
+      "nominatim",
+      "wikidata",
+      "wikipedia",
+      "geonames",
+      "overture",
+      "gov"
+    ],
+    "blocked": [
+      "google-places",
+      "yandex",
+      "apple-maps",
+      "foursquare"
+    ],
+    "consulted": {
+      "osm": "primary-overpass-harvest",
+      "overpass": "primary-overpass-harvest",
+      "nominatim": "name-polygon-rescue-and-notable-search",
+      "wikidata": "label-when-qid-present",
+      "wikipedia": "azwiki-sitelink-when-qid-present",
+      "geonames": "adapter-present; dump not auto-loaded (no invented names)",
+      "overture": "adapter-present; places not scraped into slice",
+      "gov": "unavailable:GOV_DIR_EMPTY"
+    }
+  },
+  "notableSeedCount": 22,
+  "demotedAdded": 0,
+  "unnamedDropped": 4,
+  "debt": [],
+  "landOnly": true
+}
