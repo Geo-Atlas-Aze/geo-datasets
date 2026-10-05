@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "version": "5.0.0-pro-boundary-restore",
+  "from": "5.0.0-pro-xirdalan-rich",
+  "bakuSeed": "5.0.0-pro-baku-full",
+  "before": 158,
+  "after": 5368,
+  "added": 5210,
+  "chunks": 11,
+  "patchedToOwn": 0,
+  "has": {
+    "az": true,
+    "az.baku": true,
+    "az.baku.yasamal": true,
+    "az.sm": true,
+    "az.abs": true,
+    "az.abs.xirdalan": true
+  },
+  "out": "D:\\azescompany\\GEO_ATLAS_V.1.0.0\\geo-data-generator\\output\\truth\\az\\5.0.0-pro-boundary-restore"
+}
